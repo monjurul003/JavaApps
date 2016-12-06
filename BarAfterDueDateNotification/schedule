@@ -1,0 +1,1 @@
+*/4 * * * * java:com.gpit.tech.es.cs.barafterduedate.notification.Main#executeTask C:\\BarAfterDueDateNotification\\input\\input.xml

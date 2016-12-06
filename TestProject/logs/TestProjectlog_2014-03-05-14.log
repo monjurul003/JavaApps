@@ -1,0 +1,14 @@
+2014-03-05 14:53:24,056 [main] INFO - FileProcessor:: createAndInitFileWithStringContent()-- file created
+2014-03-05 14:53:24,076 [main] INFO - FileProcessor:: createAndInitFileWithStringContent() done
+2014-03-05 14:53:24,076 [main] INFO - FileProcessor:: appendFileWithStringContent()-- file locationG:\Hello.txt
+2014-03-05 14:54:02,308 [main] INFO - FileProcessor:: createAndInitFileWithStringContent() done
+2014-03-05 14:54:02,309 [main] INFO - FileProcessor:: appendFileWithStringContent()-- file locationG:\Hello.txt
+2014-03-05 14:55:31,780 [main] INFO - FileProcessor:: createAndInitFileWithStringContent() done
+2014-03-05 14:55:31,780 [main] INFO - FileProcessor:: appendFileWithStringContent()-- file locationG:\Hello.txt
+2014-03-05 14:55:36,715 [main] INFO - FileProcessor:: createAndInitFileWithStringContent() done
+2014-03-05 14:55:36,715 [main] INFO - FileProcessor:: appendFileWithStringContent()-- file locationG:\Hello.txt
+2014-03-05 14:55:36,717 [main] INFO - FileProcessor:: changeFileToReadOnly() -- started
+2014-03-05 14:55:36,717 [main] INFO - FileProcessor:: changeFileToReadOnly()-- file exists in the designated location
+2014-03-05 14:55:36,717 [main] INFO - FileProcessor:: changeFileToReadOnly()-- This file is writeable
+2014-03-05 14:55:36,717 [main] INFO - FileProcessor:: changeFileToReadOnly()-- make the file read only
+2014-03-05 14:55:36,717 [main] INFO - FileProcessor:: changeFileToReadOnly() completed

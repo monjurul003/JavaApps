@@ -1,0 +1,1653 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!--
+    Document   : forIndenting.xml
+    Created on : August 24, 2013, 11:22 AM
+    Author     : monjurul.k
+    Description:
+        Purpose of the document follows.
+-->
+
+<root>
+    <OrderManagementRequest xmlns="http://gp.lta.com/1.0/schema/OrderManagement">
+        <OrderEntry-Orders>
+            <OperatorId>wsc</OperatorId>
+            <OrderId>ebaffde2-c226</OrderId>
+            <ContractId/>
+            <MSISDN>8801779898233</MSISDN>
+            <ConnectionType>Prepaid</ConnectionType>
+            <Channel>noncrm</Channel>
+            <HLRCode/>
+            <CustomerId/>
+            <SIMSerialNum>8801779898233</SIMSerialNum>
+            <OrderDate>2013-10-06T14:00:43</OrderDate>
+            <SecurityCode>1001</SecurityCode>
+            <ListOfOrderEntry-LineItems>
+                <OrderEntry-LineItems>
+                    <LineItemId>4805ddf7-1709</LineItemId>
+                    <ActionCode>Add</ActionCode>
+                    <PartNumber>edge</PartNumber>
+                    <Remarks/>
+                    <ProductTypeCode>VASService</ProductTypeCode>
+                    <IsDirNumRequired/>
+                    <Status>Pending</Status>
+                    <ListOfOrderItemXa>
+                        <OrderItemXa>
+                            <ActionCode/>
+                            <DateValue/>
+                            <Name>Package</Name>
+                            <NumericValue/>
+                            <PreviousDateValue/>
+                            <PreviousTextValue/>
+                            <TextValue>smartplan_heavy_3g_1mbps</TextValue>
+                        </OrderItemXa>
+                        <OrderItemXa>
+                            <ActionCode/>
+                            <DateValue/>
+                            <Name>ServiceAction</Name>
+                            <NumericValue/>
+                            <PreviousDateValue/>
+                            <PreviousTextValue/>
+                            <TextValue>Activate</TextValue>
+                        </OrderItemXa>
+                    </ListOfOrderItemXa>
+                </OrderEntry-LineItems>
+            </ListOfOrderEntry-LineItems>
+        </OrderEntry-Orders>
+    </OrderManagementRequest>
+    <?xml version="1.0" encoding="UTF-8"?>
+    <soapenv:Envelope xmlns:soapenv="http://schemas.xmlsoap.org/soap/envelope/">
+        <soapenv:Body>
+            <SettingGalleryLogResponse>
+                <SettingGalleryLogItem>
+                    <OperationID>0</OperationID>
+                    <ResultCode>0</ResultCode>
+                    <ReturnCode>000000</ReturnCode>
+                    <SettingGalleryLogDetail>
+                        <RBTCode>5221096</RBTCode>
+                        <SingerName>HridoyKhan</SingerName>
+                        <ToneName>Aral</ToneName>
+                        <ToneValidDay>2030-12-27 23:59:59</ToneValidDay>
+                        <UpdateTime>2011-03-27 18:44:59</UpdateTime>
+                        <Price>1500</Price>
+                        <DownTime>2011-10-27 17:51:52</DownTime>
+                        <Flag>N</Flag>
+                        <ToneAddress>http://10.196.40.21:9998/colorring/rl/601/522/0/0000/0001/096.wav</ToneAddress>
+                    </SettingGalleryLogDetail>
+                    <SettingGalleryLogDetail>
+                        <RBTCode>5352</RBTCode>
+                        <SingerName>Parvez </SingerName>
+                        <ToneName>M BV Jabi Jodi</ToneName>
+                        <ToneValidDay>2020-12-31 23:59:59</ToneValidDay>
+                        <UpdateTime>2010-08-19 12:52:04</UpdateTime>
+                        <Price>1500</Price>
+                        <DownTime>2010-09-03 18:07:16</DownTime>
+                        <Flag>N</Flag>
+                        <ToneAddress>http://10.196.40.21:9998/colorring/rl/601/535/0/0000/0000/002.wav</ToneAddress>
+                    </SettingGalleryLogDetail>
+                    <SettingGalleryLogDetail>
+                        <RBTCode>101010</RBTCode>
+                        <SingerName>GPTune Theme</SingerName>
+                        <ToneName>GPTune</ToneName>
+                        <ToneValidDay>2019-08-31 00:00:00</ToneValidDay>
+                        <UpdateTime>2006-11-14 15:36:38</UpdateTime>
+                        <Price>1500</Price>
+                        <DownTime>2008-10-20 11:27:17</DownTime>
+                        <Flag>N</Flag>
+                        <ToneAddress>http://10.196.40.21:9998/colorring/rl/601/518/0/0000/0000/209.wav</ToneAddress>
+                    </SettingGalleryLogDetail>
+                    <SettingGalleryLogDetail>
+                        <RBTCode>52313</RBTCode>
+                        <SingerName>Topu</SingerName>
+                        <ToneName>Bondhu</ToneName>
+                        <ToneValidDay>2030-12-27 23:59:59</ToneValidDay>
+                        <UpdateTime>2009-09-10 15:58:46</UpdateTime>
+                        <Price>1500</Price>
+                        <DownTime>2012-10-07 15:11:40</DownTime>
+                        <Flag>N</Flag>
+                        <ToneAddress>http://10.196.40.21:9998/colorring/rl/601/523/0/0000/0000/013.wav</ToneAddress>
+                    </SettingGalleryLogDetail>
+                    <SettingGalleryLogDetail>
+                        <RBTCode>101023</RBTCode>
+                        <SingerName>Gp25paisa</SingerName>
+                        <ToneName>Gp25paisa</ToneName>
+                        <ToneValidDay>2019-08-31 00:00:00</ToneValidDay>
+                        <UpdateTime>2008-04-01 14:07:02</UpdateTime>
+                        <Price>1500</Price>
+                        <DownTime>2009-01-18 17:39:40</DownTime>
+                        <Flag>Y</Flag>
+                        <ToneAddress>http://10.196.40.21:9998/colorring/rl/601/518/0/0000/0000/050.wav</ToneAddress>
+                    </SettingGalleryLogDetail>
+                    <SettingGalleryLogDetail>
+                        <RBTCode>554690</RBTCode>
+                        <SingerName>James Taylor</SingerName>
+                        <ToneName>Sweet Baby James</ToneName>
+                        <ToneValidDay>2030-12-27 23:59:59</ToneValidDay>
+                        <UpdateTime>2011-03-06 18:16:42</UpdateTime>
+                        <Price>1500</Price>
+                        <DownTime>2011-10-27 17:31:21</DownTime>
+                        <Flag>N</Flag>
+                        <ToneAddress>http://10.196.40.21:9998/colorring/rl/601/554/0/0000/0000/690.wav</ToneAddress>
+                    </SettingGalleryLogDetail>
+                </SettingGalleryLogItem>
+            </SettingGalleryLogResponse>
+        </soapenv:Body>
+    </soapenv:Envelope>
+    <soapenv:Envelope xmlns:soapenv="http://schemas.xmlsoap.org/soap/envelope/" xmlns:ns="com/gp/lta/ProvisioningManagement/1.0/">
+        <soapenv:Body>
+            <ns:SettingGalleryLogRequest>
+                <ns:OperatorId>wsc</ns:OperatorId>
+                <ns:ChannelId>noncrm</ns:ChannelId>
+                <ns:MSISDN>8801711081503</ns:MSISDN>
+                <ns:ResourceType>1</ns:ResourceType>
+                <ns:ToneBoxID>685150012</ns:ToneBoxID>
+            </ns:SettingGalleryLogRequest>
+        </soapenv:Body>
+    </soapenv:Envelope>
+    <?xml version="1.0" encoding="UTF-8"?>
+    <soapenv:Envelope xmlns:soapenv="http://schemas.xmlsoap.org/soap/envelope/">
+        <soapenv:Body xmlns:soapenc="http://schemas.xmlsoap.org/soap/encoding/" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:user="http://usertonemanage.ivas.huawei.com" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+            <AddRandomizationResponse>
+                <AddRandomizationItem>
+                    <OperationID>0</OperationID>
+                    <ResultCode>0</ResultCode>
+                    <ReturnCode>000000</ReturnCode>
+                    <SettingID>65500748</SettingID>
+                    <ToneBoxID>65320748</ToneBoxID>
+                    <Existing>Y</Existing>
+                </AddRandomizationItem>
+            </AddRandomizationResponse>
+        </soapenv:Body>
+    </soapenv:Envelope>
+    <soapenv:Envelope xmlns:soapenv="http://schemas.xmlsoap.org/soap/envelope/" xmlns:ns="com/gp/lta/ProvisioningManagement/1.0/">
+        <soapenv:Body>
+            <ns:AddRandomizationRequest>
+                <ns:OperatorId>wsc</ns:OperatorId>
+                <ns:ChannelId>selfcare</ns:ChannelId>
+                <ns:MSISDN>8801711081503</ns:MSISDN>
+                <ns:ToneCode>52313</ns:ToneCode>
+                <ns:EndTime></ns:EndTime>
+                <ns:StartTime></ns:StartTime>
+                <ns:TimeType>1</ns:TimeType>
+                <ns:SetType>2</ns:SetType>
+            </ns:AddRandomizationRequest>
+        </soapenv:Body>
+    </soapenv:Envelope>
+    <?xml version="1.0" encoding="UTF-8"?>
+    <soapenv:Envelope xmlns:soapenv="http://schemas.xmlsoap.org/soap/envelope/">
+        <soapenv:Body>
+            <AddRandomizationResponse>
+                <AddRandomizationItem>
+                    <OperationID>0</OperationID>
+                    <ResultCode>0</ResultCode>
+                    <ReturnCode>000000</ReturnCode>
+                    <SettingID>679700021</SettingID>
+                    <ToneBoxID>685270010</ToneBoxID>
+                    <Existing>N</Existing>
+                </AddRandomizationItem>
+            </AddRandomizationResponse>
+        </soapenv:Body>
+    </soapenv:Envelope>
+    <soapenv:Envelope xmlns:soapenv="http://schemas.xmlsoap.org/soap/envelope/" xmlns:ns="com/gp/lta/ProvisioningManagement/1.0/">
+        <soapenv:Body>
+            <ns:AddRandomizationRequest>
+                <ns:OperatorId>wsc</ns:OperatorId>
+                <ns:ChannelId>selfcare</ns:ChannelId>
+                <ns:MSISDN>8801711081503</ns:MSISDN>
+                <ns:ToneCode>52313</ns:ToneCode>
+                <ns:CallerNumber>01711083848</ns:CallerNumber>
+                <ns:EndTime></ns:EndTime>
+                <ns:StartTime></ns:StartTime>
+                <ns:TimeType>1</ns:TimeType>
+                <ns:SetType>4</ns:SetType>
+            </ns:AddRandomizationRequest>
+        </soapenv:Body>
+    </soapenv:Envelope>
+    <soapenv:Envelope xmlns:soapenv="http://schemas.xmlsoap.org/soap/envelope/" xmlns:ns="com/gp/lta/ProvisioningManagement/1.0/">
+        <soapenv:Body>
+            <ns:AddRandomizationRequest>
+                <ns:OperatorId>wsc</ns:OperatorId>
+                <ns:ChannelId>selfcare</ns:ChannelId>
+                <ns:MSISDN>8801711081503</ns:MSISDN>
+                <ns:ToneCode>5224042</ns:ToneCode>
+                <ns:CallerNumber>01711080910</ns:CallerNumber>
+                <ns:EndTime></ns:EndTime>
+                <ns:StartTime></ns:StartTime>
+                <ns:TimeType>1</ns:TimeType>
+                <ns:SetType>4</ns:SetType>
+            </ns:AddRandomizationRequest>
+        </soapenv:Body>
+    </soapenv:Envelope>
+    <soapenv:Envelope xmlns:soapenv="http://schemas.xmlsoap.org/soap/envelope/" xmlns:ns="com/gp/lta/BackUpSim/1.0">
+        <soapenv:Header/>
+        <soapenv:Body>
+            <ns:PinRetrieveRequest>
+                <ns:OperatorId>crm</ns:OperatorId>
+                <ns:MSISDN>8801711223344</ns:MSISDN>
+                <ns:ChannelId>crm</ns:ChannelId>
+            </ns:PinRetrieveRequest>
+        </soapenv:Body>
+    </soapenv:Envelope>
+
+    <soapenv:Envelope xmlns:soapenv="http://schemas.xmlsoap.org/soap/envelope/" xmlns:ns="com/gp/lta/BackUpSim/1.0">
+        <soapenv:Header/>
+        <soapenv:Body>
+            <ns:PinRetrieveRequest>
+         <!--Optional:-->
+                <ns:OperatorId>crm</ns:OperatorId>
+                <ns:MSISDN>8801711223344</ns:MSISDN>
+                <ns:ChannelId>crm</ns:ChannelId>
+            </ns:PinRetrieveRequest>
+        </soapenv:Body>
+    </soapenv:Envelope>
+<?xml version="1.0" encoding="UTF-8"?>
+    <soapenv:Envelope xmlns:soapenv="http://schemas.xmlsoap.org/soap/envelope/">
+        <soapenv:Body xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:user="http://usertonemanage.ivas.huawei.com" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+            <ToneBoxToneResponse>
+                <ToneBoxToneItem>
+                    <OperationID>0</OperationID>
+                    <ResultCode>0</ResultCode>
+                    <ReturnCode>000000</ReturnCode>
+                    <ToneBoxToneDetail>
+                        <CallerNumber/>
+                        <EndTime>2013-09-11 06:13:00</EndTime>
+                        <SetType>2</SetType>
+                        <SettingID>679630016</SettingID>
+                        <StartTime>2013-09-09 00:19:00</StartTime>
+                        <TimeType>6</TimeType>
+                        <ToneBoxID>685140003</ToneBoxID>
+                    </ToneBoxToneDetail>
+                    <ToneBoxToneDetail>
+                        <CallerNumber/>
+                        <EndTime>2003-01-01 00:00:00</EndTime>
+                        <SetType>2</SetType>
+                        <SettingID>65500748</SettingID>
+                        <StartTime>2003-01-01 00:00:00</StartTime>
+                        <TimeType>1</TimeType>
+                        <ToneBoxID>65320748</ToneBoxID>
+                    </ToneBoxToneDetail>
+                </ToneBoxToneItem>
+            </ToneBoxToneResponse>
+        </soapenv:Body>
+    </soapenv:Envelope>
+    <?xml version="1.0" encoding="UTF-8"?>
+    <soapenv:Envelope xmlns:soapenv="http://schemas.xmlsoap.org/soap/envelope/">
+        <soapenv:Body xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:user="http://usertonemanage.ivas.huawei.com" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+            <ToneBoxToneResponse>
+                <ToneBoxToneItem>
+                    <OperationID>0</OperationID>
+                    <ResultCode>0</ResultCode>
+                    <ReturnCode>000000</ReturnCode>
+                    <ToneBoxToneDetail>
+                        <CallerNumber/>
+                        <EndTime>2003-01-01 00:00:00</EndTime>
+                        <SetType>2</SetType>
+                        <SettingID>676195663</SettingID>
+                        <StartTime>2003-01-01 00:00:00</StartTime>
+                        <TimeType>1</TimeType>
+                        <ToneBoxID>681612133</ToneBoxID>
+                    </ToneBoxToneDetail>
+                    <ToneBoxToneDetail>
+                        <CallerNumber>1711082062</CallerNumber>
+                        <EndTime>2003-01-01 22:00:00</EndTime>
+                        <SetType>4</SetType>
+                        <SettingID>678976227</SettingID>
+                        <StartTime>2003-01-01 17:00:00</StartTime>
+                        <TimeType>2</TimeType>
+                        <ToneBoxID>684386243</ToneBoxID>
+                    </ToneBoxToneDetail>
+                    <ToneBoxToneDetail>
+                        <CallerNumber/>
+                        <EndTime>2003-01-01 16:00:00</EndTime>
+                        <SetType>2</SetType>
+                        <SettingID>678976187</SettingID>
+                        <StartTime>2003-01-01 08:00:00</StartTime>
+                        <TimeType>2</TimeType>
+                        <ToneBoxID>684386203</ToneBoxID>
+                    </ToneBoxToneDetail>
+                </ToneBoxToneItem>
+            </ToneBoxToneResponse>
+        </soapenv:Body>
+    </soapenv:Envelope>
+
+     <?xml version="1.0" encoding="UTF-8"?>
+    <soapenv:Envelope xmlns:soapenv="http://schemas.xmlsoap.org/soap/envelope/">
+        <soapenv:Body xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:user="http://usertonemanage.ivas.huawei.com" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+            <ToneBoxToneResponse>
+                <ToneBoxToneItem>
+                    <OperationID>0</OperationID>
+                    <ResultCode>0</ResultCode>
+                    <ReturnCode>000000</ReturnCode>
+                    <ToneBoxToneDetail>
+                        <CallerNumber>2</CallerNumber>
+                        <EndTime>2003-01-01 00:00:00</EndTime>
+                        <SetType>3</SetType>
+                        <SettingID>69452018</SettingID>
+                        <StartTime>2003-01-01 00:00:00</StartTime>
+                        <TimeType>1</TimeType>
+                        <ToneBoxID>69262761</ToneBoxID>
+                    </ToneBoxToneDetail>
+                    <ToneBoxToneDetail>
+                        <CallerNumber>3</CallerNumber>
+                        <EndTime>2003-01-01 00:00:00</EndTime>
+                        <SetType>3</SetType>
+                        <SettingID>675583455</SettingID>
+                        <StartTime>2003-01-01 00:00:00</StartTime>
+                        <TimeType>1</TimeType>
+                        <ToneBoxID>681011114</ToneBoxID>
+                    </ToneBoxToneDetail>
+                    <ToneBoxToneDetail>
+                        <CallerNumber>1711567890</CallerNumber>
+                        <EndTime>2003-01-01 00:00:00</EndTime>
+                        <SetType>4</SetType>
+                        <SettingID>333133</SettingID>
+                        <StartTime>2003-01-01 00:00:00</StartTime>
+                        <TimeType>1</TimeType>
+                        <ToneBoxID>323254</ToneBoxID>
+                    </ToneBoxToneDetail>
+                    <ToneBoxToneDetail>
+                        <CallerNumber/>
+                        <EndTime>2003-01-01 00:00:00</EndTime>
+                        <SetType>2</SetType>
+                        <SettingID>87886520</SettingID>
+                        <StartTime>2003-01-01 00:00:00</StartTime>
+                        <TimeType>1</TimeType>
+                        <ToneBoxID>87556519</ToneBoxID>
+                    </ToneBoxToneDetail>
+                </ToneBoxToneItem>
+            </ToneBoxToneResponse>
+        </soapenv:Body>
+    </soapenv:Envelope>
+
+     <?xml version="1.0" encoding="UTF-8"?>
+    <soapenv:Envelope xmlns:soapenv="http://schemas.xmlsoap.org/soap/envelope/">
+        <soapenv:Body xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:user="http://usertonemanage.ivas.huawei.com" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+            <ToneBoxToneResponse>
+                <ToneBoxToneItem>
+                    <OperationID>0</OperationID>
+                    <ResultCode>0</ResultCode>
+                    <ReturnCode>000000</ReturnCode>
+                    <ToneBoxToneDetail>
+                        <CallerNumber/>
+                        <EndTime>2003-01-01 00:00:00</EndTime>
+                        <SetType>2</SetType>
+                        <SettingID>65500748</SettingID>
+                        <StartTime>2003-01-01 00:00:00</StartTime>
+                        <TimeType>1</TimeType>
+                        <ToneBoxID>65320748</ToneBoxID>
+                    </ToneBoxToneDetail>
+                    <ToneBoxToneDetail>
+                        <CallerNumber>01737888333</CallerNumber>
+                        <EndTime>2003-03-16 23:59:59</EndTime>
+                        <SetType>4</SetType>
+                        <SettingID>679640004</SettingID>
+                        <StartTime>2003-01-15 00:00:00</StartTime>
+                        <TimeType>5</TimeType>
+                        <ToneBoxID>685150012</ToneBoxID>
+                    </ToneBoxToneDetail>
+                    <ToneBoxToneDetail>
+                        <CallerNumber/>
+                        <EndTime>2013-09-11 06:13:00</EndTime>
+                        <SetType>2</SetType>
+                        <SettingID>679630016</SettingID>
+                        <StartTime>2013-09-09 00:19:00</StartTime>
+                        <TimeType>6</TimeType>
+                        <ToneBoxID>685140003</ToneBoxID>
+                    </ToneBoxToneDetail>
+                    <ToneBoxToneDetail>
+                        <CallerNumber/>
+                        <EndTime>2003-01-01 12:00:00</EndTime>
+                        <SetType>2</SetType>
+                        <SettingID>679640005</SettingID>
+                        <StartTime>2003-01-01 06:00:00</StartTime>
+                        <TimeType>2</TimeType>
+                        <ToneBoxID>685150013</ToneBoxID>
+                    </ToneBoxToneDetail>
+                    <ToneBoxToneDetail>
+                        <CallerNumber>01711083848</CallerNumber>
+                        <EndTime>2003-01-14 23:59:59</EndTime>
+                        <SetType>4</SetType>
+                        <SettingID>679640003</SettingID>
+                        <StartTime>2003-01-03 00:00:00</StartTime>
+                        <TimeType>4</TimeType>
+                        <ToneBoxID>685150011</ToneBoxID>
+                    </ToneBoxToneDetail>
+                    <ToneBoxToneDetail>
+                        <CallerNumber/>
+                        <EndTime>2003-01-05 23:59:59</EndTime>
+                        <SetType>2</SetType>
+                        <SettingID>679640002</SettingID>
+                        <StartTime>2003-01-02 00:00:00</StartTime>
+                        <TimeType>3</TimeType>
+                        <ToneBoxID>685150010</ToneBoxID>
+                    </ToneBoxToneDetail>
+                </ToneBoxToneItem>
+            </ToneBoxToneResponse>
+        </soapenv:Body>
+    </soapenv:Envelope>
+    <OrderManagementRequest xmlns="http://gp.lta.com/1.0/schema/OrderManagement">
+        <OrderEntry-Orders>
+            <OperatorId>wsc</OperatorId>
+            <OrderId>c531c127-d6c1</OrderId>
+            <ContractId/>
+            <MSISDN>8801711081503</MSISDN>
+            <ConnectionType>postPaid</ConnectionType>
+            <Channel>noncrm</Channel>
+            <HLRCode/>
+            <CustomerId/>
+            <SIMSerialNum>8801711081503</SIMSerialNum>
+            <OrderDate>2013-08-13T16:55:16</OrderDate>
+            <SecurityCode>1001</SecurityCode>
+            <ListOfOrderEntry-LineItems>
+                <OrderEntry-LineItems>
+                    <LineItemId>d8abd517-0e25</LineItemId>
+                    <ActionCode>Add</ActionCode>
+                    <PartNumber>crbt</PartNumber>
+                    <Remarks/>
+                    <ProductTypeCode>Others</ProductTypeCode>
+                    <IsDirNumRequired/>
+                    <Status>Pending</Status>
+                    <ListOfOrderItemXa>
+                        <OrderItemXa>
+                            <ActionCode/>
+                            <DateValue/>
+                            <Name>ServiceActionCRBT</Name>
+                            <NumericValue/>
+                            <PreviousDateValue/>
+                            <PreviousTextValue/>
+                            <TextValue>Deactive</TextValue>
+                        </OrderItemXa>
+                        <OrderItemXa>
+                            <ActionCode/>
+                            <DateValue/>
+                            <Name>TimeType</Name>
+                            <NumericValue/>
+                            <PreviousDateValue/>
+                            <PreviousTextValue/>
+                            <TextValue/>
+                        </OrderItemXa>
+                        <OrderItemXa>
+                            <ActionCode/>
+                            <DateValue/>
+                            <Name>ToUserPhoneNumber</Name>
+                            <NumericValue/>
+                            <PreviousDateValue/>
+                            <PreviousTextValue/>
+                            <TextValue/>
+                        </OrderItemXa>
+                        <OrderItemXa>
+                            <ActionCode/>
+                            <DateValue/>
+                            <Name>ToneCode</Name>
+                            <NumericValue/>
+                            <PreviousDateValue/>
+                            <PreviousTextValue/>
+                            <TextValue/>
+                        </OrderItemXa>
+                    </ListOfOrderItemXa>
+                </OrderEntry-LineItems>
+            </ListOfOrderEntry-LineItems>
+        </OrderEntry-Orders>
+    </OrderManagementRequest>
+    <OrderManagementRequest xmlns="http://gp.lta.com/1.0/schema/OrderManagement">
+        <OrderEntry-Orders>
+            <OperatorId>wsc</OperatorId>
+            <OrderId>66cfe4e9-883d</OrderId>
+            <ContractId/>
+            <MSISDN>8801711081503</MSISDN>
+            <ConnectionType>postPaid</ConnectionType>
+            <Channel>noncrm</Channel>
+            <HLRCode/>
+            <CustomerId/>
+            <SIMSerialNum>8801711081503</SIMSerialNum>
+            <OrderDate>2013-08-13T16:55:16</OrderDate>
+            <SecurityCode>1001</SecurityCode>
+            <ListOfOrderEntry-LineItems>
+                <OrderEntry-LineItems>
+                    <LineItemId>92435eb0-233c</LineItemId>
+                    <ActionCode>Add</ActionCode>
+                    <PartNumber>crbt</PartNumber>
+                    <Remarks/>
+                    <ProductTypeCode>Others</ProductTypeCode>
+                    <IsDirNumRequired/>
+                    <Status>Pending</Status>
+                    <ListOfOrderItemXa>
+                        <OrderItemXa>
+                            <ActionCode/>
+                            <DateValue/>
+                            <Name>ServiceActionCRBT</Name>
+                            <NumericValue/>
+                            <PreviousDateValue/>
+                            <PreviousTextValue/>
+                            <TextValue>Deactive</TextValue>
+                        </OrderItemXa>
+                        <OrderItemXa>
+                            <ActionCode/>
+                            <DateValue/>
+                            <Name>TimeType</Name>
+                            <NumericValue/>
+                            <PreviousDateValue/>
+                            <PreviousTextValue/>
+                            <TextValue/>
+                        </OrderItemXa>
+                        <OrderItemXa>
+                            <ActionCode/>
+                            <DateValue/>
+                            <Name>ToUserPhoneNumber</Name>
+                            <NumericValue/>
+                            <PreviousDateValue/>
+                            <PreviousTextValue/>
+                            <TextValue/>
+                        </OrderItemXa>
+                        <OrderItemXa>
+                            <ActionCode/>
+                            <DateValue/>
+                            <Name>ToneCode</Name>
+                            <NumericValue/>
+                            <PreviousDateValue/>
+                            <PreviousTextValue/>
+                            <TextValue/>
+                        </OrderItemXa>
+                    </ListOfOrderItemXa>
+                </OrderEntry-LineItems>
+            </ListOfOrderEntry-LineItems>
+        </OrderEntry-Orders>
+    </OrderManagementRequest>
+    <OrderManagementRequest xmlns="http://gp.lta.com/1.0/schema/OrderManagement">
+        <OrderEntry-Orders>
+            <OperatorId>wsc</OperatorId>
+            <OrderId>3944d28d-5576</OrderId>
+            <ContractId/>
+            <MSISDN>8801711081503</MSISDN>
+            <ConnectionType>postPaid</ConnectionType>
+            <Channel>noncrm</Channel>
+            <HLRCode/>
+            <CustomerId/>
+            <SIMSerialNum>8801711081503</SIMSerialNum>
+            <OrderDate>2013-08-22T09:33:55</OrderDate>
+            <SecurityCode>1001</SecurityCode>
+            <ListOfOrderEntry-LineItems>
+                <OrderEntry-LineItems>
+                    <LineItemId>cdb30933-0695</LineItemId>
+                    <ActionCode>Add</ActionCode>
+                    <PartNumber>crbt</PartNumber>
+                    <Remarks/>
+                    <ProductTypeCode>Others</ProductTypeCode>
+                    <IsDirNumRequired/>
+                    <Status>Pending</Status>
+                    <ListOfOrderItemXa>
+                        <OrderItemXa>
+                            <ActionCode/>
+                            <DateValue/>
+                            <Name>ServiceActionCRBT</Name>
+                            <NumericValue/>
+                            <PreviousDateValue/>
+                            <PreviousTextValue/>
+                            <TextValue>Deactive</TextValue>
+                        </OrderItemXa>
+                        <OrderItemXa>
+                            <ActionCode/>
+                            <DateValue/>
+                            <Name>TimeType</Name>
+                            <NumericValue/>
+                            <PreviousDateValue/>
+                            <PreviousTextValue/>
+                            <TextValue/>
+                        </OrderItemXa>
+                        <OrderItemXa>
+                            <ActionCode/>
+                            <DateValue/>
+                            <Name>ToUserPhoneNumber</Name>
+                            <NumericValue/>
+                            <PreviousDateValue/>
+                            <PreviousTextValue/>
+                            <TextValue/>
+                        </OrderItemXa>
+                        <OrderItemXa>
+                            <ActionCode/>
+                            <DateValue/>
+                            <Name>ToneCode</Name>
+                            <NumericValue/>
+                            <PreviousDateValue/>
+                            <PreviousTextValue/>
+                            <TextValue/>
+                        </OrderItemXa>
+                    </ListOfOrderItemXa>
+                </OrderEntry-LineItems>
+            </ListOfOrderEntry-LineItems>
+        </OrderEntry-Orders>
+    </OrderManagementRequest>
+    <OrderManagementRequest xmlns="http://gp.lta.com/1.0/schema/OrderManagement">
+        <OrderEntry-Orders>
+            <OperatorId>wsc</OperatorId>
+            <OrderId>7ef8d8f0-da94</OrderId>
+            <ContractId/>
+            <MSISDN>8801711081503</MSISDN>
+            <ConnectionType>postPaid</ConnectionType>
+            <Channel>noncrm</Channel>
+            <HLRCode/>
+            <CustomerId/>
+            <SIMSerialNum>8801711081503</SIMSerialNum>
+            <OrderDate>2013-08-22T10:25:39</OrderDate>
+            <SecurityCode>1001</SecurityCode>
+            <ListOfOrderEntry-LineItems>
+                <OrderEntry-LineItems>
+                    <LineItemId>a6cf01a5-6c7a</LineItemId>
+                    <ActionCode>Add</ActionCode>
+                    <PartNumber>crbt</PartNumber>
+                    <Remarks/>
+                    <ProductTypeCode>Others</ProductTypeCode>
+                    <IsDirNumRequired/>
+                    <Status>Pending</Status>
+                    <ListOfOrderItemXa>
+                        <OrderItemXa>
+                            <ActionCode/>
+                            <DateValue/>
+                            <Name>ServiceActionCRBT</Name>
+                            <NumericValue/>
+                            <PreviousDateValue/>
+                            <PreviousTextValue/>
+                            <TextValue>Deactive</TextValue>
+                        </OrderItemXa>
+                        <OrderItemXa>
+                            <ActionCode/>
+                            <DateValue/>
+                            <Name>TimeType</Name>
+                            <NumericValue/>
+                            <PreviousDateValue/>
+                            <PreviousTextValue/>
+                            <TextValue/>
+                        </OrderItemXa>
+                        <OrderItemXa>
+                            <ActionCode/>
+                            <DateValue/>
+                            <Name>ToUserPhoneNumber</Name>
+                            <NumericValue/>
+                            <PreviousDateValue/>
+                            <PreviousTextValue/>
+                            <TextValue/>
+                        </OrderItemXa>
+                        <OrderItemXa>
+                            <ActionCode/>
+                            <DateValue/>
+                            <Name>ToneCode</Name>
+                            <NumericValue/>
+                            <PreviousDateValue/>
+                            <PreviousTextValue/>
+                            <TextValue/>
+                        </OrderItemXa>
+                    </ListOfOrderItemXa>
+                </OrderEntry-LineItems>
+            </ListOfOrderEntry-LineItems>
+        </OrderEntry-Orders>
+    </OrderManagementRequest>
+    
+    <!--imam vai-->
+    <?xml version="1.0" encoding="UTF-8"?>
+    <soapenv:Envelope xmlns:soapenv="http://schemas.xmlsoap.org/soap/envelope/">
+        <soapenv:Body xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:user="http://usertonemanage.ivas.huawei.com" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+            <ToneBoxToneResponse>
+                <ToneBoxToneItem>
+                    <OperationID>0</OperationID>
+                    <ResultCode>0</ResultCode>
+                    <ReturnCode>000000</ReturnCode>
+                    <ToneBoxToneDetail>
+                        <CallerNumber/>
+                        <EndTime>2013-09-11 06:13:00</EndTime>
+                        <SetType>2</SetType>
+                        <SettingID>679630016</SettingID>
+                        <StartTime>2013-09-09 00:19:00</StartTime>
+                        <TimeType>6</TimeType>
+                        <ToneBoxID>685140003</ToneBoxID>
+                    </ToneBoxToneDetail>
+                    <ToneBoxToneDetail>
+                        <CallerNumber/>
+                        <EndTime>2003-01-01 18:00:00</EndTime>
+                        <SetType>2</SetType>
+                        <SettingID>679640010</SettingID>
+                        <StartTime>2003-01-01 15:00:00</StartTime>
+                        <TimeType>2</TimeType>
+                        <ToneBoxID>685150018</ToneBoxID>
+                    </ToneBoxToneDetail>
+                    <ToneBoxToneDetail>
+                        <CallerNumber>01737888333</CallerNumber>
+                        <EndTime>2003-03-16 23:59:59</EndTime>
+                        <SetType>4</SetType>
+                        <SettingID>679640004</SettingID>
+                        <StartTime>2003-01-15 00:00:00</StartTime>
+                        <TimeType>5</TimeType>
+                        <ToneBoxID>685150012</ToneBoxID>
+                    </ToneBoxToneDetail>
+                    <ToneBoxToneDetail>
+                        <CallerNumber>01711083848</CallerNumber>
+                        <EndTime>2003-01-14 23:59:59</EndTime>
+                        <SetType>4</SetType>
+                        <SettingID>679640003</SettingID>
+                        <StartTime>2003-01-03 00:00:00</StartTime>
+                        <TimeType>4</TimeType>
+                        <ToneBoxID>685150011</ToneBoxID>
+                    </ToneBoxToneDetail>
+                    <ToneBoxToneDetail>
+                        <CallerNumber/>
+                        <EndTime>2003-01-01 00:00:00</EndTime>
+                        <SetType>2</SetType>
+                        <SettingID>65500748</SettingID>
+                        <StartTime>2003-01-01 00:00:00</StartTime>
+                        <TimeType>1</TimeType>
+                        <ToneBoxID>65320748</ToneBoxID>
+                    </ToneBoxToneDetail>
+                    <ToneBoxToneDetail>
+                        <CallerNumber>01711083848</CallerNumber>
+                        <EndTime>2003-01-01 19:00:00</EndTime>
+                        <SetType>4</SetType>
+                        <SettingID>679640012</SettingID>
+                        <StartTime>2003-01-01 17:00:00</StartTime>
+                        <TimeType>2</TimeType>
+                        <ToneBoxID>685150020</ToneBoxID>
+                    </ToneBoxToneDetail>
+                    <ToneBoxToneDetail>
+                        <CallerNumber>01711083848</CallerNumber>
+                        <EndTime>2003-01-01 00:00:00</EndTime>
+                        <SetType>4</SetType>
+                        <SettingID>679640011</SettingID>
+                        <StartTime>2003-01-01 00:00:00</StartTime>
+                        <TimeType>1</TimeType>
+                        <ToneBoxID>685150019</ToneBoxID>
+                    </ToneBoxToneDetail>
+                    <ToneBoxToneDetail>
+                        <CallerNumber/>
+                        <EndTime>2003-01-05 23:59:59</EndTime>
+                        <SetType>2</SetType>
+                        <SettingID>679640002</SettingID>
+                        <StartTime>2003-01-02 00:00:00</StartTime>
+                        <TimeType>3</TimeType>
+                        <ToneBoxID>685150010</ToneBoxID>
+                    </ToneBoxToneDetail>
+                </ToneBoxToneItem>
+            </ToneBoxToneResponse>
+        </soapenv:Body>
+    </soapenv:Envelope>
+<!--01711080012-->
+    <?xml version="1.0" encoding="UTF-8"?>
+    <soapenv:Envelope xmlns:soapenv="http://schemas.xmlsoap.org/soap/envelope/">
+        <soapenv:Body xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:user="http://usertonemanage.ivas.huawei.com" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+            <ToneBoxToneResponse>
+                <ToneBoxToneItem>
+                    <OperationID>0</OperationID>
+                    <ResultCode>0</ResultCode>
+                    <ReturnCode>000000</ReturnCode>
+                    <ToneBoxToneDetail>
+                        <CallerNumber>3</CallerNumber>
+                        <EndTime>2003-01-01 00:00:00</EndTime>
+                        <SetType>3</SetType>
+                        <SettingID>675583455</SettingID>
+                        <StartTime>2003-01-01 00:00:00</StartTime>
+                        <TimeType>1</TimeType>
+                        <ToneBoxID>681011114</ToneBoxID>
+                    </ToneBoxToneDetail>
+                    <ToneBoxToneDetail>
+                        <CallerNumber/>
+                        <EndTime>2003-01-01 00:00:00</EndTime>
+                        <SetType>2</SetType>
+                        <SettingID>87886520</SettingID>
+                        <StartTime>2003-01-01 00:00:00</StartTime>
+                        <TimeType>1</TimeType>
+                        <ToneBoxID>87556519</ToneBoxID>
+                    </ToneBoxToneDetail>
+                    <ToneBoxToneDetail>
+                        <CallerNumber>1711567890</CallerNumber>
+                        <EndTime>2003-01-01 00:00:00</EndTime>
+                        <SetType>4</SetType>
+                        <SettingID>333133</SettingID>
+                        <StartTime>2003-01-01 00:00:00</StartTime>
+                        <TimeType>1</TimeType>
+                        <ToneBoxID>323254</ToneBoxID>
+                    </ToneBoxToneDetail>
+                    <ToneBoxToneDetail>
+                        <CallerNumber>2</CallerNumber>
+                        <EndTime>2003-01-01 00:00:00</EndTime>
+                        <SetType>3</SetType>
+                        <SettingID>69452018</SettingID>
+                        <StartTime>2003-01-01 00:00:00</StartTime>
+                        <TimeType>1</TimeType>
+                        <ToneBoxID>69262761</ToneBoxID>
+                    </ToneBoxToneDetail>
+                </ToneBoxToneItem>
+            </ToneBoxToneResponse>
+        </soapenv:Body>
+    </soapenv:Envelope>
+
+     <?xml version="1.0" encoding="UTF-8"?>
+    <soapenv:Envelope xmlns:soapenv="http://schemas.xmlsoap.org/soap/envelope/">
+        <soapenv:Body xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:user="http://usertonemanage.ivas.huawei.com" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+            <ToneBoxToneResponse>
+                <ToneBoxToneItem>
+                    <OperationID>0</OperationID>
+                    <ResultCode>0</ResultCode>
+                    <ReturnCode>000000</ReturnCode>
+                    <ToneBoxToneDetail>
+                        <CallerNumber>01711083848</CallerNumber>
+                        <EndTime>2003-01-01 00:00:00</EndTime>
+                        <SetType>4</SetType>
+                        <SettingID>679640011</SettingID>
+                        <StartTime>2003-01-01 00:00:00</StartTime>
+                        <TimeType>1</TimeType>
+                        <ToneBoxID>685150019</ToneBoxID>
+                    </ToneBoxToneDetail>
+                    <ToneBoxToneDetail>
+                        <CallerNumber>01737888333</CallerNumber>
+                        <EndTime>2003-03-16 23:59:59</EndTime>
+                        <SetType>4</SetType>
+                        <SettingID>679640004</SettingID>
+                        <StartTime>2003-01-15 00:00:00</StartTime>
+                        <TimeType>5</TimeType>
+                        <ToneBoxID>685150012</ToneBoxID>
+                    </ToneBoxToneDetail>
+                    <ToneBoxToneDetail>
+                        <CallerNumber>01711083848</CallerNumber>
+                        <EndTime>2003-01-01 19:00:00</EndTime>
+                        <SetType>4</SetType>
+                        <SettingID>679640012</SettingID>
+                        <StartTime>2003-01-01 17:00:00</StartTime>
+                        <TimeType>2</TimeType>
+                        <ToneBoxID>685150020</ToneBoxID>
+                    </ToneBoxToneDetail>
+                    <ToneBoxToneDetail>
+                        <CallerNumber>01711083848</CallerNumber>
+                        <EndTime>2003-01-14 23:59:59</EndTime>
+                        <SetType>4</SetType>
+                        <SettingID>679640003</SettingID>
+                        <StartTime>2003-01-03 00:00:00</StartTime>
+                        <TimeType>4</TimeType>
+                        <ToneBoxID>685150011</ToneBoxID>
+                    </ToneBoxToneDetail>
+                    <ToneBoxToneDetail>
+                        <CallerNumber/>
+                        <EndTime>2003-01-05 23:59:59</EndTime>
+                        <SetType>2</SetType>
+                        <SettingID>679640002</SettingID>
+                        <StartTime>2003-01-02 00:00:00</StartTime>
+                        <TimeType>3</TimeType>
+                        <ToneBoxID>685150010</ToneBoxID>
+                    </ToneBoxToneDetail>
+                    <ToneBoxToneDetail>
+                        <CallerNumber/>
+                        <EndTime>2003-01-01 18:00:00</EndTime>
+                        <SetType>2</SetType>
+                        <SettingID>679640010</SettingID>
+                        <StartTime>2003-01-01 15:00:00</StartTime>
+                        <TimeType>2</TimeType>
+                        <ToneBoxID>685150018</ToneBoxID>
+                    </ToneBoxToneDetail>
+                    <ToneBoxToneDetail>
+                        <CallerNumber/>
+                        <EndTime>2013-09-11 06:13:00</EndTime>
+                        <SetType>2</SetType>
+                        <SettingID>679630016</SettingID>
+                        <StartTime>2013-09-09 00:19:00</StartTime>
+                        <TimeType>6</TimeType>
+                        <ToneBoxID>685140003</ToneBoxID>
+                    </ToneBoxToneDetail>
+                    <ToneBoxToneDetail>
+                        <CallerNumber/>
+                        <EndTime>2003-01-01 00:00:00</EndTime>
+                        <SetType>2</SetType>
+                        <SettingID>65500748</SettingID>
+                        <StartTime>2003-01-01 00:00:00</StartTime>
+                        <TimeType>1</TimeType>
+                        <ToneBoxID>65320748</ToneBoxID>
+                    </ToneBoxToneDetail>
+                </ToneBoxToneItem>
+            </ToneBoxToneResponse>
+        </soapenv:Body>
+    </soapenv:Envelope>
+
+
+    <!--shoeb vai-->
+
+    <?xml version="1.0" encoding="UTF-8"?>
+    <soapenv:Envelope xmlns:soapenv="http://schemas.xmlsoap.org/soap/envelope/">
+        <soapenv:Header xmlns:ns="com/gp/lta/CRBT/1.0/"/>
+        <soapenv:Body xmlns:ns="com/gp/lta/CRBT/1.0/">
+            <QueryResponse>
+                <QueryItem>
+                    <OperationID>0</OperationID>
+                    <ResultCode>0</ResultCode>
+                    <ReturnCode>000000</ReturnCode>
+                    <UserStatus>
+                        <Status>Paused</Status>
+                        <MonthFreeEndDay>20130917235959000</MonthFreeEndDay>
+                        <Operator>CCC</Operator>
+                        <RegisterTime>20130612190616000</RegisterTime>
+                    </UserStatus>
+                </QueryItem>
+            </QueryResponse>
+        </soapenv:Body>
+    </soapenv:Envelope>
+
+    <?xml version="1.0" encoding="UTF-8"?>
+    <soapenv:Envelope xmlns:soapenv="http://schemas.xmlsoap.org/soap/envelope/">
+        <soapenv:Body xmlns:ns="com/gp/lta/CRBT/1.0/">
+            <ToneBoxToneResponse>
+                <ToneBoxToneItem>
+                    <OperationID>0</OperationID>
+                    <ResultCode>0</ResultCode>
+                    <ReturnCode>000000</ReturnCode>
+                    <ToneBoxToneDetail>
+                        <CallerNumber/>
+                        <EndTime>2013-07-01 23:59:00</EndTime>
+                        <SetType>3</SetType>
+                        <StartTime>2013-07-01 0:0:00</StartTime>
+                        <TimeType>1</TimeType>
+                    </ToneBoxToneDetail>
+                </ToneBoxToneItem>
+            </ToneBoxToneResponse>
+        </soapenv:Body>
+    </soapenv:Envelope>
+
+    <!--Imam vai -->
+    <?xml version="1.0" encoding="UTF-8"?>
+    <soapenv:Envelope xmlns:soapenv="http://schemas.xmlsoap.org/soap/envelope/">
+        <soapenv:Header xmlns:ns="com/gp/lta/CRBT/1.0/"/>
+        <soapenv:Body xmlns:ns="com/gp/lta/CRBT/1.0/">
+            <QueryResponse>
+                <QueryItem>
+                    <OperationID>0</OperationID>
+                    <ResultCode>0</ResultCode>
+                    <ReturnCode>000000</ReturnCode>
+                    <UserStatus>
+                        <Status>Activated</Status>
+                        <MonthFreeEndDay>20131012232901000</MonthFreeEndDay>
+                        <Operator>CCC</Operator>
+                        <RegisterTime>20130912232917000</RegisterTime>
+                    </UserStatus>
+                </QueryItem>
+            </QueryResponse>
+        </soapenv:Body>
+    </soapenv:Envelope>
+
+    <?xml version="1.0" encoding="UTF-8"?>
+    <soapenv:Envelope xmlns:soapenv="http://schemas.xmlsoap.org/soap/envelope/">
+        <soapenv:Body xmlns:ns="com/gp/lta/CRBT/1.0/">
+            <ToneBoxToneResponse>
+                <ToneBoxToneItem>
+                    <OperationID>0</OperationID>
+                    <ResultCode>0</ResultCode>
+                    <ReturnCode>000000</ReturnCode>
+                    <ToneBoxToneDetail>
+                        <CallerNumber/>
+                        <EndTime>2013-07-01 23:59:00</EndTime>
+                        <SetType>3</SetType>
+                        <StartTime>2013-07-01 0:0:00</StartTime>
+                        <TimeType>1</TimeType>
+                    </ToneBoxToneDetail>
+                    <ToneBoxToneDetail>
+                        <CallerNumber/>
+                        <EndTime>2003-01-05 23:59:59</EndTime>
+                        <SetType>2</SetType>
+                        <SettingID>679640002</SettingID>
+                        <StartTime>2003-01-02 00:00:00</StartTime>
+                        <TimeType>3</TimeType>
+                        <ToneBoxID>685150010</ToneBoxID>
+                    </ToneBoxToneDetail>
+                </ToneBoxToneItem>
+            </ToneBoxToneResponse>
+        </soapenv:Body>
+    </soapenv:Envelope>
+
+    <?xml version="1.0" encoding="UTF-8"?>
+    <soapenv:Envelope xmlns:soapenv="http://schemas.xmlsoap.org/soap/envelope/">
+        <soapenv:Body xmlns:ns="com/gp/lta/CRBT/1.0/">
+            <QueryToneResponse>
+                <QueryToneItem>
+                    <OperationID>0</OperationID>
+                    <ResultCode>0</ResultCode>
+                    <ReturnCode>000000</ReturnCode>
+                    <QueryToneInfosDetail>
+                        <ToneCode>5541647</ToneCode>
+                        <ToneName>Prem Koria</ToneName>
+                        <SingerName>Partho</SingerName>
+                        <ToneValidDay>20370101000000</ToneValidDay>
+                        <Price>15</Price>
+                        <Status>1</Status>
+                    </QueryToneInfosDetail>
+                    <QueryToneInfosDetail>
+                        <ToneCode>662004</ToneCode>
+                        <ToneName>Miss Korchi Toke</ToneName>
+                        <SingerName>Partho</SingerName>
+                        <ToneValidDay>20370101000000</ToneValidDay>
+                        <Price>15</Price>
+                        <Status>1</Status>
+                    </QueryToneInfosDetail>
+                    <QueryToneInfosDetail>
+                        <ToneCode>662008</ToneCode>
+                        <ToneName>Tomar Jonno Oronno</ToneName>
+                        <SingerName>Partho</SingerName>
+                        <ToneValidDay>20370101000000</ToneValidDay>
+                        <Price>15</Price>
+                        <Status>1</Status>
+                    </QueryToneInfosDetail>
+                    <QueryToneInfosDetail>
+                        <ToneCode>3247586</ToneCode>
+                        <ToneName>Mone Pore Tomay- Partho</ToneName>
+                        <SingerName>Partho</SingerName>
+                        <ToneValidDay>20251231000000</ToneValidDay>
+                        <Price>15</Price>
+                        <Status>1</Status>
+                    </QueryToneInfosDetail>
+                    <QueryToneInfosDetail>
+                        <ToneCode>5542768</ToneCode>
+                        <ToneName>Oprokasito</ToneName>
+                        <SingerName>Partho Baruya</SingerName>
+                        <ToneValidDay>20370101000000</ToneValidDay>
+                        <Price>15</Price>
+                        <Status>1</Status>
+                    </QueryToneInfosDetail>
+                    <QueryToneInfosDetail>
+                        <ToneCode>5543592</ToneCode>
+                        <ToneName>Prem Koria</ToneName>
+                        <SingerName>Partho Baruya</SingerName>
+                        <ToneValidDay>20370101000000</ToneValidDay>
+                        <Price>15</Price>
+                        <Status>1</Status>
+                    </QueryToneInfosDetail>
+                    <QueryToneInfosDetail>
+                        <ToneCode>535404</ToneCode>
+                        <ToneName>Shudurtoma</ToneName>
+                        <SingerName>Partho Barua</SingerName>
+                        <ToneValidDay>20370101000000</ToneValidDay>
+                        <Price>15</Price>
+                        <Status>1</Status>
+                    </QueryToneInfosDetail>
+                    <QueryToneInfosDetail>
+                        <ToneCode>556994</ToneCode>
+                        <ToneName>Tomar Oi Montake</ToneName>
+                        <SingerName>Partho Boruya</SingerName>
+                        <ToneValidDay>20370101000000</ToneValidDay>
+                        <Price>15</Price>
+                        <Status>1</Status>
+                    </QueryToneInfosDetail>
+                    <QueryToneInfosDetail>
+                        <ToneCode>533134</ToneCode>
+                        <ToneName>Tomer Jonno Shob</ToneName>
+                        <SingerName>Partho Barua</SingerName>
+                        <ToneValidDay>20370101000000</ToneValidDay>
+                        <Price>15</Price>
+                        <Status>1</Status>
+                    </QueryToneInfosDetail>
+                    <QueryToneInfosDetail>
+                        <ToneCode>522218</ToneCode>
+                        <ToneName>Bhul Thikana</ToneName>
+                        <SingerName>Partho Borua</SingerName>
+                        <ToneValidDay>20370101000000</ToneValidDay>
+                        <Price>15</Price>
+                        <Status>1</Status>
+                    </QueryToneInfosDetail>
+                    <QueryToneInfosDetail>
+                        <ToneCode>3148771</ToneCode>
+                        <ToneName>Shudurtoma- Partho Barua</ToneName>
+                        <SingerName>Partho Barua</SingerName>
+                        <ToneValidDay>20251231000000</ToneValidDay>
+                        <Price>15</Price>
+                        <Status>1</Status>
+                    </QueryToneInfosDetail>
+                    <QueryToneInfosDetail>
+                        <ToneCode>3254698</ToneCode>
+                        <ToneName>Bolini Kono</ToneName>
+                        <SingerName>Partho Boruwa</SingerName>
+                        <ToneValidDay>20350904000000</ToneValidDay>
+                        <Price>15</Price>
+                        <Status>1</Status>
+                    </QueryToneInfosDetail>
+                    <QueryToneInfosDetail>
+                        <ToneCode>3248469</ToneCode>
+                        <ToneName>Bhul Kore Bhule Jabo</ToneName>
+                        <SingerName>Partho Barua</SingerName>
+                        <ToneValidDay>20350827000000</ToneValidDay>
+                        <Price>15</Price>
+                        <Status>1</Status>
+                    </QueryToneInfosDetail>
+                    <QueryToneInfosDetail>
+                        <ToneCode>5639603</ToneCode>
+                        <ToneName>Dhun</ToneName>
+                        <SingerName>Partho Sarathy</SingerName>
+                        <ToneValidDay>20370101000000</ToneValidDay>
+                        <Price>15</Price>
+                        <Status>1</Status>
+                    </QueryToneInfosDetail>
+                    <QueryToneInfosDetail>
+                        <ToneCode>56310969</ToneCode>
+                        <ToneName>Raga Des</ToneName>
+                        <SingerName>Partho Sarathy</SingerName>
+                        <ToneValidDay>20370101000000</ToneValidDay>
+                        <Price>15</Price>
+                        <Status>1</Status>
+                    </QueryToneInfosDetail>
+                    <QueryToneInfosDetail>
+                        <ToneCode>3248467</ToneCode>
+                        <ToneName>Akash Jure Tarar Mela</ToneName>
+                        <SingerName>Bappa Partho and Elita</SingerName>
+                        <ToneValidDay>20350827000000</ToneValidDay>
+                        <Price>15</Price>
+                        <Status>1</Status>
+                    </QueryToneInfosDetail>
+                    <QueryToneInfosDetail>
+                        <ToneCode>5639607</ToneCode>
+                        <ToneName>Dhun</ToneName>
+                        <SingerName>Shubhendra Rao n Partho Sarathy</SingerName>
+                        <ToneValidDay>20370101000000</ToneValidDay>
+                        <Price>15</Price>
+                        <Status>1</Status>
+                    </QueryToneInfosDetail>
+                    <QueryToneInfosDetail>
+                        <ToneCode>533100</ToneCode>
+                        <ToneName>Voi</ToneName>
+                        <SingerName>Prithwi</SingerName>
+                        <ToneValidDay>20370101000000</ToneValidDay>
+                        <Price>15</Price>
+                        <Status>1</Status>
+                    </QueryToneInfosDetail>
+                    <QueryToneInfosDetail>
+                        <ToneCode>5666056</ToneCode>
+                        <ToneName>Keno Tumi Priyo Ele Na Balo</ToneName>
+                        <SingerName>Bharathy</SingerName>
+                        <ToneValidDay>20370101000000</ToneValidDay>
+                        <Price>15</Price>
+                        <Status>1</Status>
+                    </QueryToneInfosDetail>
+                    <QueryToneInfosDetail>
+                        <ToneCode>5668967</ToneCode>
+                        <ToneName>Nomads</ToneName>
+                        <SingerName>Kundan Saha n Subhomoy Chowdhury n Partho Banerjee n Sub</SingerName>
+                        <ToneValidDay>20370101000000</ToneValidDay>
+                        <Price>15</Price>
+                        <Status>1</Status>
+                    </QueryToneInfosDetail>
+                    <QueryToneInfosDetail>
+                        <ToneCode>5352157</ToneCode>
+                        <ToneName>Tumi Ki Amar Sathe</ToneName>
+                        <SingerName>Prithwiraj and Pritha</SingerName>
+                        <ToneValidDay>20370101000000</ToneValidDay>
+                        <Price>15</Price>
+                        <Status>1</Status>
+                    </QueryToneInfosDetail>
+                    <QueryToneInfosDetail>
+                        <ToneCode>3205296</ToneCode>
+                        <ToneName>Aankh Mare_Parthiv Gohil.wav</ToneName>
+                        <SingerName>Parthiv Gohil</SingerName>
+                        <ToneValidDay>20370731000000</ToneValidDay>
+                        <Price>15</Price>
+                        <Status>1</Status>
+                    </QueryToneInfosDetail>
+                    <QueryToneInfosDetail>
+                        <ToneCode>3206325</ToneCode>
+                        <ToneName>Dhol Taro Dhoom Machave_Parthiv Gohil.wav</ToneName>
+                        <SingerName>Parthiv Gohil</SingerName>
+                        <ToneValidDay>20370731000000</ToneValidDay>
+                        <Price>15</Price>
+                        <Status>1</Status>
+                    </QueryToneInfosDetail>
+                    <QueryToneInfosDetail>
+                        <ToneCode>3205295</ToneCode>
+                        <ToneName>Aakal Vikal Aankh Kaan_Parthiv Gohil.wav</ToneName>
+                        <SingerName>Parthiv Gohil</SingerName>
+                        <ToneValidDay>20370731000000</ToneValidDay>
+                        <Price>15</Price>
+                        <Status>1</Status>
+                    </QueryToneInfosDetail>
+                    <QueryToneInfosDetail>
+                        <ToneCode>3207109</ToneCode>
+                        <ToneName>Halardu_Parthiv Gohil.wav</ToneName>
+                        <SingerName>Parthiv Gohil</SingerName>
+                        <ToneValidDay>20370731000000</ToneValidDay>
+                        <Price>15</Price>
+                        <Status>1</Status>
+                    </QueryToneInfosDetail>
+                    <QueryToneInfosDetail>
+                        <ToneCode>3212136</ToneCode>
+                        <ToneName>Kunchi Aapo Baiji_Parthiv Gohil</ToneName>
+                        <SingerName>Parthiv Gohil</SingerName>
+                        <ToneValidDay>20370731000000</ToneValidDay>
+                        <Price>15</Price>
+                        <Status>1</Status>
+                    </QueryToneInfosDetail>
+                    <QueryToneInfosDetail>
+                        <ToneCode>3212077</ToneCode>
+                        <ToneName>Kanudo Shun Jaane_Parthiv Gohil</ToneName>
+                        <SingerName>Parthiv Gohil</SingerName>
+                        <ToneValidDay>20370731000000</ToneValidDay>
+                        <Price>15</Price>
+                        <Status>1</Status>
+                    </QueryToneInfosDetail>
+                    <QueryToneInfosDetail>
+                        <ToneCode>3212563</ToneCode>
+                        <ToneName>Mare Aani Kor Zavun Se_Parthiv Gohil</ToneName>
+                        <SingerName>Parthiv Gohil</SingerName>
+                        <ToneValidDay>20370731000000</ToneValidDay>
+                        <Price>15</Price>
+                        <Status>1</Status>
+                    </QueryToneInfosDetail>
+                    <QueryToneInfosDetail>
+                        <ToneCode>3213189</ToneCode>
+                        <ToneName>Na Chadiya Hathiyar_Parthiv Gohil</ToneName>
+                        <SingerName>Parthiv Gohil</SingerName>
+                        <ToneValidDay>20370731000000</ToneValidDay>
+                        <Price>15</Price>
+                        <Status>1</Status>
+                    </QueryToneInfosDetail>
+                    <QueryToneInfosDetail>
+                        <ToneCode>535627</ToneCode>
+                        <ToneName>Rasta Dekhe Dekhe Prithwiraj</ToneName>
+                        <SingerName>Prithwiraj</SingerName>
+                        <ToneValidDay>20370101000000</ToneValidDay>
+                        <Price>15</Price>
+                        <Status>1</Status>
+                    </QueryToneInfosDetail>
+                    <QueryToneInfosDetail>
+                        <ToneCode>5561805</ToneCode>
+                        <ToneName>Paye Paye</ToneName>
+                        <SingerName>Partha Barua</SingerName>
+                        <ToneValidDay>20370101000000</ToneValidDay>
+                        <Price>15</Price>
+                        <Status>1</Status>
+                    </QueryToneInfosDetail>
+                    <QueryToneInfosDetail>
+                        <ToneCode>512931</ToneCode>
+                        <ToneName>Bak Bak Bak Bakum</ToneName>
+                        <SingerName>Prithila</SingerName>
+                        <ToneValidDay>20370101000000</ToneValidDay>
+                        <Price>15</Price>
+                        <Status>1</Status>
+                    </QueryToneInfosDetail>
+                    <QueryToneInfosDetail>
+                        <ToneCode>512930</ToneCode>
+                        <ToneName>Padmakuri Theme Song</ToneName>
+                        <SingerName>Prithila</SingerName>
+                        <ToneValidDay>20370101000000</ToneValidDay>
+                        <Price>15</Price>
+                        <Status>1</Status>
+                    </QueryToneInfosDetail>
+                    <QueryToneInfosDetail>
+                        <ToneCode>535629</ToneCode>
+                        <ToneName>Tor Chobi</ToneName>
+                        <SingerName>Prithwiraj</SingerName>
+                        <ToneValidDay>20370101000000</ToneValidDay>
+                        <Price>15</Price>
+                        <Status>1</Status>
+                    </QueryToneInfosDetail>
+                    <QueryToneInfosDetail>
+                        <ToneCode>535623</ToneCode>
+                        <ToneName>Chokher Kone</ToneName>
+                        <SingerName>Prithwiraj</SingerName>
+                        <ToneValidDay>20370101000000</ToneValidDay>
+                        <Price>15</Price>
+                        <Status>1</Status>
+                    </QueryToneInfosDetail>
+                    <QueryToneInfosDetail>
+                        <ToneCode>535626</ToneCode>
+                        <ToneName>Nodita</ToneName>
+                        <SingerName>Prithwiraj</SingerName>
+                        <ToneValidDay>20370101000000</ToneValidDay>
+                        <Price>15</Price>
+                        <Status>1</Status>
+                    </QueryToneInfosDetail>
+                    <QueryToneInfosDetail>
+                        <ToneCode>518221</ToneCode>
+                        <ToneName>Bijoyer Golpo Boli</ToneName>
+                        <SingerName>Prithwiraj</SingerName>
+                        <ToneValidDay>20370101000000</ToneValidDay>
+                        <Price>15</Price>
+                        <Status>1</Status>
+                    </QueryToneInfosDetail>
+                    <QueryToneInfosDetail>
+                        <ToneCode>535625</ToneCode>
+                        <ToneName>Kokhono Shesh Raate</ToneName>
+                        <SingerName>Prithwiraj</SingerName>
+                        <ToneValidDay>20370101000000</ToneValidDay>
+                        <Price>15</Price>
+                        <Status>1</Status>
+                    </QueryToneInfosDetail>
+                    <QueryToneInfosDetail>
+                        <ToneCode>535624</ToneCode>
+                        <ToneName>Khule Dili</ToneName>
+                        <SingerName>Prithwiraj</SingerName>
+                        <ToneValidDay>20370101000000</ToneValidDay>
+                        <Price>15</Price>
+                        <Status>1</Status>
+                    </QueryToneInfosDetail>
+                    <QueryToneInfosDetail>
+                        <ToneCode>535622</ToneCode>
+                        <ToneName>Chokher Kone Acoustic</ToneName>
+                        <SingerName>Prithwiraj</SingerName>
+                        <ToneValidDay>20370101000000</ToneValidDay>
+                        <Price>15</Price>
+                        <Status>1</Status>
+                    </QueryToneInfosDetail>
+                    <QueryToneInfosDetail>
+                        <ToneCode>542455</ToneCode>
+                        <ToneName>Pronoy Bela</ToneName>
+                        <SingerName>Prithak</SingerName>
+                        <ToneValidDay>20370101000000</ToneValidDay>
+                        <Price>15</Price>
+                        <Status>1</Status>
+                    </QueryToneInfosDetail>
+                    <QueryToneInfosDetail>
+                        <ToneCode>5221330</ToneCode>
+                        <ToneName>Hotasha</ToneName>
+                        <SingerName>Parthibo</SingerName>
+                        <ToneValidDay>20370101000000</ToneValidDay>
+                        <Price>15</Price>
+                        <Status>1</Status>
+                    </QueryToneInfosDetail>
+                    <QueryToneInfosDetail>
+                        <ToneCode>5221323</ToneCode>
+                        <ToneName>Bachbe Naki</ToneName>
+                        <SingerName>Parthibo</SingerName>
+                        <ToneValidDay>20370101000000</ToneValidDay>
+                        <Price>15</Price>
+                        <Status>1</Status>
+                    </QueryToneInfosDetail>
+                    <QueryToneInfosDetail>
+                        <ToneCode>5221328</ToneCode>
+                        <ToneName>Durniti</ToneName>
+                        <SingerName>Parthibo</SingerName>
+                        <ToneValidDay>20370101000000</ToneValidDay>
+                        <Price>15</Price>
+                        <Status>1</Status>
+                    </QueryToneInfosDetail>
+                    <QueryToneInfosDetail>
+                        <ToneCode>5221327</ToneCode>
+                        <ToneName>Dome Dome</ToneName>
+                        <SingerName>Parthibo</SingerName>
+                        <ToneValidDay>20370101000000</ToneValidDay>
+                        <Price>15</Price>
+                        <Status>1</Status>
+                    </QueryToneInfosDetail>
+                    <QueryToneInfosDetail>
+                        <ToneCode>5221325</ToneCode>
+                        <ToneName>Brishti Hobo</ToneName>
+                        <SingerName>Parthibo</SingerName>
+                        <ToneValidDay>20370101000000</ToneValidDay>
+                        <Price>15</Price>
+                        <Status>1</Status>
+                    </QueryToneInfosDetail>
+                    <QueryToneInfosDetail>
+                        <ToneCode>5221333</ToneCode>
+                        <ToneName>Rong</ToneName>
+                        <SingerName>Parthibo</SingerName>
+                        <ToneValidDay>20370101000000</ToneValidDay>
+                        <Price>15</Price>
+                        <Status>1</Status>
+                    </QueryToneInfosDetail>
+                    <QueryToneInfosDetail>
+                        <ToneCode>5221334</ToneCode>
+                        <ToneName>Utshorgo Nijeke</ToneName>
+                        <SingerName>Parthibo</SingerName>
+                        <ToneValidDay>20370101000000</ToneValidDay>
+                        <Price>15</Price>
+                        <Status>1</Status>
+                    </QueryToneInfosDetail>
+                    <QueryToneInfosDetail>
+                        <ToneCode>5221326</ToneCode>
+                        <ToneName>Dhowate Shohor</ToneName>
+                        <SingerName>Parthibo</SingerName>
+                        <ToneValidDay>20370101000000</ToneValidDay>
+                        <Price>15</Price>
+                        <Status>1</Status>
+                    </QueryToneInfosDetail>
+                    <QueryToneInfosDetail>
+                        <ToneCode>5221331</ToneCode>
+                        <ToneName>Kadchi Keno</ToneName>
+                        <SingerName>Parthibo</SingerName>
+                        <ToneValidDay>20370101000000</ToneValidDay>
+                        <Price>15</Price>
+                        <Status>1</Status>
+                    </QueryToneInfosDetail>
+                    <QueryToneInfosDetail>
+                        <ToneCode>5221329</ToneCode>
+                        <ToneName>EE Ho</ToneName>
+                        <SingerName>Parthibo</SingerName>
+                        <ToneValidDay>20370101000000</ToneValidDay>
+                        <Price>15</Price>
+                        <Status>1</Status>
+                    </QueryToneInfosDetail>
+                    <QueryToneInfosDetail>
+                        <ToneCode>5221332</ToneCode>
+                        <ToneName>Na Bola Kotha</ToneName>
+                        <SingerName>Parthibo</SingerName>
+                        <ToneValidDay>20370101000000</ToneValidDay>
+                        <Price>15</Price>
+                        <Status>1</Status>
+                    </QueryToneInfosDetail>
+                    <QueryToneInfosDetail>
+                        <ToneCode>5551546</ToneCode>
+                        <ToneName>Ki Jwala Je Dharao Buke Remix</ToneName>
+                        <SingerName>Preetha Banerjee</SingerName>
+                        <ToneValidDay>20370101000000</ToneValidDay>
+                        <Price>15</Price>
+                        <Status>1</Status>
+                    </QueryToneInfosDetail>
+                    <QueryToneInfosDetail>
+                        <ToneCode>5351577</ToneCode>
+                        <ToneName>Tomar Hukum</ToneName>
+                        <SingerName>Prithwiraj</SingerName>
+                        <ToneValidDay>20370101000000</ToneValidDay>
+                        <Price>15</Price>
+                        <Status>1</Status>
+                    </QueryToneInfosDetail>
+                    <QueryToneInfosDetail>
+                        <ToneCode>5351580</ToneCode>
+                        <ToneName>Bhairavis Tale</ToneName>
+                        <SingerName>Prithwiraj</SingerName>
+                        <ToneValidDay>20370101000000</ToneValidDay>
+                        <Price>15</Price>
+                        <Status>1</Status>
+                    </QueryToneInfosDetail>
+                    <QueryToneInfosDetail>
+                        <ToneCode>5351583</ToneCode>
+                        <ToneName>Nindiya Re</ToneName>
+                        <SingerName>Prithwiraj</SingerName>
+                        <ToneValidDay>20370101000000</ToneValidDay>
+                        <Price>15</Price>
+                        <Status>1</Status>
+                    </QueryToneInfosDetail>
+                    <QueryToneInfosDetail>
+                        <ToneCode>5351586</ToneCode>
+                        <ToneName>Tumi Robe Nirobe</ToneName>
+                        <SingerName>Prithwiraj</SingerName>
+                        <ToneValidDay>20370101000000</ToneValidDay>
+                        <Price>15</Price>
+                        <Status>1</Status>
+                    </QueryToneInfosDetail>
+                    <QueryToneInfosDetail>
+                        <ToneCode>5351579</ToneCode>
+                        <ToneName>21st Feb Instrumental</ToneName>
+                        <SingerName>Prithwiraj</SingerName>
+                        <ToneValidDay>20370101000000</ToneValidDay>
+                        <Price>15</Price>
+                        <Status>1</Status>
+                    </QueryToneInfosDetail>
+                    <QueryToneInfosDetail>
+                        <ToneCode>5352155</ToneCode>
+                        <ToneName>Shondehe E Mon</ToneName>
+                        <SingerName>Prithwiraj</SingerName>
+                        <ToneValidDay>20370101000000</ToneValidDay>
+                        <Price>15</Price>
+                        <Status>1</Status>
+                    </QueryToneInfosDetail>
+                </QueryToneItem>
+            </QueryToneResponse>
+        </soapenv:Body>
+    </soapenv:Envelope>
+
+
+
+    <?xml version="1.0" encoding="UTF-8"?>
+    <soapenv:Envelope xmlns:soapenv="http://schemas.xmlsoap.org/soap/envelope/">
+        <soapenv:Body>
+            <SettingGalleryLogResponse>
+                <SettingGalleryLogItem>
+                    <OperationID>0</OperationID>
+                    <ResultCode>0</ResultCode>
+                    <ReturnCode>000000</ReturnCode>
+                    <SettingGalleryLogDetail>
+                        <RBTCode>554690</RBTCode>
+                        <SingerName>James Taylor</SingerName>
+                        <ToneName>Sweet Baby James</ToneName>
+                        <ToneValidDay>2030-12-27 23:59:59</ToneValidDay>
+                        <UpdateTime>2011-03-06 18:16:42</UpdateTime>
+                        <Price>1500</Price>
+                        <DownTime>2011-10-27 17:31:21</DownTime>
+                        <Flag>N</Flag>
+                        <ToneAddress>http://10.196.40.21:9998/colorring/rl/601/554/0/0000/0000/690.wav</ToneAddress>
+                    </SettingGalleryLogDetail>
+                    <SettingGalleryLogDetail>
+                        <RBTCode>5221096</RBTCode>
+                        <SingerName>HridoyKhan</SingerName>
+                        <ToneName>Aral</ToneName>
+                        <ToneValidDay>2030-12-27 23:59:59</ToneValidDay>
+                        <UpdateTime>2011-03-27 18:44:59</UpdateTime>
+                        <Price>1500</Price>
+                        <DownTime>2011-10-27 17:51:52</DownTime>
+                        <Flag>N</Flag>
+                        <ToneAddress>http://10.196.40.21:9998/colorring/rl/601/522/0/0000/0001/096.wav</ToneAddress>
+                    </SettingGalleryLogDetail>
+                    <SettingGalleryLogDetail>
+                        <RBTCode>101023</RBTCode>
+                        <SingerName>Gp25paisa</SingerName>
+                        <ToneName>Gp25paisa</ToneName>
+                        <ToneValidDay>2019-08-31 00:00:00</ToneValidDay>
+                        <UpdateTime>2008-04-01 14:07:02</UpdateTime>
+                        <Price>1500</Price>
+                        <DownTime>2009-01-18 17:39:40</DownTime>
+                        <Flag>N</Flag>
+                        <ToneAddress>http://10.196.40.21:9998/colorring/rl/601/518/0/0000/0000/050.wav</ToneAddress>
+                    </SettingGalleryLogDetail>
+                    <SettingGalleryLogDetail>
+                        <RBTCode>52313</RBTCode>
+                        <SingerName>Topu</SingerName>
+                        <ToneName>Bondhu</ToneName>
+                        <ToneValidDay>2030-12-27 23:59:59</ToneValidDay>
+                        <UpdateTime>2009-09-10 15:58:46</UpdateTime>
+                        <Price>1500</Price>
+                        <DownTime>2012-10-07 15:11:40</DownTime>
+                        <Flag>N</Flag>
+                        <ToneAddress>http://10.196.40.21:9998/colorring/rl/601/523/0/0000/0000/013.wav</ToneAddress>
+                    </SettingGalleryLogDetail>
+                    <SettingGalleryLogDetail>
+                        <RBTCode>101010</RBTCode>
+                        <SingerName>GPTune Theme</SingerName>
+                        <ToneName>GPTune</ToneName>
+                        <ToneValidDay>2019-08-31 00:00:00</ToneValidDay>
+                        <UpdateTime>2006-11-14 15:36:38</UpdateTime>
+                        <Price>1500</Price>
+                        <DownTime>2008-10-20 11:27:17</DownTime>
+                        <Flag>N</Flag>
+                        <ToneAddress>http://10.196.40.21:9998/colorring/rl/601/518/0/0000/0000/209.wav</ToneAddress>
+                    </SettingGalleryLogDetail>
+                    <SettingGalleryLogDetail>
+                        <RBTCode>5352</RBTCode>
+                        <SingerName>Parvez </SingerName>
+                        <ToneName>M BV Jabi Jodi</ToneName>
+                        <ToneValidDay>2020-12-31 23:59:59</ToneValidDay>
+                        <UpdateTime>2010-08-19 12:52:04</UpdateTime>
+                        <Price>1500</Price>
+                        <DownTime>2010-09-03 18:07:16</DownTime>
+                        <Flag>Y</Flag>
+                        <ToneAddress>http://10.196.40.21:9998/colorring/rl/601/535/0/0000/0000/002.wav</ToneAddress>
+                    </SettingGalleryLogDetail>
+                </SettingGalleryLogItem>
+            </SettingGalleryLogResponse>
+        </soapenv:Body>
+    </soapenv:Envelope>
+2013-09-23 10:59:48,250 [http-8080-7] WARN - WSCEJB_LOG:
+    <soapenv:Envelope xmlns:soapenv="http://schemas.xmlsoap.org/soap/envelope/" xmlns:ns="com/gp/lta/ProvisioningManagement/1.0/">
+        <soapenv:Body>
+            <ns:SettingGalleryLogRequest>
+                <ns:OperatorId>wsc</ns:OperatorId>
+                <ns:ChannelId>noncrm</ns:ChannelId>
+                <ns:MSISDN>8801711081503</ns:MSISDN>
+                <ns:ResourceType>1</ns:ResourceType>
+                <ns:ToneBoxID>685140003</ns:ToneBoxID>
+            </ns:SettingGalleryLogRequest>
+        </soapenv:Body>
+    </soapenv:Envelope>
+2013-09-23 10:59:48,447 [http-8080-7] WARN - WSCEJB_LOG: <?xml version="1.0" encoding="UTF-8"?>
+    <soapenv:Envelope xmlns:soapenv="http://schemas.xmlsoap.org/soap/envelope/">
+        <soapenv:Body>
+            <SettingGalleryLogResponse>
+                <SettingGalleryLogItem>
+                    <OperationID>0</OperationID>
+                    <ResultCode>0</ResultCode>
+                    <ReturnCode>000000</ReturnCode>
+                    <SettingGalleryLogDetail>
+                        <RBTCode>52313</RBTCode>
+                        <SingerName>Topu</SingerName>
+                        <ToneName>Bondhu</ToneName>
+                        <ToneValidDay>2030-12-27 23:59:59</ToneValidDay>
+                        <UpdateTime>2009-09-10 15:58:46</UpdateTime>
+                        <Price>1500</Price>
+                        <DownTime>2012-10-07 15:11:40</DownTime>
+                        <Flag>N</Flag>
+                        <ToneAddress>http://10.196.40.21:9998/colorring/rl/601/523/0/0000/0000/013.wav</ToneAddress>
+                    </SettingGalleryLogDetail>
+                    <SettingGalleryLogDetail>
+                        <RBTCode>101010</RBTCode>
+                        <SingerName>GPTune Theme</SingerName>
+                        <ToneName>GPTune</ToneName>
+                        <ToneValidDay>2019-08-31 00:00:00</ToneValidDay>
+                        <UpdateTime>2006-11-14 15:36:38</UpdateTime>
+                        <Price>1500</Price>
+                        <DownTime>2008-10-20 11:27:17</DownTime>
+                        <Flag>Y</Flag>
+                        <ToneAddress>http://10.196.40.21:9998/colorring/rl/601/518/0/0000/0000/209.wav</ToneAddress>
+                    </SettingGalleryLogDetail>
+                    <SettingGalleryLogDetail>
+                        <RBTCode>101023</RBTCode>
+                        <SingerName>Gp25paisa</SingerName>
+                        <ToneName>Gp25paisa</ToneName>
+                        <ToneValidDay>2019-08-31 00:00:00</ToneValidDay>
+                        <UpdateTime>2008-04-01 14:07:02</UpdateTime>
+                        <Price>1500</Price>
+                        <DownTime>2009-01-18 17:39:40</DownTime>
+                        <Flag>N</Flag>
+                        <ToneAddress>http://10.196.40.21:9998/colorring/rl/601/518/0/0000/0000/050.wav</ToneAddress>
+                    </SettingGalleryLogDetail>
+                    <SettingGalleryLogDetail>
+                        <RBTCode>5221096</RBTCode>
+                        <SingerName>HridoyKhan</SingerName>
+                        <ToneName>Aral</ToneName>
+                        <ToneValidDay>2030-12-27 23:59:59</ToneValidDay>
+                        <UpdateTime>2011-03-27 18:44:59</UpdateTime>
+                        <Price>1500</Price>
+                        <DownTime>2011-10-27 17:51:52</DownTime>
+                        <Flag>N</Flag>
+                        <ToneAddress>http://10.196.40.21:9998/colorring/rl/601/522/0/0000/0001/096.wav</ToneAddress>
+                    </SettingGalleryLogDetail>
+                    <SettingGalleryLogDetail>
+                        <RBTCode>554690</RBTCode>
+                        <SingerName>James Taylor</SingerName>
+                        <ToneName>Sweet Baby James</ToneName>
+                        <ToneValidDay>2030-12-27 23:59:59</ToneValidDay>
+                        <UpdateTime>2011-03-06 18:16:42</UpdateTime>
+                        <Price>1500</Price>
+                        <DownTime>2011-10-27 17:31:21</DownTime>
+                        <Flag>N</Flag>
+                        <ToneAddress>http://10.196.40.21:9998/colorring/rl/601/554/0/0000/0000/690.wav</ToneAddress>
+                    </SettingGalleryLogDetail>
+                    <SettingGalleryLogDetail>
+                        <RBTCode>5352</RBTCode>
+                        <SingerName>Parvez </SingerName>
+                        <ToneName>M BV Jabi Jodi</ToneName>
+                        <ToneValidDay>2020-12-31 23:59:59</ToneValidDay>
+                        <UpdateTime>2010-08-19 12:52:04</UpdateTime>
+                        <Price>1500</Price>
+                        <DownTime>2010-09-03 18:07:16</DownTime>
+                        <Flag>N</Flag>
+                        <ToneAddress>http://10.196.40.21:9998/colorring/rl/601/535/0/0000/0000/002.wav</ToneAddress>
+                    </SettingGalleryLogDetail>
+                </SettingGalleryLogItem>
+            </SettingGalleryLogResponse>
+        </soapenv:Body>
+    </soapenv:Envelope>
+</root>

@@ -1,0 +1,20 @@
+<Office>
+	<Employee>
+		<Name>Imam</Name>
+		<Type>Parmanent</Type>
+		<Id>3895</Id>
+		<Age>32</Age>
+	</Employee>
+	<Employee>
+		<Name>Mizan</Name>
+		<Type>Parmanent</Type>
+		<Id>3001</Id>
+		<Age>32</Age>
+	</Employee>
+	<Employee>
+		<Name>Monowar</Name>
+		<Type>Parmanent</Type>
+		<Id>2012</Id>
+		<Age>42</Age>
+	</Employee>
+</Office>

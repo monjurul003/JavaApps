@@ -1,0 +1,7 @@
+2014-03-05 15:42:51,867 [main] FATAL - FileProcessor:: createAndInitFileWithStringContent() completed
+2014-03-05 15:42:51,869 [main] INFO - FileProcessor:: appendFileWithStringContent()-- file locationG:\Hello.txt
+2014-03-05 15:42:51,872 [main] INFO - FileProcessor:: changeFileToReadOnly() -- started
+2014-03-05 15:42:51,872 [main] INFO - FileProcessor:: changeFileToReadOnly()-- file exists in the designated location
+2014-03-05 15:42:51,872 [main] INFO - FileProcessor:: changeFileToReadOnly()-- This file is read only
+2014-03-05 15:42:51,872 [main] INFO - FileProcessor:: changeFileToReadOnly()-- make the file read only
+2014-03-05 15:42:51,872 [main] INFO - FileProcessor:: changeFileToReadOnly() completed

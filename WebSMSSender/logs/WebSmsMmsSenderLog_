@@ -1,0 +1,817 @@
+2013-06-17 17:10:03,659 [main] INFO -  Web MMS Sender Started Mon Jun 17 17:10:03 BDT 2013
+2013-06-17 17:10:03,659 [main] INFO - WebMMsSMSSender:: calling run()Mon Jun 17 17:10:03 BDT 2013
+2013-06-17 17:20:38,625 [main] INFO -  Web MMS Sender Started Mon Jun 17 17:20:38 BDT 2013
+2013-06-17 17:20:38,626 [main] INFO -  ConfigurationManager:getConfiguration loading start Mon Jun 17 17:20:38 BDT 2013
+2013-06-17 17:20:38,628 [main] DEBUG - setDocumentLocator(com.sun.org.apache.xerces.internal.parsers.AbstractSAXParser$LocatorProxy@1837697)
+2013-06-17 17:20:38,628 [main] DEBUG - startDocument()
+2013-06-17 17:20:38,628 [main] DEBUG - startElement(,,Configuration)
+2013-06-17 17:20:38,628 [main] DEBUG -   Pushing body text ''
+2013-06-17 17:20:38,628 [main] DEBUG -   New match='Configuration'
+2013-06-17 17:20:38,628 [main] DEBUG -   Fire begin() for ObjectCreateRule[className=com.gpit.ecare.websms.configuration.manager.ConfigurationManager, attributeName=null]
+2013-06-17 17:20:38,628 [main] DEBUG - [ObjectCreateRule]{Configuration}New com.gpit.ecare.websms.configuration.manager.ConfigurationManager
+2013-06-17 17:20:38,628 [main] DEBUG - characters(
+	)
+2013-06-17 17:20:38,628 [main] DEBUG - startElement(,,CtrlDirectory1)
+2013-06-17 17:20:38,628 [main] DEBUG -   Pushing body text '
+	'
+2013-06-17 17:20:38,628 [main] DEBUG -   New match='Configuration/CtrlDirectory1'
+2013-06-17 17:20:38,628 [main] DEBUG -   No rules found matching 'Configuration/CtrlDirectory1'.
+2013-06-17 17:20:38,628 [main] DEBUG - characters(/webapp01/wscuser/apache-tomcat-6.0.33/webapps/WebMMSSender/CtrlFolder/ctrl)
+2013-06-17 17:20:38,628 [main] DEBUG - endElement(,,CtrlDirectory1)
+2013-06-17 17:20:38,628 [main] DEBUG -   match='Configuration/CtrlDirectory1'
+2013-06-17 17:20:38,628 [main] DEBUG -   bodyText='/webapp01/wscuser/apache-tomcat-6.0.33/webapps/WebMMSSender/CtrlFolder/ctrl'
+2013-06-17 17:20:38,629 [main] DEBUG -   No rules found matching 'Configuration/CtrlDirectory1'.
+2013-06-17 17:20:38,629 [main] DEBUG -   Popping body text '
+	'
+2013-06-17 17:20:38,629 [main] DEBUG - characters(
+	)
+2013-06-17 17:20:38,629 [main] DEBUG - startElement(,,CtrlDirectory)
+2013-06-17 17:20:38,629 [main] DEBUG -   Pushing body text '
+	
+	'
+2013-06-17 17:20:38,629 [main] DEBUG -   New match='Configuration/CtrlDirectory'
+2013-06-17 17:20:38,629 [main] DEBUG -   Fire begin() for BeanPropertySetterRule[propertyName=ctrlDirectory]
+2013-06-17 17:20:38,629 [main] DEBUG - characters(C:\JavaPrograms\WebMMSSender\CtrlFolder\ctrl)
+2013-06-17 17:20:38,629 [main] DEBUG - endElement(,,CtrlDirectory)
+2013-06-17 17:20:38,629 [main] DEBUG -   match='Configuration/CtrlDirectory'
+2013-06-17 17:20:38,629 [main] DEBUG -   bodyText='C:\JavaPrograms\WebMMSSender\CtrlFolder\ctrl'
+2013-06-17 17:20:38,629 [main] DEBUG -   Fire body() for BeanPropertySetterRule[propertyName=ctrlDirectory]
+2013-06-17 17:20:38,629 [main] DEBUG - [BeanPropertySetterRule]{Configuration/CtrlDirectory} Called with text 'C:\JavaPrograms\WebMMSSender\CtrlFolder\ctrl'
+2013-06-17 17:20:38,629 [main] DEBUG -   Popping body text '
+	
+	'
+2013-06-17 17:20:38,629 [main] DEBUG -   Fire end() for BeanPropertySetterRule[propertyName=ctrlDirectory]
+2013-06-17 17:20:38,629 [main] DEBUG - [BeanPropertySetterRule]{Configuration/CtrlDirectory} Set com.gpit.ecare.websms.configuration.manager.ConfigurationManager property ctrlDirectory with text C:\JavaPrograms\WebMMSSender\CtrlFolder\ctrl
+2013-06-17 17:20:38,629 [main] DEBUG -   setProperty(com.gpit.ecare.websms.configuration.manager.ConfigurationManager@1decdec, ctrlDirectory, C:\JavaPrograms\WebMMSSender\CtrlFolder\ctrl)
+2013-06-17 17:20:38,629 [main] DEBUG - Convert string 'C:\JavaPrograms\WebMMSSender\CtrlFolder\ctrl' to class 'java.lang.String'
+2013-06-17 17:20:38,629 [main] DEBUG -   Using converter org.apache.commons.beanutils.converters.StringConverter@15f5897
+2013-06-17 17:20:38,629 [main] DEBUG - setSimpleProperty: Invoking method public void com.gpit.ecare.websms.configuration.manager.ConfigurationManager.setCtrlDirectory(java.lang.String) with value C:\JavaPrograms\WebMMSSender\CtrlFolder\ctrl (class java.lang.String)
+2013-06-17 17:20:38,630 [main] DEBUG - characters(
+	)
+2013-06-17 17:20:38,630 [main] DEBUG - startElement(,,ConfigFileLocation1)
+2013-06-17 17:20:38,630 [main] DEBUG -   Pushing body text '
+	
+	
+	'
+2013-06-17 17:20:38,630 [main] DEBUG -   New match='Configuration/ConfigFileLocation1'
+2013-06-17 17:20:38,630 [main] DEBUG -   No rules found matching 'Configuration/ConfigFileLocation1'.
+2013-06-17 17:20:38,630 [main] DEBUG - characters(/webapp01/wscuser/apache-tomcat-6.0.33/webapps/WebMMSSender/conf/WebSmsMmsSenderServer_log4jConfig.xml)
+2013-06-17 17:20:38,632 [main] DEBUG - endElement(,,ConfigFileLocation1)
+2013-06-17 17:20:38,632 [main] DEBUG -   match='Configuration/ConfigFileLocation1'
+2013-06-17 17:20:38,632 [main] DEBUG -   bodyText='/webapp01/wscuser/apache-tomcat-6.0.33/webapps/WebMMSSender/conf/WebSmsMmsSenderServer_log4jConfig.xml'
+2013-06-17 17:20:38,632 [main] DEBUG -   No rules found matching 'Configuration/ConfigFileLocation1'.
+2013-06-17 17:20:38,632 [main] DEBUG -   Popping body text '
+	
+	
+	'
+2013-06-17 17:20:38,632 [main] DEBUG - characters(
+	)
+2013-06-17 17:20:38,632 [main] DEBUG - startElement(,,ConfigFileLocation)
+2013-06-17 17:20:38,632 [main] DEBUG -   Pushing body text '
+	
+	
+	
+	'
+2013-06-17 17:20:38,632 [main] DEBUG -   New match='Configuration/ConfigFileLocation'
+2013-06-17 17:20:38,632 [main] DEBUG -   Fire begin() for BeanPropertySetterRule[propertyName=configFileLocation]
+2013-06-17 17:20:38,632 [main] DEBUG - characters(C:/JavaPrograms/WebMMSSender/conf/WebSmsMmsSender_log4jConfig.xml)
+2013-06-17 17:20:38,632 [main] DEBUG - endElement(,,ConfigFileLocation)
+2013-06-17 17:20:38,632 [main] DEBUG -   match='Configuration/ConfigFileLocation'
+2013-06-17 17:20:38,632 [main] DEBUG -   bodyText='C:/JavaPrograms/WebMMSSender/conf/WebSmsMmsSender_log4jConfig.xml'
+2013-06-17 17:20:38,632 [main] DEBUG -   Fire body() for BeanPropertySetterRule[propertyName=configFileLocation]
+2013-06-17 17:20:38,632 [main] DEBUG - [BeanPropertySetterRule]{Configuration/ConfigFileLocation} Called with text 'C:/JavaPrograms/WebMMSSender/conf/WebSmsMmsSender_log4jConfig.xml'
+2013-06-17 17:20:38,632 [main] DEBUG -   Popping body text '
+	
+	
+	
+	'
+2013-06-17 17:20:38,632 [main] DEBUG -   Fire end() for BeanPropertySetterRule[propertyName=configFileLocation]
+2013-06-17 17:20:38,632 [main] DEBUG - [BeanPropertySetterRule]{Configuration/ConfigFileLocation} Set com.gpit.ecare.websms.configuration.manager.ConfigurationManager property configFileLocation with text C:/JavaPrograms/WebMMSSender/conf/WebSmsMmsSender_log4jConfig.xml
+2013-06-17 17:20:38,633 [main] DEBUG -   setProperty(com.gpit.ecare.websms.configuration.manager.ConfigurationManager@1decdec, configFileLocation, C:/JavaPrograms/WebMMSSender/conf/WebSmsMmsSender_log4jConfig.xml)
+2013-06-17 17:20:38,633 [main] DEBUG - Convert string 'C:/JavaPrograms/WebMMSSender/conf/WebSmsMmsSender_log4jConfig.xml' to class 'java.lang.String'
+2013-06-17 17:20:38,633 [main] DEBUG -   Using converter org.apache.commons.beanutils.converters.StringConverter@15f5897
+2013-06-17 17:20:38,633 [main] DEBUG - setSimpleProperty: Invoking method public void com.gpit.ecare.websms.configuration.manager.ConfigurationManager.setConfigFileLocation(java.lang.String) with value C:/JavaPrograms/WebMMSSender/conf/WebSmsMmsSender_log4jConfig.xml (class java.lang.String)
+2013-06-17 17:20:38,633 [main] DEBUG - characters(
+	)
+2013-06-17 17:20:38,633 [main] DEBUG - startElement(,,SqlQuery)
+2013-06-17 17:20:38,633 [main] DEBUG -   Pushing body text '
+	
+	
+	
+	
+	'
+2013-06-17 17:20:38,633 [main] DEBUG -   New match='Configuration/SqlQuery'
+2013-06-17 17:20:38,633 [main] DEBUG -   Fire begin() for BeanPropertySetterRule[propertyName=sqlQuery]
+2013-06-17 17:20:38,634 [main] DEBUG - characters(
+	    select t.*, substr(t.USER_ID,3) sender_msisdn from wsc_sms_mms_log t where t.request_status ='1' and request_type='SMS'        
+	)
+2013-06-17 17:20:38,634 [main] DEBUG - endElement(,,SqlQuery)
+2013-06-17 17:20:38,634 [main] DEBUG -   match='Configuration/SqlQuery'
+2013-06-17 17:20:38,635 [main] DEBUG -   bodyText='
+	    select t.*, substr(t.USER_ID,3) sender_msisdn from wsc_sms_mms_log t where t.request_status ='1' and request_type='SMS'        
+	'
+2013-06-17 17:20:38,635 [main] DEBUG -   Fire body() for BeanPropertySetterRule[propertyName=sqlQuery]
+2013-06-17 17:20:38,635 [main] DEBUG - [BeanPropertySetterRule]{Configuration/SqlQuery} Called with text '
+	    select t.*, substr(t.USER_ID,3) sender_msisdn from wsc_sms_mms_log t where t.request_status ='1' and request_type='SMS'        
+	'
+2013-06-17 17:20:38,635 [main] DEBUG -   Popping body text '
+	
+	
+	
+	
+	'
+2013-06-17 17:20:38,635 [main] DEBUG -   Fire end() for BeanPropertySetterRule[propertyName=sqlQuery]
+2013-06-17 17:20:38,635 [main] DEBUG - [BeanPropertySetterRule]{Configuration/SqlQuery} Set com.gpit.ecare.websms.configuration.manager.ConfigurationManager property sqlQuery with text select t.*, substr(t.USER_ID,3) sender_msisdn from wsc_sms_mms_log t where t.request_status ='1' and request_type='SMS'
+2013-06-17 17:20:38,635 [main] DEBUG -   setProperty(com.gpit.ecare.websms.configuration.manager.ConfigurationManager@1decdec, sqlQuery, select t.*, substr(t.USER_ID,3) sender_msisdn from wsc_sms_mms_log t where t.request_status ='1' and request_type='SMS')
+2013-06-17 17:20:38,635 [main] DEBUG - Convert string 'select t.*, substr(t.USER_ID,3) sender_msisdn from wsc_sms_mms_log t where t.request_status ='1' and request_type='SMS'' to class 'java.lang.String'
+2013-06-17 17:20:38,635 [main] DEBUG -   Using converter org.apache.commons.beanutils.converters.StringConverter@15f5897
+2013-06-17 17:20:38,635 [main] DEBUG - setSimpleProperty: Invoking method public void com.gpit.ecare.websms.configuration.manager.ConfigurationManager.setSqlQuery(java.lang.String) with value select t.*, substr(t.USER_ID,3) sender_msisdn from wsc_sms_mms_log t where t.request_status ='1' and request_type='SMS' (class java.lang.String)
+2013-06-17 17:20:38,635 [main] DEBUG - characters(
+	)
+2013-06-17 17:20:38,635 [main] DEBUG - startElement(,,SqlQueryMMS)
+2013-06-17 17:20:38,635 [main] DEBUG -   Pushing body text '
+	
+	
+	
+	
+	
+	'
+2013-06-17 17:20:38,635 [main] DEBUG -   New match='Configuration/SqlQueryMMS'
+2013-06-17 17:20:38,635 [main] DEBUG -   Fire begin() for BeanPropertySetterRule[propertyName=sqlQueryMMS]
+2013-06-17 17:20:38,635 [main] DEBUG - characters(
+	    select t.*, substr(t.USER_ID,3) sender_msisdn from wsc_sms_mms_log t where t.request_status ='1' and request_type='MMS'     
+	)
+2013-06-17 17:20:38,635 [main] DEBUG - endElement(,,SqlQueryMMS)
+2013-06-17 17:20:38,635 [main] DEBUG -   match='Configuration/SqlQueryMMS'
+2013-06-17 17:20:38,635 [main] DEBUG -   bodyText='
+	    select t.*, substr(t.USER_ID,3) sender_msisdn from wsc_sms_mms_log t where t.request_status ='1' and request_type='MMS'     
+	'
+2013-06-17 17:20:38,635 [main] DEBUG -   Fire body() for BeanPropertySetterRule[propertyName=sqlQueryMMS]
+2013-06-17 17:20:38,635 [main] DEBUG - [BeanPropertySetterRule]{Configuration/SqlQueryMMS} Called with text '
+	    select t.*, substr(t.USER_ID,3) sender_msisdn from wsc_sms_mms_log t where t.request_status ='1' and request_type='MMS'     
+	'
+2013-06-17 17:20:38,635 [main] DEBUG -   Popping body text '
+	
+	
+	
+	
+	
+	'
+2013-06-17 17:20:38,635 [main] DEBUG -   Fire end() for BeanPropertySetterRule[propertyName=sqlQueryMMS]
+2013-06-17 17:20:38,635 [main] DEBUG - [BeanPropertySetterRule]{Configuration/SqlQueryMMS} Set com.gpit.ecare.websms.configuration.manager.ConfigurationManager property sqlQueryMMS with text select t.*, substr(t.USER_ID,3) sender_msisdn from wsc_sms_mms_log t where t.request_status ='1' and request_type='MMS'
+2013-06-17 17:20:38,635 [main] DEBUG -   setProperty(com.gpit.ecare.websms.configuration.manager.ConfigurationManager@1decdec, sqlQueryMMS, select t.*, substr(t.USER_ID,3) sender_msisdn from wsc_sms_mms_log t where t.request_status ='1' and request_type='MMS')
+2013-06-17 17:20:38,635 [main] DEBUG - Convert string 'select t.*, substr(t.USER_ID,3) sender_msisdn from wsc_sms_mms_log t where t.request_status ='1' and request_type='MMS'' to class 'java.lang.String'
+2013-06-17 17:20:38,635 [main] DEBUG -   Using converter org.apache.commons.beanutils.converters.StringConverter@15f5897
+2013-06-17 17:20:38,635 [main] DEBUG - setSimpleProperty: Invoking method public void com.gpit.ecare.websms.configuration.manager.ConfigurationManager.setSqlQueryMMS(java.lang.String) with value select t.*, substr(t.USER_ID,3) sender_msisdn from wsc_sms_mms_log t where t.request_status ='1' and request_type='MMS' (class java.lang.String)
+2013-06-17 17:20:38,635 [main] DEBUG - characters(
+	)
+2013-06-17 17:20:38,636 [main] DEBUG - startElement(,,DataSource)
+2013-06-17 17:20:38,636 [main] DEBUG -   Pushing body text '
+	
+	
+	
+	
+	
+	
+	'
+2013-06-17 17:20:38,636 [main] DEBUG -   New match='Configuration/DataSource'
+2013-06-17 17:20:38,636 [main] DEBUG -   Fire begin() for ObjectCreateRule[className=com.gpit.ecare.websms.driver.manager.DriverManagerDataSource, attributeName=null]
+2013-06-17 17:20:38,636 [main] DEBUG - [ObjectCreateRule]{Configuration/DataSource}New com.gpit.ecare.websms.driver.manager.DriverManagerDataSource
+2013-06-17 17:20:38,636 [main] DEBUG -   Fire begin() for SetNextRule[methodName=setDataSource, paramType=null]
+2013-06-17 17:20:38,636 [main] DEBUG - characters(
+		)
+2013-06-17 17:20:38,636 [main] DEBUG - startElement(,,Driver)
+2013-06-17 17:20:38,636 [main] DEBUG -   Pushing body text '
+		'
+2013-06-17 17:20:38,636 [main] DEBUG -   New match='Configuration/DataSource/Driver'
+2013-06-17 17:20:38,636 [main] DEBUG -   Fire begin() for BeanPropertySetterRule[propertyName=driver]
+2013-06-17 17:20:38,636 [main] DEBUG - characters(oracle.jdbc.driver.OracleDriver)
+2013-06-17 17:20:38,636 [main] DEBUG - endElement(,,Driver)
+2013-06-17 17:20:38,636 [main] DEBUG -   match='Configuration/DataSource/Driver'
+2013-06-17 17:20:38,636 [main] DEBUG -   bodyText='oracle.jdbc.driver.OracleDriver'
+2013-06-17 17:20:38,636 [main] DEBUG -   Fire body() for BeanPropertySetterRule[propertyName=driver]
+2013-06-17 17:20:38,636 [main] DEBUG - [BeanPropertySetterRule]{Configuration/DataSource/Driver} Called with text 'oracle.jdbc.driver.OracleDriver'
+2013-06-17 17:20:38,636 [main] DEBUG -   Popping body text '
+		'
+2013-06-17 17:20:38,636 [main] DEBUG -   Fire end() for BeanPropertySetterRule[propertyName=driver]
+2013-06-17 17:20:38,636 [main] DEBUG - [BeanPropertySetterRule]{Configuration/DataSource/Driver} Set com.gpit.ecare.websms.driver.manager.DriverManagerDataSource property driver with text oracle.jdbc.driver.OracleDriver
+2013-06-17 17:20:38,636 [main] DEBUG -   setProperty(com.gpit.ecare.websms.driver.manager.DriverManagerDataSource@e102dc, driver, oracle.jdbc.driver.OracleDriver)
+2013-06-17 17:20:38,636 [main] DEBUG - Convert string 'oracle.jdbc.driver.OracleDriver' to class 'java.lang.String'
+2013-06-17 17:20:38,636 [main] DEBUG -   Using converter org.apache.commons.beanutils.converters.StringConverter@15f5897
+2013-06-17 17:20:38,636 [main] DEBUG - setSimpleProperty: Invoking method public void com.gpit.ecare.websms.driver.manager.DriverManagerDataSource.setDriver(java.lang.String) with value oracle.jdbc.driver.OracleDriver (class java.lang.String)
+2013-06-17 17:20:38,636 [main] DEBUG - characters(
+		)
+2013-06-17 17:20:38,636 [main] DEBUG - startElement(,,Url)
+2013-06-17 17:20:38,636 [main] DEBUG -   Pushing body text '
+		
+		'
+2013-06-17 17:20:38,637 [main] DEBUG -   New match='Configuration/DataSource/Url'
+2013-06-17 17:20:38,637 [main] DEBUG -   Fire begin() for BeanPropertySetterRule[propertyName=url]
+2013-06-17 17:20:38,637 [main] DEBUG - characters(jdbc:oracle:thin:@(DESCRIPTION = (ADDRESS = (PROTOCOL = TCP) (HOST = 10.10.18.139) (PORT = 1521) )(LOAD_BALANCE = yes)(CONNECT_DATA = (SERVER = DEDICATED) (SERVICE_NAME = GPIVR)(FAILOVER_MODE = (TYPE = SELECT)(METHOD = BASIC)(RETRIES = 180)(DELAY = 5)))))
+2013-06-17 17:20:38,637 [main] DEBUG - endElement(,,Url)
+2013-06-17 17:20:38,637 [main] DEBUG -   match='Configuration/DataSource/Url'
+2013-06-17 17:20:38,637 [main] DEBUG -   bodyText='jdbc:oracle:thin:@(DESCRIPTION = (ADDRESS = (PROTOCOL = TCP) (HOST = 10.10.18.139) (PORT = 1521) )(LOAD_BALANCE = yes)(CONNECT_DATA = (SERVER = DEDICATED) (SERVICE_NAME = GPIVR)(FAILOVER_MODE = (TYPE = SELECT)(METHOD = BASIC)(RETRIES = 180)(DELAY = 5))))'
+2013-06-17 17:20:38,637 [main] DEBUG -   Fire body() for BeanPropertySetterRule[propertyName=url]
+2013-06-17 17:20:38,637 [main] DEBUG - [BeanPropertySetterRule]{Configuration/DataSource/Url} Called with text 'jdbc:oracle:thin:@(DESCRIPTION = (ADDRESS = (PROTOCOL = TCP) (HOST = 10.10.18.139) (PORT = 1521) )(LOAD_BALANCE = yes)(CONNECT_DATA = (SERVER = DEDICATED) (SERVICE_NAME = GPIVR)(FAILOVER_MODE = (TYPE = SELECT)(METHOD = BASIC)(RETRIES = 180)(DELAY = 5))))'
+2013-06-17 17:20:38,637 [main] DEBUG -   Popping body text '
+		
+		'
+2013-06-17 17:20:38,637 [main] DEBUG -   Fire end() for BeanPropertySetterRule[propertyName=url]
+2013-06-17 17:20:38,637 [main] DEBUG - [BeanPropertySetterRule]{Configuration/DataSource/Url} Set com.gpit.ecare.websms.driver.manager.DriverManagerDataSource property url with text jdbc:oracle:thin:@(DESCRIPTION = (ADDRESS = (PROTOCOL = TCP) (HOST = 10.10.18.139) (PORT = 1521) )(LOAD_BALANCE = yes)(CONNECT_DATA = (SERVER = DEDICATED) (SERVICE_NAME = GPIVR)(FAILOVER_MODE = (TYPE = SELECT)(METHOD = BASIC)(RETRIES = 180)(DELAY = 5))))
+2013-06-17 17:20:38,637 [main] DEBUG -   setProperty(com.gpit.ecare.websms.driver.manager.DriverManagerDataSource@e102dc, url, jdbc:oracle:thin:@(DESCRIPTION = (ADDRESS = (PROTOCOL = TCP) (HOST = 10.10.18.139) (PORT = 1521) )(LOAD_BALANCE = yes)(CONNECT_DATA = (SERVER = DEDICATED) (SERVICE_NAME = GPIVR)(FAILOVER_MODE = (TYPE = SELECT)(METHOD = BASIC)(RETRIES = 180)(DELAY = 5)))))
+2013-06-17 17:20:38,637 [main] DEBUG - Convert string 'jdbc:oracle:thin:@(DESCRIPTION = (ADDRESS = (PROTOCOL = TCP) (HOST = 10.10.18.139) (PORT = 1521) )(LOAD_BALANCE = yes)(CONNECT_DATA = (SERVER = DEDICATED) (SERVICE_NAME = GPIVR)(FAILOVER_MODE = (TYPE = SELECT)(METHOD = BASIC)(RETRIES = 180)(DELAY = 5))))' to class 'java.lang.String'
+2013-06-17 17:20:38,637 [main] DEBUG -   Using converter org.apache.commons.beanutils.converters.StringConverter@15f5897
+2013-06-17 17:20:38,637 [main] DEBUG - setSimpleProperty: Invoking method public void com.gpit.ecare.websms.driver.manager.DriverManagerDataSource.setUrl(java.lang.String) with value jdbc:oracle:thin:@(DESCRIPTION = (ADDRESS = (PROTOCOL = TCP) (HOST = 10.10.18.139) (PORT = 1521) )(LOAD_BALANCE = yes)(CONNECT_DATA = (SERVER = DEDICATED) (SERVICE_NAME = GPIVR)(FAILOVER_MODE = (TYPE = SELECT)(METHOD = BASIC)(RETRIES = 180)(DELAY = 5)))) (class java.lang.String)
+2013-06-17 17:20:38,637 [main] DEBUG - characters(
+		)
+2013-06-17 17:20:38,637 [main] DEBUG - startElement(,,User)
+2013-06-17 17:20:38,637 [main] DEBUG -   Pushing body text '
+		
+		
+		'
+2013-06-17 17:20:38,637 [main] DEBUG -   New match='Configuration/DataSource/User'
+2013-06-17 17:20:38,637 [main] DEBUG -   Fire begin() for BeanPropertySetterRule[propertyName=username]
+2013-06-17 17:20:38,637 [main] DEBUG - characters(wsc)
+2013-06-17 17:20:38,637 [main] DEBUG - endElement(,,User)
+2013-06-17 17:20:38,637 [main] DEBUG -   match='Configuration/DataSource/User'
+2013-06-17 17:20:38,637 [main] DEBUG -   bodyText='wsc'
+2013-06-17 17:20:38,637 [main] DEBUG -   Fire body() for BeanPropertySetterRule[propertyName=username]
+2013-06-17 17:20:38,637 [main] DEBUG - [BeanPropertySetterRule]{Configuration/DataSource/User} Called with text 'wsc'
+2013-06-17 17:20:38,637 [main] DEBUG -   Popping body text '
+		
+		
+		'
+2013-06-17 17:20:38,637 [main] DEBUG -   Fire end() for BeanPropertySetterRule[propertyName=username]
+2013-06-17 17:20:38,637 [main] DEBUG - [BeanPropertySetterRule]{Configuration/DataSource/User} Set com.gpit.ecare.websms.driver.manager.DriverManagerDataSource property username with text wsc
+2013-06-17 17:20:38,637 [main] DEBUG -   setProperty(com.gpit.ecare.websms.driver.manager.DriverManagerDataSource@e102dc, username, wsc)
+2013-06-17 17:20:38,638 [main] DEBUG - Convert string 'wsc' to class 'java.lang.String'
+2013-06-17 17:20:38,638 [main] DEBUG -   Using converter org.apache.commons.beanutils.converters.StringConverter@15f5897
+2013-06-17 17:20:38,638 [main] DEBUG - setSimpleProperty: Invoking method public void com.gpit.ecare.websms.driver.manager.DriverManagerDataSource.setUsername(java.lang.String) with value wsc (class java.lang.String)
+2013-06-17 17:20:38,638 [main] DEBUG - characters(
+		)
+2013-06-17 17:20:38,638 [main] DEBUG - startElement(,,Password)
+2013-06-17 17:20:38,638 [main] DEBUG -   Pushing body text '
+		
+		
+		
+		'
+2013-06-17 17:20:38,638 [main] DEBUG -   New match='Configuration/DataSource/Password'
+2013-06-17 17:20:38,638 [main] DEBUG -   Fire begin() for BeanPropertySetterRule[propertyName=password]
+2013-06-17 17:20:38,638 [main] DEBUG - characters(wsc121)
+2013-06-17 17:20:38,638 [main] DEBUG - endElement(,,Password)
+2013-06-17 17:20:38,638 [main] DEBUG -   match='Configuration/DataSource/Password'
+2013-06-17 17:20:38,638 [main] DEBUG -   bodyText='wsc121'
+2013-06-17 17:20:38,638 [main] DEBUG -   Fire body() for BeanPropertySetterRule[propertyName=password]
+2013-06-17 17:20:38,638 [main] DEBUG - [BeanPropertySetterRule]{Configuration/DataSource/Password} Called with text 'wsc121'
+2013-06-17 17:20:38,638 [main] DEBUG -   Popping body text '
+		
+		
+		
+		'
+2013-06-17 17:20:38,638 [main] DEBUG -   Fire end() for BeanPropertySetterRule[propertyName=password]
+2013-06-17 17:20:38,638 [main] DEBUG - [BeanPropertySetterRule]{Configuration/DataSource/Password} Set com.gpit.ecare.websms.driver.manager.DriverManagerDataSource property password with text wsc121
+2013-06-17 17:20:38,638 [main] DEBUG -   setProperty(com.gpit.ecare.websms.driver.manager.DriverManagerDataSource@e102dc, password, wsc121)
+2013-06-17 17:20:38,638 [main] DEBUG - Convert string 'wsc121' to class 'java.lang.String'
+2013-06-17 17:20:38,638 [main] DEBUG -   Using converter org.apache.commons.beanutils.converters.StringConverter@15f5897
+2013-06-17 17:20:38,638 [main] DEBUG - setSimpleProperty: Invoking method public void com.gpit.ecare.websms.driver.manager.DriverManagerDataSource.setPassword(java.lang.String) with value wsc121 (class java.lang.String)
+2013-06-17 17:20:38,638 [main] DEBUG - characters(
+	)
+2013-06-17 17:20:38,638 [main] DEBUG - endElement(,,DataSource)
+2013-06-17 17:20:38,638 [main] DEBUG -   match='Configuration/DataSource'
+2013-06-17 17:20:38,638 [main] DEBUG -   bodyText='
+		
+		
+		
+		
+	'
+2013-06-17 17:20:38,638 [main] DEBUG -   Fire body() for ObjectCreateRule[className=com.gpit.ecare.websms.driver.manager.DriverManagerDataSource, attributeName=null]
+2013-06-17 17:20:38,639 [main] DEBUG -   Fire body() for SetNextRule[methodName=setDataSource, paramType=null]
+2013-06-17 17:20:38,639 [main] DEBUG -   Popping body text '
+	
+	
+	
+	
+	
+	
+	'
+2013-06-17 17:20:38,639 [main] DEBUG -   Fire end() for SetNextRule[methodName=setDataSource, paramType=null]
+2013-06-17 17:20:38,639 [main] DEBUG - [SetNextRule]{Configuration/DataSource} Call com.gpit.ecare.websms.configuration.manager.ConfigurationManager.setDataSource(com.gpit.ecare.websms.driver.manager.DriverManagerDataSource@e102dc)
+2013-06-17 17:20:38,639 [main] DEBUG - Matching name=setDataSource on class com.gpit.ecare.websms.configuration.manager.ConfigurationManager
+2013-06-17 17:20:38,639 [main] DEBUG - Found straight match: public void com.gpit.ecare.websms.configuration.manager.ConfigurationManager.setDataSource(com.gpit.ecare.websms.driver.manager.DriverManagerDataSource)
+2013-06-17 17:20:38,639 [main] DEBUG - isPublic:true
+2013-06-17 17:20:38,639 [main] DEBUG -   Fire end() for ObjectCreateRule[className=com.gpit.ecare.websms.driver.manager.DriverManagerDataSource, attributeName=null]
+2013-06-17 17:20:38,639 [main] DEBUG - [ObjectCreateRule]{Configuration/DataSource} Pop com.gpit.ecare.websms.driver.manager.DriverManagerDataSource
+2013-06-17 17:20:38,639 [main] DEBUG - characters(
+)
+2013-06-17 17:20:38,639 [main] DEBUG - endElement(,,Configuration)
+2013-06-17 17:20:38,639 [main] DEBUG -   match='Configuration'
+2013-06-17 17:20:38,639 [main] DEBUG -   bodyText='
+	
+	
+	
+	
+	
+	
+	
+'
+2013-06-17 17:20:38,639 [main] DEBUG -   Fire body() for ObjectCreateRule[className=com.gpit.ecare.websms.configuration.manager.ConfigurationManager, attributeName=null]
+2013-06-17 17:20:38,639 [main] DEBUG -   Popping body text ''
+2013-06-17 17:20:38,639 [main] DEBUG -   Fire end() for ObjectCreateRule[className=com.gpit.ecare.websms.configuration.manager.ConfigurationManager, attributeName=null]
+2013-06-17 17:20:38,639 [main] DEBUG - [ObjectCreateRule]{Configuration} Pop com.gpit.ecare.websms.configuration.manager.ConfigurationManager
+2013-06-17 17:20:38,639 [main] DEBUG - endDocument()
+2013-06-17 17:20:38,639 [main] INFO -  ConfigurationManager:getConfiguration loading end Mon Jun 17 17:20:38 BDT 2013
+2013-06-17 17:20:38,640 [main] INFO -  Database connection Started Mon Jun 17 17:20:38 BDT 2013
+2013-06-17 17:20:38,925 [main] INFO - C:\JavaPrograms\WebMMSSender\CtrlFolder\ctrl\MMSC.CTRL
+2013-06-17 17:20:38,925 [main] INFO -  WebMMSSender:updateSchedule Started Mon Jun 17 17:20:38 BDT 2013
+2013-06-17 17:20:39,002 [main] INFO -  WebMMSSender:updateSchedule completed Mon Jun 17 17:20:39 BDT 2013
+2013-06-17 17:20:39,016 [main] INFO - WebMMsSMSSender:: calling run()Mon Jun 17 17:20:39 BDT 2013
+2013-06-17 17:20:39,017 [main] INFO -  Database connection Started Mon Jun 17 17:20:39 BDT 2013
+2013-06-17 17:20:39,156 [main] INFO -  WebMMSSender:updateSchedule Started Mon Jun 17 17:20:39 BDT 2013
+2013-06-17 17:20:39,172 [main] INFO -  WebMMSSender:updateSchedule completed Mon Jun 17 17:20:39 BDT 2013
+2013-06-17 17:20:39,200 [main] INFO -  WebMMSSender:initQueryDataSOurce Started Mon Jun 17 17:20:39 BDT 2013
+2013-06-17 17:20:39,536 [main] FATAL - Invalid operation for forward only resultset : last
+2013-06-17 17:20:39,585 [main] INFO -  WebMMSSender:updateRequestStatus Started Mon Jun 17 17:20:39 BDT 2013
+2013-06-17 17:20:39,585 [main] INFO - WebMMSSender:updateRequestStatus update query--update WSC_SMS_MMS_LOG set request_status=1 where request_status is null and ID='100000093194'
+2013-06-17 17:20:39,592 [main] INFO -  WebMMSSender:updateRequestStatus completed Mon Jun 17 17:20:39 BDT 2013
+2013-06-17 17:20:39,608 [main] INFO - WebMMSSender:run():: sms while-prepare xml Mon Jun 17 17:20:39 BDT 2013
+2013-06-17 17:20:39,609 [main] INFO -  WebMMSSender:run inside sms while- recipient-- 01670889853 sender-- 01711334145
+2013-06-17 17:20:39,619 [main] DEBUG - Set parameter http.useragent = Jakarta Commons-HttpClient/3.0-rc3
+2013-06-17 17:20:39,620 [main] DEBUG - Set parameter http.protocol.version = HTTP/1.1
+2013-06-17 17:20:39,620 [main] DEBUG - Set parameter http.connection-manager.class = class org.apache.commons.httpclient.SimpleHttpConnectionManager
+2013-06-17 17:20:39,620 [main] DEBUG - Set parameter http.protocol.cookie-policy = rfc2109
+2013-06-17 17:20:39,620 [main] DEBUG - Set parameter http.protocol.element-charset = US-ASCII
+2013-06-17 17:20:39,620 [main] DEBUG - Set parameter http.protocol.content-charset = ISO-8859-1
+2013-06-17 17:20:39,623 [main] DEBUG - Set parameter http.method.retry-handler = org.apache.commons.httpclient.DefaultHttpMethodRetryHandler@12a3722
+2013-06-17 17:20:39,623 [main] DEBUG - Set parameter http.dateparser.patterns = [EEE, dd MMM yyyy HH:mm:ss zzz, EEEE, dd-MMM-yy HH:mm:ss zzz, EEE MMM d HH:mm:ss yyyy, EEE, dd-MMM-yyyy HH:mm:ss z, EEE, dd-MMM-yyyy HH-mm-ss z, EEE, dd MMM yy HH:mm:ss z, EEE dd-MMM-yyyy HH:mm:ss z, EEE dd MMM yyyy HH:mm:ss z, EEE dd-MMM-yyyy HH-mm-ss z, EEE dd-MMM-yy HH:mm:ss z, EEE dd MMM yy HH:mm:ss z, EEE,dd-MMM-yy HH:mm:ss z, EEE,dd-MMM-yyyy HH:mm:ss z, EEE, dd-MM-yyyy HH:mm:ss z]
+2013-06-17 17:20:39,633 [main] DEBUG - enter PostMethod.clearRequestBody()
+2013-06-17 17:20:39,633 [main] DEBUG - enter EntityEnclosingMethod.clearRequestBody()
+2013-06-17 17:20:39,635 [main] DEBUG - Java version: 1.6.0_03
+2013-06-17 17:20:39,635 [main] DEBUG - Java vendor: Sun Microsystems Inc.
+2013-06-17 17:20:39,635 [main] DEBUG - Java class path: C:\JavaPrograms\WebMMSSender\lib\log4j-1.2.9.jar;C:\JavaPrograms\WebMMSSender\lib\commons-httpclient-3.0-rc3.jar;C:\JavaPrograms\WebMMSSender\lib\commons-digester-1.7.jar;C:\JavaPrograms\WebMMSSender\lib\commons-beanutils.jar;C:\JavaPrograms\WebMMSSender\lib\commons-codec-1.3.jar;C:\JavaPrograms\WebMMSSender\lib\ojdbc14.jar;C:\JavaPrograms\WebMMSSender\lib\commons-logging-api.jar;C:\JavaPrograms\WebMMSSender\lib\commons-logging.jar;C:\JavaPrograms\WebMMSSender\lib\commons-net-1.2.2.jar;C:\JavaPrograms\WebMMSSender\build\classes
+2013-06-17 17:20:39,635 [main] DEBUG - Operating system name: Windows Vista
+2013-06-17 17:20:39,635 [main] DEBUG - Operating system architecture: x86
+2013-06-17 17:20:39,635 [main] DEBUG - Operating system version: 6.1
+2013-06-17 17:20:39,674 [main] DEBUG - SUN 1.6: SUN (DSA key/parameter generation; DSA signing; SHA-1, MD5 digests; SecureRandom; X.509 certificates; JKS keystore; PKIX CertPathValidator; PKIX CertPathBuilder; LDAP, Collection CertStores, JavaPolicy Policy; JavaLoginConfig Configuration)
+2013-06-17 17:20:39,674 [main] DEBUG - SunRsaSign 1.5: Sun RSA signature provider
+2013-06-17 17:20:39,674 [main] DEBUG - SunJSSE 1.6: Sun JSSE provider(PKCS12, SunX509 key/trust factories, SSLv3, TLSv1)
+2013-06-17 17:20:39,674 [main] DEBUG - SunJCE 1.6: SunJCE Provider (implements RSA, DES, Triple DES, AES, Blowfish, ARCFOUR, RC2, PBE, Diffie-Hellman, HMAC)
+2013-06-17 17:20:39,674 [main] DEBUG - SunJGSS 1.0: Sun (Kerberos v5, SPNEGO)
+2013-06-17 17:20:39,674 [main] DEBUG - SunSASL 1.5: Sun SASL provider(implements client mechanisms for: DIGEST-MD5, GSSAPI, EXTERNAL, PLAIN, CRAM-MD5; server mechanisms for: DIGEST-MD5, GSSAPI, CRAM-MD5)
+2013-06-17 17:20:39,674 [main] DEBUG - XMLDSig 1.0: XMLDSig (DOM XMLSignatureFactory; DOM KeyInfoFactory)
+2013-06-17 17:20:39,674 [main] DEBUG - SunPCSC 1.6: Sun PC/SC provider
+2013-06-17 17:20:39,674 [main] DEBUG - SunMSCAPI 1.6: Sun's Microsoft Crypto API provider
+2013-06-17 17:20:39,677 [main] DEBUG - enter HttpClient.executeMethod(HttpMethod)
+2013-06-17 17:20:39,677 [main] DEBUG - enter HttpClient.executeMethod(HostConfiguration,HttpMethod,HttpState)
+2013-06-17 17:20:39,682 [main] DEBUG - Attempt number 1 to process request
+2013-06-17 17:20:39,682 [main] DEBUG - enter HttpConnection.open()
+2013-06-17 17:20:39,682 [main] DEBUG - Open connection to 10.10.15.208:6991
+2013-06-17 17:20:39,686 [main] DEBUG - enter HttpMethodBase.execute(HttpState, HttpConnection)
+2013-06-17 17:20:39,687 [main] DEBUG - enter HttpMethodBase.writeRequest(HttpState, HttpConnection)
+2013-06-17 17:20:39,687 [main] DEBUG - enter HttpMethodBase.writeRequestLine(HttpState, HttpConnection)
+2013-06-17 17:20:39,687 [main] DEBUG - enter HttpMethodBase.generateRequestLine(HttpConnection, String, String, String, String)
+2013-06-17 17:20:39,687 [main] DEBUG - >> "POST /unirouter HTTP/1.1[\r][\n]"
+2013-06-17 17:20:39,687 [main] DEBUG - enter HttpConnection.print(String)
+2013-06-17 17:20:39,688 [main] DEBUG - enter HttpConnection.write(byte[])
+2013-06-17 17:20:39,688 [main] DEBUG - enter HttpConnection.write(byte[], int, int)
+2013-06-17 17:20:39,688 [main] DEBUG - enter HttpMethodBase.writeRequestHeaders(HttpState,HttpConnection)
+2013-06-17 17:20:39,688 [main] DEBUG - enter EntityEnclosingMethod.addRequestHeaders(HttpState, HttpConnection)
+2013-06-17 17:20:39,688 [main] DEBUG - enter ExpectContinueMethod.addRequestHeaders(HttpState, HttpConnection)
+2013-06-17 17:20:39,688 [main] DEBUG - enter HttpMethodBase.addRequestHeaders(HttpState, HttpConnection)
+2013-06-17 17:20:39,688 [main] DEBUG - enter HttpMethodBase.addUserAgentRequestHeaders(HttpState, HttpConnection)
+2013-06-17 17:20:39,688 [main] DEBUG - enter HttpMethodBase.addHostRequestHeader(HttpState, HttpConnection)
+2013-06-17 17:20:39,688 [main] DEBUG - Adding Host request header
+2013-06-17 17:20:39,688 [main] DEBUG - enter HttpMethodBase.addCookieRequestHeader(HttpState, HttpConnection)
+2013-06-17 17:20:39,692 [main] DEBUG - enter HttpState.getCookies()
+2013-06-17 17:20:39,693 [main] DEBUG - enter CookieSpecBase.match(String, int, String, boolean, Cookie[])
+2013-06-17 17:20:39,693 [main] DEBUG - enter HttpMethodBase.addProxyConnectionHeader(HttpState, HttpConnection)
+2013-06-17 17:20:39,693 [main] DEBUG - enter EntityEnclosingMethod.addContentLengthRequestHeader(HttpState, HttpConnection)
+2013-06-17 17:20:39,693 [main] DEBUG - enter EntityEnclosingMethod.getRequestContentLength()
+2013-06-17 17:20:39,693 [main] DEBUG - enter PostMethod.hasRequestContent()
+2013-06-17 17:20:39,693 [main] DEBUG - enter EntityEnclosingMethod.hasRequestContent()
+2013-06-17 17:20:39,693 [main] DEBUG - HttpMethodBase.addRequestHeader(Header)
+2013-06-17 17:20:39,693 [main] DEBUG - >> "Content-type: text/xml; utf-8[\r][\n]"
+2013-06-17 17:20:39,693 [main] DEBUG - enter HttpConnection.print(String)
+2013-06-17 17:20:39,693 [main] DEBUG - enter HttpConnection.write(byte[])
+2013-06-17 17:20:39,693 [main] DEBUG - enter HttpConnection.write(byte[], int, int)
+2013-06-17 17:20:39,694 [main] DEBUG - >> "User-Agent: Jakarta Commons-HttpClient/3.0-rc3[\r][\n]"
+2013-06-17 17:20:39,694 [main] DEBUG - enter HttpConnection.print(String)
+2013-06-17 17:20:39,694 [main] DEBUG - enter HttpConnection.write(byte[])
+2013-06-17 17:20:39,694 [main] DEBUG - enter HttpConnection.write(byte[], int, int)
+2013-06-17 17:20:39,694 [main] DEBUG - >> "Host: 10.10.15.208:6991[\r][\n]"
+2013-06-17 17:20:39,694 [main] DEBUG - enter HttpConnection.print(String)
+2013-06-17 17:20:39,694 [main] DEBUG - enter HttpConnection.write(byte[])
+2013-06-17 17:20:39,694 [main] DEBUG - enter HttpConnection.write(byte[], int, int)
+2013-06-17 17:20:39,694 [main] DEBUG - >> "Content-Length: 722[\r][\n]"
+2013-06-17 17:20:39,694 [main] DEBUG - enter HttpConnection.print(String)
+2013-06-17 17:20:39,694 [main] DEBUG - enter HttpConnection.write(byte[])
+2013-06-17 17:20:39,694 [main] DEBUG - enter HttpConnection.write(byte[], int, int)
+2013-06-17 17:20:39,694 [main] DEBUG - enter HttpConnection.writeLine()
+2013-06-17 17:20:39,694 [main] DEBUG - enter HttpConnection.write(byte[])
+2013-06-17 17:20:39,694 [main] DEBUG - enter HttpConnection.write(byte[], int, int)
+2013-06-17 17:20:39,694 [main] DEBUG - >> "[\r][\n]"
+2013-06-17 17:20:39,694 [main] DEBUG - enter EntityEnclosingMethod.writeRequestBody(HttpState, HttpConnection)
+2013-06-17 17:20:39,694 [main] DEBUG - enter PostMethod.hasRequestContent()
+2013-06-17 17:20:39,694 [main] DEBUG - enter EntityEnclosingMethod.hasRequestContent()
+2013-06-17 17:20:39,694 [main] DEBUG - enter EntityEnclosingMethod.getRequestContentLength()
+2013-06-17 17:20:39,694 [main] DEBUG - enter PostMethod.hasRequestContent()
+2013-06-17 17:20:39,694 [main] DEBUG - enter EntityEnclosingMethod.hasRequestContent()
+2013-06-17 17:20:39,694 [main] DEBUG - enter HttpConnection.getRequestOutputStream()
+2013-06-17 17:20:39,694 [main] DEBUG - >> "<?xml version="1.0" encoding="utf-8"?><service_request><user_id>ecare</user_id><password>e@care121</password><msisdn>01670889853</msisdn><service>ecaresms</service><action_string>send</action_string><origin_host_name>ecare</origin_host_name><message_content>HOT Summer/ Wedding Season OFFER!! 40% OFF on the following services: Gold Aroma Facial/ Fair Polish/ Hair Rebonding/ Full Face Makeup. Offer Valid till 31st JULY 2013. For more info CALL: 01911420598/ 8923531 or log on to www.facebook.com/NainasBeautySalon</message_content><sender_address>01711334145</sender_address><charge_status>1</charge_status><charged_party>8801711334145</charged_party><sessionid>100000093194</sessionid><opid>wsc</opid></service_request>"
+2013-06-17 17:20:39,695 [main] DEBUG - Request body sent
+2013-06-17 17:20:39,695 [main] DEBUG - enter HttpConnection.flushRequestOutputStream()
+2013-06-17 17:20:39,695 [main] DEBUG - enter HttpMethodBase.readResponse(HttpState, HttpConnection)
+2013-06-17 17:20:39,695 [main] DEBUG - enter HttpMethodBase.readStatusLine(HttpState, HttpConnection)
+2013-06-17 17:20:39,695 [main] DEBUG - enter HttpConnection.readLine()
+2013-06-17 17:20:39,695 [main] DEBUG - enter HttpParser.readLine(InputStream, String)
+2013-06-17 17:20:39,695 [main] DEBUG - enter HttpParser.readRawLine()
+2013-06-17 17:20:43,220 [main] DEBUG - << "HTTP/1.0 200 OK[\r][\n]"
+2013-06-17 17:20:43,221 [main] DEBUG - enter HttpMethodBase.readResponseHeaders(HttpState,HttpConnection)
+2013-06-17 17:20:43,221 [main] DEBUG - enter HttpConnection.getResponseInputStream()
+2013-06-17 17:20:43,221 [main] DEBUG - enter HeaderParser.parseHeaders(InputStream, String)
+2013-06-17 17:20:43,221 [main] DEBUG - enter HttpParser.readLine(InputStream, String)
+2013-06-17 17:20:43,221 [main] DEBUG - enter HttpParser.readRawLine()
+2013-06-17 17:20:43,222 [main] DEBUG - enter HttpParser.readLine(InputStream, String)
+2013-06-17 17:20:43,222 [main] DEBUG - enter HttpParser.readRawLine()
+2013-06-17 17:20:43,222 [main] DEBUG - enter HttpParser.readLine(InputStream, String)
+2013-06-17 17:20:43,222 [main] DEBUG - enter HttpParser.readRawLine()
+2013-06-17 17:20:43,222 [main] DEBUG - << "Content-Type: text/xml[\r][\n]"
+2013-06-17 17:20:43,222 [main] DEBUG - << "Content-Length: 153[\r][\n]"
+2013-06-17 17:20:43,222 [main] DEBUG - enter HttpMethodBase.processResponseHeaders(HttpState, HttpConnection)
+2013-06-17 17:20:43,222 [main] DEBUG - enter HttpMethodBase.readResponseBody(HttpState, HttpConnection)
+2013-06-17 17:20:43,222 [main] DEBUG - enter HttpMethodBase.readResponseBody(HttpConnection)
+2013-06-17 17:20:43,222 [main] DEBUG - enter HttpConnection.getResponseInputStream()
+2013-06-17 17:20:43,223 [main] DEBUG - enter HttpMethodBase.canResponseHaveBody(int)
+2013-06-17 17:20:43,224 [main] DEBUG - Buffering response body
+2013-06-17 17:20:43,224 [main] DEBUG - << "<?xml version="1.0" encoding="utf-8"?><response><status>OK</status><message>SMS successfully sent</message><msgID>20130617172039550155</msgID></response>"
+2013-06-17 17:20:43,225 [main] DEBUG - Resorting to protocol version default close connection policy
+2013-06-17 17:20:43,225 [main] DEBUG - Should close connection, using HTTP/1.0
+2013-06-17 17:20:43,225 [main] DEBUG - enter HttpConnection.close()
+2013-06-17 17:20:43,226 [main] DEBUG - enter HttpConnection.closeSockedAndStreams()
+2013-06-17 17:20:43,226 [main] DEBUG - enter HttpConnection.releaseConnection()
+2013-06-17 17:20:43,226 [main] DEBUG - Releasing connection back to connection manager.
+2013-06-17 17:20:43,226 [main] DEBUG - enter getContentCharSet( Header contentheader )
+2013-06-17 17:20:43,227 [main] DEBUG - enter HeaderElement.parseElements(String)
+2013-06-17 17:20:43,228 [main] DEBUG - enter HeaderElement.parseElements(char[])
+2013-06-17 17:20:43,229 [main] DEBUG - enter HeaderElement.getParameterByName(String)
+2013-06-17 17:20:43,229 [main] DEBUG - Default charset used: ISO-8859-1
+2013-06-17 17:20:43,229 [main] DEBUG - enter getContentCharSet( Header contentheader )
+2013-06-17 17:20:43,230 [main] DEBUG - enter HeaderElement.parseElements(String)
+2013-06-17 17:20:43,230 [main] DEBUG - enter HeaderElement.parseElements(char[])
+2013-06-17 17:20:43,230 [main] DEBUG - enter HeaderElement.getParameterByName(String)
+2013-06-17 17:20:43,230 [main] DEBUG - Default charset used: ISO-8859-1
+2013-06-17 17:20:43,230 [main] DEBUG - enter getContentCharSet( Header contentheader )
+2013-06-17 17:20:43,230 [main] DEBUG - enter HeaderElement.parseElements(String)
+2013-06-17 17:20:43,230 [main] DEBUG - enter HeaderElement.parseElements(char[])
+2013-06-17 17:20:43,230 [main] DEBUG - enter HeaderElement.getParameterByName(String)
+2013-06-17 17:20:43,230 [main] DEBUG - Default charset used: ISO-8859-1
+2013-06-17 17:20:43,230 [main] INFO -  WebMMSSender:run inside while sms- response -OK
+2013-06-17 17:20:43,231 [main] INFO -  WebMMSSender:executeUpdateDataSOurce Started Mon Jun 17 17:20:43 BDT 2013
+2013-06-17 17:20:43,243 [main] INFO -  WebMMSSender:executeUpdateDataSOurce completed Mon Jun 17 17:20:43 BDT 2013
+2013-06-17 17:20:43,274 [main] INFO -  WebMMSSender:closeUpdateDataSOurce Started Mon Jun 17 17:20:43 BDT 2013
+2013-06-17 17:20:43,274 [main] INFO -  WebMMSSender:closeUpdateDataSOurce completed Mon Jun 17 17:20:43 BDT 2013
+2013-06-17 17:20:43,296 [main] INFO -  WebMMSSender:closeQueryDataSOurce Started Mon Jun 17 17:20:43 BDT 2013
+2013-06-17 17:20:43,302 [main] INFO -  WebMMSSender:closeQueryDataSOurce completed Mon Jun 17 17:20:43 BDT 2013
+2013-06-17 17:20:43,339 [main] INFO - WebMMSSender: SMS and MMS sending complete, Going to sleep for 1 min Mon Jun 17 17:20:43 BDT 2013
+2013-06-17 17:21:43,339 [main] INFO - WebMMSSender: Wake up after 1 min at Mon Jun 17 17:21:43 BDT 2013
+2013-06-17 17:45:29,054 [main] INFO -  Web MMS Sender Started Mon Jun 17 17:45:29 BDT 2013
+2013-06-17 17:45:29,055 [main] INFO -  ConfigurationManager:getConfiguration loading start Mon Jun 17 17:45:29 BDT 2013
+2013-06-17 17:45:29,057 [main] DEBUG - setDocumentLocator(com.sun.org.apache.xerces.internal.parsers.AbstractSAXParser$LocatorProxy@1837697)
+2013-06-17 17:45:29,057 [main] DEBUG - startDocument()
+2013-06-17 17:45:29,057 [main] DEBUG - startElement(,,Configuration)
+2013-06-17 17:45:29,057 [main] DEBUG -   Pushing body text ''
+2013-06-17 17:45:29,057 [main] DEBUG -   New match='Configuration'
+2013-06-17 17:45:29,057 [main] DEBUG -   Fire begin() for ObjectCreateRule[className=com.gpit.ecare.websms.configuration.manager.ConfigurationManager, attributeName=null]
+2013-06-17 17:45:29,057 [main] DEBUG - [ObjectCreateRule]{Configuration}New com.gpit.ecare.websms.configuration.manager.ConfigurationManager
+2013-06-17 17:45:29,057 [main] DEBUG - characters(
+	)
+2013-06-17 17:45:29,057 [main] DEBUG - startElement(,,CtrlDirectory1)
+2013-06-17 17:45:29,057 [main] DEBUG -   Pushing body text '
+	'
+2013-06-17 17:45:29,057 [main] DEBUG -   New match='Configuration/CtrlDirectory1'
+2013-06-17 17:45:29,058 [main] DEBUG -   No rules found matching 'Configuration/CtrlDirectory1'.
+2013-06-17 17:45:29,058 [main] DEBUG - characters(/webapp01/wscuser/apache-tomcat-6.0.33/webapps/WebMMSSender/CtrlFolder/ctrl)
+2013-06-17 17:45:29,058 [main] DEBUG - endElement(,,CtrlDirectory1)
+2013-06-17 17:45:29,058 [main] DEBUG -   match='Configuration/CtrlDirectory1'
+2013-06-17 17:45:29,058 [main] DEBUG -   bodyText='/webapp01/wscuser/apache-tomcat-6.0.33/webapps/WebMMSSender/CtrlFolder/ctrl'
+2013-06-17 17:45:29,058 [main] DEBUG -   No rules found matching 'Configuration/CtrlDirectory1'.
+2013-06-17 17:45:29,058 [main] DEBUG -   Popping body text '
+	'
+2013-06-17 17:45:29,058 [main] DEBUG - characters(
+	)
+2013-06-17 17:45:29,058 [main] DEBUG - startElement(,,CtrlDirectory)
+2013-06-17 17:45:29,058 [main] DEBUG -   Pushing body text '
+	
+	'
+2013-06-17 17:45:29,058 [main] DEBUG -   New match='Configuration/CtrlDirectory'
+2013-06-17 17:45:29,058 [main] DEBUG -   Fire begin() for BeanPropertySetterRule[propertyName=ctrlDirectory]
+2013-06-17 17:45:29,058 [main] DEBUG - characters(C:\JavaPrograms\WebMMSSender\CtrlFolder\ctrl)
+2013-06-17 17:45:29,058 [main] DEBUG - endElement(,,CtrlDirectory)
+2013-06-17 17:45:29,058 [main] DEBUG -   match='Configuration/CtrlDirectory'
+2013-06-17 17:45:29,059 [main] DEBUG -   bodyText='C:\JavaPrograms\WebMMSSender\CtrlFolder\ctrl'
+2013-06-17 17:45:29,059 [main] DEBUG -   Fire body() for BeanPropertySetterRule[propertyName=ctrlDirectory]
+2013-06-17 17:45:29,059 [main] DEBUG - [BeanPropertySetterRule]{Configuration/CtrlDirectory} Called with text 'C:\JavaPrograms\WebMMSSender\CtrlFolder\ctrl'
+2013-06-17 17:45:29,059 [main] DEBUG -   Popping body text '
+	
+	'
+2013-06-17 17:45:29,059 [main] DEBUG -   Fire end() for BeanPropertySetterRule[propertyName=ctrlDirectory]
+2013-06-17 17:45:29,059 [main] DEBUG - [BeanPropertySetterRule]{Configuration/CtrlDirectory} Set com.gpit.ecare.websms.configuration.manager.ConfigurationManager property ctrlDirectory with text C:\JavaPrograms\WebMMSSender\CtrlFolder\ctrl
+2013-06-17 17:45:29,059 [main] DEBUG -   setProperty(com.gpit.ecare.websms.configuration.manager.ConfigurationManager@1decdec, ctrlDirectory, C:\JavaPrograms\WebMMSSender\CtrlFolder\ctrl)
+2013-06-17 17:45:29,059 [main] DEBUG - Convert string 'C:\JavaPrograms\WebMMSSender\CtrlFolder\ctrl' to class 'java.lang.String'
+2013-06-17 17:45:29,059 [main] DEBUG -   Using converter org.apache.commons.beanutils.converters.StringConverter@15f5897
+2013-06-17 17:45:29,059 [main] DEBUG - setSimpleProperty: Invoking method public void com.gpit.ecare.websms.configuration.manager.ConfigurationManager.setCtrlDirectory(java.lang.String) with value C:\JavaPrograms\WebMMSSender\CtrlFolder\ctrl (class java.lang.String)
+2013-06-17 17:45:29,059 [main] DEBUG - characters(
+	)
+2013-06-17 17:45:29,059 [main] DEBUG - startElement(,,ConfigFileLocation1)
+2013-06-17 17:45:29,059 [main] DEBUG -   Pushing body text '
+	
+	
+	'
+2013-06-17 17:45:29,059 [main] DEBUG -   New match='Configuration/ConfigFileLocation1'
+2013-06-17 17:45:29,059 [main] DEBUG -   No rules found matching 'Configuration/ConfigFileLocation1'.
+2013-06-17 17:45:29,059 [main] DEBUG - characters(/webapp01/wscuser/apache-tomcat-6.0.33/webapps/WebMMSSender/conf/WebSmsMmsSenderServer_log4jConfig.xml)
+2013-06-17 17:45:29,061 [main] DEBUG - endElement(,,ConfigFileLocation1)
+2013-06-17 17:45:29,061 [main] DEBUG -   match='Configuration/ConfigFileLocation1'
+2013-06-17 17:45:29,061 [main] DEBUG -   bodyText='/webapp01/wscuser/apache-tomcat-6.0.33/webapps/WebMMSSender/conf/WebSmsMmsSenderServer_log4jConfig.xml'
+2013-06-17 17:45:29,061 [main] DEBUG -   No rules found matching 'Configuration/ConfigFileLocation1'.
+2013-06-17 17:45:29,061 [main] DEBUG -   Popping body text '
+	
+	
+	'
+2013-06-17 17:45:29,061 [main] DEBUG - characters(
+	)
+2013-06-17 17:45:29,061 [main] DEBUG - startElement(,,ConfigFileLocation)
+2013-06-17 17:45:29,061 [main] DEBUG -   Pushing body text '
+	
+	
+	
+	'
+2013-06-17 17:45:29,061 [main] DEBUG -   New match='Configuration/ConfigFileLocation'
+2013-06-17 17:45:29,061 [main] DEBUG -   Fire begin() for BeanPropertySetterRule[propertyName=configFileLocation]
+2013-06-17 17:45:29,061 [main] DEBUG - characters(C:/JavaPrograms/WebMMSSender/conf/WebSmsMmsSender_log4jConfig.xml)
+2013-06-17 17:45:29,061 [main] DEBUG - endElement(,,ConfigFileLocation)
+2013-06-17 17:45:29,061 [main] DEBUG -   match='Configuration/ConfigFileLocation'
+2013-06-17 17:45:29,061 [main] DEBUG -   bodyText='C:/JavaPrograms/WebMMSSender/conf/WebSmsMmsSender_log4jConfig.xml'
+2013-06-17 17:45:29,061 [main] DEBUG -   Fire body() for BeanPropertySetterRule[propertyName=configFileLocation]
+2013-06-17 17:45:29,061 [main] DEBUG - [BeanPropertySetterRule]{Configuration/ConfigFileLocation} Called with text 'C:/JavaPrograms/WebMMSSender/conf/WebSmsMmsSender_log4jConfig.xml'
+2013-06-17 17:45:29,061 [main] DEBUG -   Popping body text '
+	
+	
+	
+	'
+2013-06-17 17:45:29,061 [main] DEBUG -   Fire end() for BeanPropertySetterRule[propertyName=configFileLocation]
+2013-06-17 17:45:29,061 [main] DEBUG - [BeanPropertySetterRule]{Configuration/ConfigFileLocation} Set com.gpit.ecare.websms.configuration.manager.ConfigurationManager property configFileLocation with text C:/JavaPrograms/WebMMSSender/conf/WebSmsMmsSender_log4jConfig.xml
+2013-06-17 17:45:29,061 [main] DEBUG -   setProperty(com.gpit.ecare.websms.configuration.manager.ConfigurationManager@1decdec, configFileLocation, C:/JavaPrograms/WebMMSSender/conf/WebSmsMmsSender_log4jConfig.xml)
+2013-06-17 17:45:29,061 [main] DEBUG - Convert string 'C:/JavaPrograms/WebMMSSender/conf/WebSmsMmsSender_log4jConfig.xml' to class 'java.lang.String'
+2013-06-17 17:45:29,061 [main] DEBUG -   Using converter org.apache.commons.beanutils.converters.StringConverter@15f5897
+2013-06-17 17:45:29,061 [main] DEBUG - setSimpleProperty: Invoking method public void com.gpit.ecare.websms.configuration.manager.ConfigurationManager.setConfigFileLocation(java.lang.String) with value C:/JavaPrograms/WebMMSSender/conf/WebSmsMmsSender_log4jConfig.xml (class java.lang.String)
+2013-06-17 17:45:29,061 [main] DEBUG - characters(
+	)
+2013-06-17 17:45:29,061 [main] DEBUG - startElement(,,SqlQuery)
+2013-06-17 17:45:29,061 [main] DEBUG -   Pushing body text '
+	
+	
+	
+	
+	'
+2013-06-17 17:45:29,061 [main] DEBUG -   New match='Configuration/SqlQuery'
+2013-06-17 17:45:29,061 [main] DEBUG -   Fire begin() for BeanPropertySetterRule[propertyName=sqlQuery]
+2013-06-17 17:45:29,062 [main] DEBUG - characters(
+	    select t.*, substr(t.USER_ID,3) sender_msisdn from wsc_sms_mms_log t where t.request_status ='1' and request_type='SMS'        
+	)
+2013-06-17 17:45:29,062 [main] DEBUG - endElement(,,SqlQuery)
+2013-06-17 17:45:29,062 [main] DEBUG -   match='Configuration/SqlQuery'
+2013-06-17 17:45:29,062 [main] DEBUG -   bodyText='
+	    select t.*, substr(t.USER_ID,3) sender_msisdn from wsc_sms_mms_log t where t.request_status ='1' and request_type='SMS'        
+	'
+2013-06-17 17:45:29,062 [main] DEBUG -   Fire body() for BeanPropertySetterRule[propertyName=sqlQuery]
+2013-06-17 17:45:29,062 [main] DEBUG - [BeanPropertySetterRule]{Configuration/SqlQuery} Called with text '
+	    select t.*, substr(t.USER_ID,3) sender_msisdn from wsc_sms_mms_log t where t.request_status ='1' and request_type='SMS'        
+	'
+2013-06-17 17:45:29,062 [main] DEBUG -   Popping body text '
+	
+	
+	
+	
+	'
+2013-06-17 17:45:29,062 [main] DEBUG -   Fire end() for BeanPropertySetterRule[propertyName=sqlQuery]
+2013-06-17 17:45:29,062 [main] DEBUG - [BeanPropertySetterRule]{Configuration/SqlQuery} Set com.gpit.ecare.websms.configuration.manager.ConfigurationManager property sqlQuery with text select t.*, substr(t.USER_ID,3) sender_msisdn from wsc_sms_mms_log t where t.request_status ='1' and request_type='SMS'
+2013-06-17 17:45:29,062 [main] DEBUG -   setProperty(com.gpit.ecare.websms.configuration.manager.ConfigurationManager@1decdec, sqlQuery, select t.*, substr(t.USER_ID,3) sender_msisdn from wsc_sms_mms_log t where t.request_status ='1' and request_type='SMS')
+2013-06-17 17:45:29,062 [main] DEBUG - Convert string 'select t.*, substr(t.USER_ID,3) sender_msisdn from wsc_sms_mms_log t where t.request_status ='1' and request_type='SMS'' to class 'java.lang.String'
+2013-06-17 17:45:29,062 [main] DEBUG -   Using converter org.apache.commons.beanutils.converters.StringConverter@15f5897
+2013-06-17 17:45:29,062 [main] DEBUG - setSimpleProperty: Invoking method public void com.gpit.ecare.websms.configuration.manager.ConfigurationManager.setSqlQuery(java.lang.String) with value select t.*, substr(t.USER_ID,3) sender_msisdn from wsc_sms_mms_log t where t.request_status ='1' and request_type='SMS' (class java.lang.String)
+2013-06-17 17:45:29,062 [main] DEBUG - characters(
+	)
+2013-06-17 17:45:29,062 [main] DEBUG - startElement(,,SqlQueryMMS)
+2013-06-17 17:45:29,062 [main] DEBUG -   Pushing body text '
+	
+	
+	
+	
+	
+	'
+2013-06-17 17:45:29,062 [main] DEBUG -   New match='Configuration/SqlQueryMMS'
+2013-06-17 17:45:29,062 [main] DEBUG -   Fire begin() for BeanPropertySetterRule[propertyName=sqlQueryMMS]
+2013-06-17 17:45:29,062 [main] DEBUG - characters(
+	    select t.*, substr(t.USER_ID,3) sender_msisdn from wsc_sms_mms_log t where t.request_status ='1' and request_type='MMS'     
+	)
+2013-06-17 17:45:29,062 [main] DEBUG - endElement(,,SqlQueryMMS)
+2013-06-17 17:45:29,062 [main] DEBUG -   match='Configuration/SqlQueryMMS'
+2013-06-17 17:45:29,062 [main] DEBUG -   bodyText='
+	    select t.*, substr(t.USER_ID,3) sender_msisdn from wsc_sms_mms_log t where t.request_status ='1' and request_type='MMS'     
+	'
+2013-06-17 17:45:29,062 [main] DEBUG -   Fire body() for BeanPropertySetterRule[propertyName=sqlQueryMMS]
+2013-06-17 17:45:29,062 [main] DEBUG - [BeanPropertySetterRule]{Configuration/SqlQueryMMS} Called with text '
+	    select t.*, substr(t.USER_ID,3) sender_msisdn from wsc_sms_mms_log t where t.request_status ='1' and request_type='MMS'     
+	'
+2013-06-17 17:45:29,062 [main] DEBUG -   Popping body text '
+	
+	
+	
+	
+	
+	'
+2013-06-17 17:45:29,062 [main] DEBUG -   Fire end() for BeanPropertySetterRule[propertyName=sqlQueryMMS]
+2013-06-17 17:45:29,062 [main] DEBUG - [BeanPropertySetterRule]{Configuration/SqlQueryMMS} Set com.gpit.ecare.websms.configuration.manager.ConfigurationManager property sqlQueryMMS with text select t.*, substr(t.USER_ID,3) sender_msisdn from wsc_sms_mms_log t where t.request_status ='1' and request_type='MMS'
+2013-06-17 17:45:29,062 [main] DEBUG -   setProperty(com.gpit.ecare.websms.configuration.manager.ConfigurationManager@1decdec, sqlQueryMMS, select t.*, substr(t.USER_ID,3) sender_msisdn from wsc_sms_mms_log t where t.request_status ='1' and request_type='MMS')
+2013-06-17 17:45:29,062 [main] DEBUG - Convert string 'select t.*, substr(t.USER_ID,3) sender_msisdn from wsc_sms_mms_log t where t.request_status ='1' and request_type='MMS'' to class 'java.lang.String'
+2013-06-17 17:45:29,063 [main] DEBUG -   Using converter org.apache.commons.beanutils.converters.StringConverter@15f5897
+2013-06-17 17:45:29,063 [main] DEBUG - setSimpleProperty: Invoking method public void com.gpit.ecare.websms.configuration.manager.ConfigurationManager.setSqlQueryMMS(java.lang.String) with value select t.*, substr(t.USER_ID,3) sender_msisdn from wsc_sms_mms_log t where t.request_status ='1' and request_type='MMS' (class java.lang.String)
+2013-06-17 17:45:29,063 [main] DEBUG - characters(
+	)
+2013-06-17 17:45:29,063 [main] DEBUG - startElement(,,DataSource)
+2013-06-17 17:45:29,063 [main] DEBUG -   Pushing body text '
+	
+	
+	
+	
+	
+	
+	'
+2013-06-17 17:45:29,063 [main] DEBUG -   New match='Configuration/DataSource'
+2013-06-17 17:45:29,063 [main] DEBUG -   Fire begin() for ObjectCreateRule[className=com.gpit.ecare.websms.driver.manager.DriverManagerDataSource, attributeName=null]
+2013-06-17 17:45:29,063 [main] DEBUG - [ObjectCreateRule]{Configuration/DataSource}New com.gpit.ecare.websms.driver.manager.DriverManagerDataSource
+2013-06-17 17:45:29,063 [main] DEBUG -   Fire begin() for SetNextRule[methodName=setDataSource, paramType=null]
+2013-06-17 17:45:29,063 [main] DEBUG - characters(
+		)
+2013-06-17 17:45:29,063 [main] DEBUG - startElement(,,Driver)
+2013-06-17 17:45:29,063 [main] DEBUG -   Pushing body text '
+		'
+2013-06-17 17:45:29,063 [main] DEBUG -   New match='Configuration/DataSource/Driver'
+2013-06-17 17:45:29,063 [main] DEBUG -   Fire begin() for BeanPropertySetterRule[propertyName=driver]
+2013-06-17 17:45:29,063 [main] DEBUG - characters(oracle.jdbc.driver.OracleDriver)
+2013-06-17 17:45:29,063 [main] DEBUG - endElement(,,Driver)
+2013-06-17 17:45:29,063 [main] DEBUG -   match='Configuration/DataSource/Driver'
+2013-06-17 17:45:29,063 [main] DEBUG -   bodyText='oracle.jdbc.driver.OracleDriver'
+2013-06-17 17:45:29,063 [main] DEBUG -   Fire body() for BeanPropertySetterRule[propertyName=driver]
+2013-06-17 17:45:29,063 [main] DEBUG - [BeanPropertySetterRule]{Configuration/DataSource/Driver} Called with text 'oracle.jdbc.driver.OracleDriver'
+2013-06-17 17:45:29,063 [main] DEBUG -   Popping body text '
+		'
+2013-06-17 17:45:29,063 [main] DEBUG -   Fire end() for BeanPropertySetterRule[propertyName=driver]
+2013-06-17 17:45:29,063 [main] DEBUG - [BeanPropertySetterRule]{Configuration/DataSource/Driver} Set com.gpit.ecare.websms.driver.manager.DriverManagerDataSource property driver with text oracle.jdbc.driver.OracleDriver
+2013-06-17 17:45:29,063 [main] DEBUG -   setProperty(com.gpit.ecare.websms.driver.manager.DriverManagerDataSource@e102dc, driver, oracle.jdbc.driver.OracleDriver)
+2013-06-17 17:45:29,063 [main] DEBUG - Convert string 'oracle.jdbc.driver.OracleDriver' to class 'java.lang.String'
+2013-06-17 17:45:29,063 [main] DEBUG -   Using converter org.apache.commons.beanutils.converters.StringConverter@15f5897
+2013-06-17 17:45:29,063 [main] DEBUG - setSimpleProperty: Invoking method public void com.gpit.ecare.websms.driver.manager.DriverManagerDataSource.setDriver(java.lang.String) with value oracle.jdbc.driver.OracleDriver (class java.lang.String)
+2013-06-17 17:45:29,063 [main] DEBUG - characters(
+		)
+2013-06-17 17:45:29,063 [main] DEBUG - startElement(,,Url)
+2013-06-17 17:45:29,063 [main] DEBUG -   Pushing body text '
+		
+		'
+2013-06-17 17:45:29,063 [main] DEBUG -   New match='Configuration/DataSource/Url'
+2013-06-17 17:45:29,063 [main] DEBUG -   Fire begin() for BeanPropertySetterRule[propertyName=url]
+2013-06-17 17:45:29,064 [main] DEBUG - characters(jdbc:oracle:thin:@(DESCRIPTION = (ADDRESS = (PROTOCOL = TCP) (HOST = 10.10.18.139) (PORT = 1521) )(LOAD_BALANCE = yes)(CONNECT_DATA = (SERVER = DEDICATED) (SERVICE_NAME = GPIVR)(FAILOVER_MODE = (TYPE = SELECT)(METHOD = BASIC)(RETRIES = 180)(DELAY = 5)))))
+2013-06-17 17:45:29,064 [main] DEBUG - endElement(,,Url)
+2013-06-17 17:45:29,064 [main] DEBUG -   match='Configuration/DataSource/Url'
+2013-06-17 17:45:29,064 [main] DEBUG -   bodyText='jdbc:oracle:thin:@(DESCRIPTION = (ADDRESS = (PROTOCOL = TCP) (HOST = 10.10.18.139) (PORT = 1521) )(LOAD_BALANCE = yes)(CONNECT_DATA = (SERVER = DEDICATED) (SERVICE_NAME = GPIVR)(FAILOVER_MODE = (TYPE = SELECT)(METHOD = BASIC)(RETRIES = 180)(DELAY = 5))))'
+2013-06-17 17:45:29,064 [main] DEBUG -   Fire body() for BeanPropertySetterRule[propertyName=url]
+2013-06-17 17:45:29,064 [main] DEBUG - [BeanPropertySetterRule]{Configuration/DataSource/Url} Called with text 'jdbc:oracle:thin:@(DESCRIPTION = (ADDRESS = (PROTOCOL = TCP) (HOST = 10.10.18.139) (PORT = 1521) )(LOAD_BALANCE = yes)(CONNECT_DATA = (SERVER = DEDICATED) (SERVICE_NAME = GPIVR)(FAILOVER_MODE = (TYPE = SELECT)(METHOD = BASIC)(RETRIES = 180)(DELAY = 5))))'
+2013-06-17 17:45:29,064 [main] DEBUG -   Popping body text '
+		
+		'
+2013-06-17 17:45:29,064 [main] DEBUG -   Fire end() for BeanPropertySetterRule[propertyName=url]
+2013-06-17 17:45:29,064 [main] DEBUG - [BeanPropertySetterRule]{Configuration/DataSource/Url} Set com.gpit.ecare.websms.driver.manager.DriverManagerDataSource property url with text jdbc:oracle:thin:@(DESCRIPTION = (ADDRESS = (PROTOCOL = TCP) (HOST = 10.10.18.139) (PORT = 1521) )(LOAD_BALANCE = yes)(CONNECT_DATA = (SERVER = DEDICATED) (SERVICE_NAME = GPIVR)(FAILOVER_MODE = (TYPE = SELECT)(METHOD = BASIC)(RETRIES = 180)(DELAY = 5))))
+2013-06-17 17:45:29,064 [main] DEBUG -   setProperty(com.gpit.ecare.websms.driver.manager.DriverManagerDataSource@e102dc, url, jdbc:oracle:thin:@(DESCRIPTION = (ADDRESS = (PROTOCOL = TCP) (HOST = 10.10.18.139) (PORT = 1521) )(LOAD_BALANCE = yes)(CONNECT_DATA = (SERVER = DEDICATED) (SERVICE_NAME = GPIVR)(FAILOVER_MODE = (TYPE = SELECT)(METHOD = BASIC)(RETRIES = 180)(DELAY = 5)))))
+2013-06-17 17:45:29,064 [main] DEBUG - Convert string 'jdbc:oracle:thin:@(DESCRIPTION = (ADDRESS = (PROTOCOL = TCP) (HOST = 10.10.18.139) (PORT = 1521) )(LOAD_BALANCE = yes)(CONNECT_DATA = (SERVER = DEDICATED) (SERVICE_NAME = GPIVR)(FAILOVER_MODE = (TYPE = SELECT)(METHOD = BASIC)(RETRIES = 180)(DELAY = 5))))' to class 'java.lang.String'
+2013-06-17 17:45:29,064 [main] DEBUG -   Using converter org.apache.commons.beanutils.converters.StringConverter@15f5897
+2013-06-17 17:45:29,064 [main] DEBUG - setSimpleProperty: Invoking method public void com.gpit.ecare.websms.driver.manager.DriverManagerDataSource.setUrl(java.lang.String) with value jdbc:oracle:thin:@(DESCRIPTION = (ADDRESS = (PROTOCOL = TCP) (HOST = 10.10.18.139) (PORT = 1521) )(LOAD_BALANCE = yes)(CONNECT_DATA = (SERVER = DEDICATED) (SERVICE_NAME = GPIVR)(FAILOVER_MODE = (TYPE = SELECT)(METHOD = BASIC)(RETRIES = 180)(DELAY = 5)))) (class java.lang.String)
+2013-06-17 17:45:29,064 [main] DEBUG - characters(
+		)
+2013-06-17 17:45:29,064 [main] DEBUG - startElement(,,User)
+2013-06-17 17:45:29,064 [main] DEBUG -   Pushing body text '
+		
+		
+		'
+2013-06-17 17:45:29,064 [main] DEBUG -   New match='Configuration/DataSource/User'
+2013-06-17 17:45:29,064 [main] DEBUG -   Fire begin() for BeanPropertySetterRule[propertyName=username]
+2013-06-17 17:45:29,064 [main] DEBUG - characters(wsc)
+2013-06-17 17:45:29,064 [main] DEBUG - endElement(,,User)
+2013-06-17 17:45:29,064 [main] DEBUG -   match='Configuration/DataSource/User'
+2013-06-17 17:45:29,064 [main] DEBUG -   bodyText='wsc'
+2013-06-17 17:45:29,064 [main] DEBUG -   Fire body() for BeanPropertySetterRule[propertyName=username]
+2013-06-17 17:45:29,064 [main] DEBUG - [BeanPropertySetterRule]{Configuration/DataSource/User} Called with text 'wsc'
+2013-06-17 17:45:29,064 [main] DEBUG -   Popping body text '
+		
+		
+		'
+2013-06-17 17:45:29,064 [main] DEBUG -   Fire end() for BeanPropertySetterRule[propertyName=username]
+2013-06-17 17:45:29,064 [main] DEBUG - [BeanPropertySetterRule]{Configuration/DataSource/User} Set com.gpit.ecare.websms.driver.manager.DriverManagerDataSource property username with text wsc
+2013-06-17 17:45:29,064 [main] DEBUG -   setProperty(com.gpit.ecare.websms.driver.manager.DriverManagerDataSource@e102dc, username, wsc)
+2013-06-17 17:45:29,064 [main] DEBUG - Convert string 'wsc' to class 'java.lang.String'
+2013-06-17 17:45:29,064 [main] DEBUG -   Using converter org.apache.commons.beanutils.converters.StringConverter@15f5897
+2013-06-17 17:45:29,064 [main] DEBUG - setSimpleProperty: Invoking method public void com.gpit.ecare.websms.driver.manager.DriverManagerDataSource.setUsername(java.lang.String) with value wsc (class java.lang.String)
+2013-06-17 17:45:29,065 [main] DEBUG - characters(
+		)
+2013-06-17 17:45:29,065 [main] DEBUG - startElement(,,Password)
+2013-06-17 17:45:29,065 [main] DEBUG -   Pushing body text '
+		
+		
+		
+		'
+2013-06-17 17:45:29,065 [main] DEBUG -   New match='Configuration/DataSource/Password'
+2013-06-17 17:45:29,065 [main] DEBUG -   Fire begin() for BeanPropertySetterRule[propertyName=password]
+2013-06-17 17:45:29,065 [main] DEBUG - characters(wsc121)
+2013-06-17 17:45:29,065 [main] DEBUG - endElement(,,Password)
+2013-06-17 17:45:29,065 [main] DEBUG -   match='Configuration/DataSource/Password'
+2013-06-17 17:45:29,065 [main] DEBUG -   bodyText='wsc121'
+2013-06-17 17:45:29,065 [main] DEBUG -   Fire body() for BeanPropertySetterRule[propertyName=password]
+2013-06-17 17:45:29,065 [main] DEBUG - [BeanPropertySetterRule]{Configuration/DataSource/Password} Called with text 'wsc121'
+2013-06-17 17:45:29,065 [main] DEBUG -   Popping body text '
+		
+		
+		
+		'
+2013-06-17 17:45:29,065 [main] DEBUG -   Fire end() for BeanPropertySetterRule[propertyName=password]
+2013-06-17 17:45:29,065 [main] DEBUG - [BeanPropertySetterRule]{Configuration/DataSource/Password} Set com.gpit.ecare.websms.driver.manager.DriverManagerDataSource property password with text wsc121
+2013-06-17 17:45:29,065 [main] DEBUG -   setProperty(com.gpit.ecare.websms.driver.manager.DriverManagerDataSource@e102dc, password, wsc121)
+2013-06-17 17:45:29,065 [main] DEBUG - Convert string 'wsc121' to class 'java.lang.String'
+2013-06-17 17:45:29,065 [main] DEBUG -   Using converter org.apache.commons.beanutils.converters.StringConverter@15f5897
+2013-06-17 17:45:29,065 [main] DEBUG - setSimpleProperty: Invoking method public void com.gpit.ecare.websms.driver.manager.DriverManagerDataSource.setPassword(java.lang.String) with value wsc121 (class java.lang.String)
+2013-06-17 17:45:29,065 [main] DEBUG - characters(
+	)
+2013-06-17 17:45:29,065 [main] DEBUG - endElement(,,DataSource)
+2013-06-17 17:45:29,065 [main] DEBUG -   match='Configuration/DataSource'
+2013-06-17 17:45:29,065 [main] DEBUG -   bodyText='
+		
+		
+		
+		
+	'
+2013-06-17 17:45:29,065 [main] DEBUG -   Fire body() for ObjectCreateRule[className=com.gpit.ecare.websms.driver.manager.DriverManagerDataSource, attributeName=null]
+2013-06-17 17:45:29,065 [main] DEBUG -   Fire body() for SetNextRule[methodName=setDataSource, paramType=null]
+2013-06-17 17:45:29,065 [main] DEBUG -   Popping body text '
+	
+	
+	
+	
+	
+	
+	'
+2013-06-17 17:45:29,065 [main] DEBUG -   Fire end() for SetNextRule[methodName=setDataSource, paramType=null]
+2013-06-17 17:45:29,065 [main] DEBUG - [SetNextRule]{Configuration/DataSource} Call com.gpit.ecare.websms.configuration.manager.ConfigurationManager.setDataSource(com.gpit.ecare.websms.driver.manager.DriverManagerDataSource@e102dc)
+2013-06-17 17:45:29,065 [main] DEBUG - Matching name=setDataSource on class com.gpit.ecare.websms.configuration.manager.ConfigurationManager
+2013-06-17 17:45:29,065 [main] DEBUG - Found straight match: public void com.gpit.ecare.websms.configuration.manager.ConfigurationManager.setDataSource(com.gpit.ecare.websms.driver.manager.DriverManagerDataSource)
+2013-06-17 17:45:29,065 [main] DEBUG - isPublic:true
+2013-06-17 17:45:29,065 [main] DEBUG -   Fire end() for ObjectCreateRule[className=com.gpit.ecare.websms.driver.manager.DriverManagerDataSource, attributeName=null]
+2013-06-17 17:45:29,065 [main] DEBUG - [ObjectCreateRule]{Configuration/DataSource} Pop com.gpit.ecare.websms.driver.manager.DriverManagerDataSource
+2013-06-17 17:45:29,065 [main] DEBUG - characters(
+)
+2013-06-17 17:45:29,066 [main] DEBUG - endElement(,,Configuration)
+2013-06-17 17:45:29,066 [main] DEBUG -   match='Configuration'
+2013-06-17 17:45:29,066 [main] DEBUG -   bodyText='
+	
+	
+	
+	
+	
+	
+	
+'
+2013-06-17 17:45:29,066 [main] DEBUG -   Fire body() for ObjectCreateRule[className=com.gpit.ecare.websms.configuration.manager.ConfigurationManager, attributeName=null]
+2013-06-17 17:45:29,066 [main] DEBUG -   Popping body text ''
+2013-06-17 17:45:29,066 [main] DEBUG -   Fire end() for ObjectCreateRule[className=com.gpit.ecare.websms.configuration.manager.ConfigurationManager, attributeName=null]
+2013-06-17 17:45:29,066 [main] DEBUG - [ObjectCreateRule]{Configuration} Pop com.gpit.ecare.websms.configuration.manager.ConfigurationManager
+2013-06-17 17:45:29,066 [main] DEBUG - endDocument()
+2013-06-17 17:45:29,066 [main] INFO -  ConfigurationManager:getConfiguration loading end Mon Jun 17 17:45:29 BDT 2013
+2013-06-17 17:45:29,066 [main] INFO -  Database connection Started Mon Jun 17 17:45:29 BDT 2013
+2013-06-17 17:45:29,325 [main] INFO - C:\JavaPrograms\WebMMSSender\CtrlFolder\ctrl\MMSC.CTRL
+2013-06-17 17:45:29,325 [main] INFO - WebMMsSMSSender:: calling run()Mon Jun 17 17:45:29 BDT 2013
+2013-06-17 17:45:29,326 [main] INFO -  Database connection Started Mon Jun 17 17:45:29 BDT 2013
+2013-06-17 17:45:29,453 [main] INFO -  WebMMSSender:initQueryDataSOurce Started Mon Jun 17 17:45:29 BDT 2013
+2013-06-17 17:45:29,971 [main] FATAL - Sms count error -- java.sql.SQLException: Invalid operation for forward only resultset : last
+2013-06-17 17:45:29,971 [main] FATAL - Mms count error -- java.sql.SQLException: Invalid operation for forward only resultset : last
+2013-06-17 17:45:29,972 [main] INFO - Sms count-- 0 Mms count-- 0
+2013-06-17 17:45:29,972 [main] INFO -  WebMMSSender:initQueryDataSOurce completed Mon Jun 17 17:45:29 BDT 2013
+2013-06-17 17:45:29,989 [main] INFO -  WebMMSSender:closeQueryDataSOurce Started Mon Jun 17 17:45:29 BDT 2013
+2013-06-17 17:45:30,000 [main] INFO -  WebMMSSender:closeQueryDataSOurce completed Mon Jun 17 17:45:30 BDT 2013
+2013-06-17 17:45:30,031 [main] INFO - WebMMSSender: SMS and MMS sending complete, Going to sleep for 1 min Mon Jun 17 17:45:30 BDT 2013
+2013-06-17 17:46:30,031 [main] INFO - WebMMSSender: Wake up after 1 min at Mon Jun 17 17:46:30 BDT 2013
+2013-06-17 17:46:30,032 [main] INFO -  Database connection Started Mon Jun 17 17:46:30 BDT 2013
+2013-06-17 17:46:30,194 [main] INFO -  WebMMSSender:initQueryDataSOurce Started Mon Jun 17 17:46:30 BDT 2013
+2013-06-17 17:46:30,466 [main] FATAL - Sms count error -- java.sql.SQLException: Invalid operation for forward only resultset : last
+2013-06-17 17:46:30,466 [main] FATAL - Mms count error -- java.sql.SQLException: Invalid operation for forward only resultset : last
+2013-06-17 17:46:30,466 [main] INFO - Sms count-- 0 Mms count-- 0
+2013-06-17 17:46:30,466 [main] INFO -  WebMMSSender:initQueryDataSOurce completed Mon Jun 17 17:46:30 BDT 2013
+2013-06-17 17:46:30,482 [main] INFO -  WebMMSSender:closeQueryDataSOurce Started Mon Jun 17 17:46:30 BDT 2013
+2013-06-17 17:46:30,487 [main] INFO -  WebMMSSender:closeQueryDataSOurce completed Mon Jun 17 17:46:30 BDT 2013
+2013-06-17 17:46:30,514 [main] INFO - WebMMSSender: SMS and MMS sending complete, Going to sleep for 1 min Mon Jun 17 17:46:30 BDT 2013

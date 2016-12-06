@@ -1,0 +1,6 @@
+	<DataSource>
+		<Driver>oracle.jdbc.driver.OracleDriver</Driver>
+		<Url>jdbc:oracle:thin:@10.10.18.42:1521:BSCSTEST</Url>
+		<User>creditctlapp</User>
+		<Password>creditctlapp</Password>
+	</DataSource>

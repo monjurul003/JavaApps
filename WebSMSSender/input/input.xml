@@ -1,0 +1,18 @@
+<Configuration>
+	<CtrlDirectory>/webapp01/wscuser/apache-tomcat-6.0.33/webapps/WebSMSSender/CtrlFolder/ctrl</CtrlDirectory>
+	<CtrlDirectory1>C:\JavaPrograms\WebSMSSender\CtrlFolder\ctrl</CtrlDirectory1>
+	<ConfigFileLocation>/webapp01/wscuser/apache-tomcat-6.0.33/webapps/WebSMSSender/conf/WebSmsMmsSenderServer_log4jConfig.xml</ConfigFileLocation>
+	<ConfigFileLocation1>C:/JavaPrograms/WebSMSSender/conf/WebSmsMmsSender_log4jConfig.xml</ConfigFileLoscation1>
+	<SqlQuery>
+	    select t.*, substr(t.USER_ID,3) sender_msisdn from wsc_sms_mms_log t where t.request_status is null and request_type='SMS'        
+	</SqlQuery>
+	<SqlQueryMMS>
+	    select t.*, substr(t.USER_ID,3) sender_msisdn from wsc_sms_mms_log t where t.request_status is null and request_type='MMS'     
+	</SqlQueryMMS>
+	<DataSource>
+		<Driver>oracle.jdbc.driver.OracleDriver</Driver>
+		<Url>jdbc:oracle:thin:@(DESCRIPTION = (ADDRESS = (PROTOCOL = TCP) (HOST = 10.10.18.139) (PORT = 1521) )(LOAD_BALANCE = yes)(CONNECT_DATA = (SERVER = DEDICATED) (SERVICE_NAME = GPIVR)(FAILOVER_MODE = (TYPE = SELECT)(METHOD = BASIC)(RETRIES = 180)(DELAY = 5))))</Url>
+		<User>wsc</User>
+		<Password>wsc121</Password>
+	</DataSource>
+</Configuration>

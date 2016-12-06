@@ -1,0 +1,37 @@
+2014-03-05 11:38:30,293 [main] INFO - FileProcessor:: createAndInitFileWithStringContent() done
+2014-03-05 11:38:30,295 [main] INFO - FileProcessor:: appendFileWithStringContent() done
+2014-03-05 11:39:22,358 [main] INFO - FileProcessor:: createAndInitFileWithStringContent() done
+2014-03-05 11:39:22,359 [main] INFO - FileProcessor:: appendFileWithStringContent() done
+2014-03-05 11:39:36,769 [main] INFO - FileProcessor:: createAndInitFileWithStringContent()-- file created
+2014-03-05 11:39:36,770 [main] INFO - FileProcessor:: createAndInitFileWithStringContent() done
+2014-03-05 11:39:36,773 [main] INFO - FileProcessor:: appendFileWithStringContent() done
+2014-03-05 11:41:23,345 [main] INFO - FileProcessor:: createAndInitFileWithStringContent()-- file created
+2014-03-05 11:41:23,346 [main] INFO - FileProcessor:: createAndInitFileWithStringContent() done
+2014-03-05 11:41:23,348 [main] INFO - FileProcessor:: appendFileWithStringContent() done
+2014-03-05 11:41:36,106 [main] INFO - FileProcessor:: createAndInitFileWithStringContent() done
+2014-03-05 11:41:36,106 [main] INFO - FileProcessor:: appendFileWithStringContent()-- file locationG:\Hello.txt
+2014-03-05 11:41:36,108 [main] INFO - FileProcessor:: appendFileWithStringContent() done
+2014-03-05 11:41:42,568 [main] INFO - FileProcessor:: createAndInitFileWithStringContent() done
+2014-03-05 11:41:42,568 [main] INFO - FileProcessor:: appendFileWithStringContent()-- file locationG:\Hello.txt
+2014-03-05 11:41:42,569 [main] INFO - FileProcessor:: appendFileWithStringContent() done
+2014-03-05 11:43:59,697 [main] INFO - FileProcessor:: createAndInitFileWithStringContent() done
+2014-03-05 11:43:59,698 [main] INFO - FileProcessor:: appendFileWithStringContent()-- file locationG:\Hello.txt
+2014-03-05 11:43:59,699 [main] INFO - FileProcessor:: appendFileWithStringContent() done
+2014-03-05 11:48:16,433 [main] INFO - FileProcessor:: createAndInitFileWithStringContent() done
+2014-03-05 11:48:16,433 [main] INFO - FileProcessor:: appendFileWithStringContent()-- file locationG:\Hello.txt
+2014-03-05 11:48:16,435 [main] INFO - FileProcessor:: appendFileWithStringContent() done
+2014-03-05 11:48:28,071 [main] INFO - FileProcessor:: createAndInitFileWithStringContent() done
+2014-03-05 11:48:28,071 [main] INFO - FileProcessor:: appendFileWithStringContent()-- file locationG:\Hello.txt
+2014-03-05 11:48:28,073 [main] INFO - FileProcessor:: appendFileWithStringContent() done
+2014-03-05 11:49:05,735 [main] INFO - FileProcessor:: createAndInitFileWithStringContent() done
+2014-03-05 11:49:05,736 [main] INFO - FileProcessor:: appendFileWithStringContent()-- file locationG:\Hello.txt
+2014-03-05 11:49:05,737 [main] INFO - FileProcessor:: appendFileWithStringContent() done
+2014-03-05 11:49:21,271 [main] INFO - FileProcessor:: createAndInitFileWithStringContent() done
+2014-03-05 11:49:21,271 [main] INFO - FileProcessor:: appendFileWithStringContent()-- file locationG:\Hello.txt
+2014-03-05 11:49:21,274 [main] INFO - FileProcessor:: appendFileWithStringContent() done
+2014-03-05 11:49:43,438 [main] INFO - FileProcessor:: createAndInitFileWithStringContent() done
+2014-03-05 11:49:43,439 [main] INFO - FileProcessor:: appendFileWithStringContent()-- file locationG:\Hello.txt
+2014-03-05 11:49:43,440 [main] INFO - FileProcessor:: appendFileWithStringContent() done
+2014-03-05 11:49:46,133 [main] INFO - FileProcessor:: createAndInitFileWithStringContent() done
+2014-03-05 11:49:46,133 [main] INFO - FileProcessor:: appendFileWithStringContent()-- file locationG:\Hello.txt
+2014-03-05 11:49:46,136 [main] INFO - FileProcessor:: appendFileWithStringContent() done

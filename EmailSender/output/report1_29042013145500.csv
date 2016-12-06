@@ -1,0 +1,8 @@
+SERVICEID,ROUND(AVG(SEC))
+sim,12
+incoming_bar,4
+mca,13
+callblock,43
+edge,14
+outgoing_bar,2
+fnf,130

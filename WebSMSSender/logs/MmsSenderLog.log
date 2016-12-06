@@ -1,0 +1,366 @@
+2013-06-16 09:47:20,061 - com.gpit.ecare.websms.business.manager.MMsSender - INFO -  WebMMSSender:run inside sms while- recipient-- 01755517035 sender-- 01714041356
+2013-06-16 09:47:32,392 - com.gpit.ecare.websms.business.manager.MMsSender - INFO -  WebMMSSender:run inside while sms- response -OK
+2013-06-16 09:47:32,393 - com.gpit.ecare.websms.business.manager.MMsSender - INFO -  WebMMSSender:executeUpdateDataSOurce Started Sun Jun 16 09:47:32 BDT 2013
+2013-06-16 09:47:32,403 - com.gpit.ecare.websms.business.manager.MMsSender - INFO -  WebMMSSender:executeUpdateDataSOurce completed Sun Jun 16 09:47:32 BDT 2013
+2013-06-16 09:47:32,419 - com.gpit.ecare.websms.business.manager.MMsSender - INFO -  WebMMSSender:closeUpdateDataSOurce Started Sun Jun 16 09:47:32 BDT 2013
+2013-06-16 09:47:32,419 - com.gpit.ecare.websms.business.manager.MMsSender - INFO -  WebMMSSender:closeUpdateDataSOurce completed Sun Jun 16 09:47:32 BDT 2013
+2013-06-16 09:47:32,434 - com.gpit.ecare.websms.business.manager.MMsSender - INFO -  WebMMSSender:updateRequestStatus Started Sun Jun 16 09:47:32 BDT 2013
+2013-06-16 09:47:32,438 - com.gpit.ecare.websms.business.manager.MMsSender - INFO -  WebMMSSender:updateRequestStatus completed Sun Jun 16 09:47:32 BDT 2013
+2013-06-16 09:47:32,454 - com.gpit.ecare.websms.business.manager.MMsSender - INFO -  WebMMSSender:run():: sms while-  
+2013-06-16 09:47:32,454 - com.gpit.ecare.websms.business.manager.MMsSender - INFO -  WebMMSSender:run inside sms while- recipient-- 01714094351 sender-- 01714041356
+2013-06-16 09:47:34,997 - com.gpit.ecare.websms.business.manager.MMsSender - INFO -  WebMMSSender:run inside while sms- response -OK
+2013-06-16 09:47:34,998 - com.gpit.ecare.websms.business.manager.MMsSender - INFO -  WebMMSSender:executeUpdateDataSOurce Started Sun Jun 16 09:47:34 BDT 2013
+2013-06-16 09:47:35,008 - com.gpit.ecare.websms.business.manager.MMsSender - INFO -  WebMMSSender:executeUpdateDataSOurce completed Sun Jun 16 09:47:35 BDT 2013
+2013-06-16 09:47:35,023 - com.gpit.ecare.websms.business.manager.MMsSender - INFO -  WebMMSSender:closeUpdateDataSOurce Started Sun Jun 16 09:47:35 BDT 2013
+2013-06-16 09:47:35,023 - com.gpit.ecare.websms.business.manager.MMsSender - INFO -  WebMMSSender:closeUpdateDataSOurce completed Sun Jun 16 09:47:35 BDT 2013
+2013-06-16 09:47:35,038 - com.gpit.ecare.websms.business.manager.MMsSender - INFO -  WebMMSSender:updateRequestStatus Started Sun Jun 16 09:47:35 BDT 2013
+2013-06-16 09:47:35,042 - com.gpit.ecare.websms.business.manager.MMsSender - INFO -  WebMMSSender:updateRequestStatus completed Sun Jun 16 09:47:35 BDT 2013
+2013-06-16 09:47:35,058 - com.gpit.ecare.websms.business.manager.MMsSender - INFO -  WebMMSSender:run():: sms while-  
+2013-06-16 09:47:35,058 - com.gpit.ecare.websms.business.manager.MMsSender - INFO -  WebMMSSender:run inside sms while- recipient-- 01755517652 sender-- 01714041356
+2013-06-16 09:47:36,369 - com.gpit.ecare.websms.business.manager.MMsSender - INFO -  WebMMSSender:run inside while sms- response -OK
+2013-06-16 09:47:36,369 - com.gpit.ecare.websms.business.manager.MMsSender - INFO -  WebMMSSender:executeUpdateDataSOurce Started Sun Jun 16 09:47:36 BDT 2013
+2013-06-16 09:47:36,376 - com.gpit.ecare.websms.business.manager.MMsSender - INFO -  WebMMSSender:executeUpdateDataSOurce completed Sun Jun 16 09:47:36 BDT 2013
+2013-06-16 09:47:36,392 - com.gpit.ecare.websms.business.manager.MMsSender - INFO -  WebMMSSender:closeUpdateDataSOurce Started Sun Jun 16 09:47:36 BDT 2013
+2013-06-16 09:47:36,392 - com.gpit.ecare.websms.business.manager.MMsSender - INFO -  WebMMSSender:closeUpdateDataSOurce completed Sun Jun 16 09:47:36 BDT 2013
+2013-06-16 09:47:36,408 - com.gpit.ecare.websms.business.manager.MMsSender - INFO -  WebMMSSender:updateRequestStatus Started Sun Jun 16 09:47:36 BDT 2013
+2013-06-16 09:47:36,411 - com.gpit.ecare.websms.business.manager.MMsSender - INFO -  WebMMSSender:updateRequestStatus completed Sun Jun 16 09:47:36 BDT 2013
+2013-06-16 09:47:36,430 - com.gpit.ecare.websms.business.manager.MMsSender - INFO -  WebMMSSender:run():: sms while-  
+2013-06-16 09:47:36,430 - com.gpit.ecare.websms.business.manager.MMsSender - INFO -  WebMMSSender:run inside sms while- recipient-- 01755516950 sender-- 01714041356
+2013-06-16 09:47:38,200 - com.gpit.ecare.websms.business.manager.MMsSender - INFO -  WebMMSSender:run inside while sms- response -OK
+2013-06-16 09:47:38,200 - com.gpit.ecare.websms.business.manager.MMsSender - INFO -  WebMMSSender:executeUpdateDataSOurce Started Sun Jun 16 09:47:38 BDT 2013
+2013-06-16 09:47:38,207 - com.gpit.ecare.websms.business.manager.MMsSender - INFO -  WebMMSSender:executeUpdateDataSOurce completed Sun Jun 16 09:47:38 BDT 2013
+2013-06-16 09:47:38,222 - com.gpit.ecare.websms.business.manager.MMsSender - INFO -  WebMMSSender:closeUpdateDataSOurce Started Sun Jun 16 09:47:38 BDT 2013
+2013-06-16 09:47:38,223 - com.gpit.ecare.websms.business.manager.MMsSender - INFO -  WebMMSSender:closeUpdateDataSOurce completed Sun Jun 16 09:47:38 BDT 2013
+2013-06-16 09:47:38,238 - com.gpit.ecare.websms.business.manager.MMsSender - INFO -  WebMMSSender:updateRequestStatus Started Sun Jun 16 09:47:38 BDT 2013
+2013-06-16 09:47:38,241 - com.gpit.ecare.websms.business.manager.MMsSender - INFO -  WebMMSSender:updateRequestStatus completed Sun Jun 16 09:47:38 BDT 2013
+2013-06-16 09:47:38,257 - com.gpit.ecare.websms.business.manager.MMsSender - INFO -  WebMMSSender:run():: sms while-  
+2013-06-16 09:47:38,257 - com.gpit.ecare.websms.business.manager.MMsSender - INFO -  WebMMSSender:run inside sms while- recipient-- 01755517440 sender-- 01714041356
+2013-06-16 09:47:39,631 - com.gpit.ecare.websms.business.manager.MMsSender - INFO -  WebMMSSender:run inside while sms- response -OK
+2013-06-16 09:47:39,631 - com.gpit.ecare.websms.business.manager.MMsSender - INFO -  WebMMSSender:executeUpdateDataSOurce Started Sun Jun 16 09:47:39 BDT 2013
+2013-06-16 09:47:39,639 - com.gpit.ecare.websms.business.manager.MMsSender - INFO -  WebMMSSender:executeUpdateDataSOurce completed Sun Jun 16 09:47:39 BDT 2013
+2013-06-16 09:47:39,657 - com.gpit.ecare.websms.business.manager.MMsSender - INFO -  WebMMSSender:closeUpdateDataSOurce Started Sun Jun 16 09:47:39 BDT 2013
+2013-06-16 09:47:39,658 - com.gpit.ecare.websms.business.manager.MMsSender - INFO -  WebMMSSender:closeUpdateDataSOurce completed Sun Jun 16 09:47:39 BDT 2013
+2013-06-16 09:47:39,675 - com.gpit.ecare.websms.business.manager.MMsSender - INFO -  WebMMSSender:updateRequestStatus Started Sun Jun 16 09:47:39 BDT 2013
+2013-06-16 09:47:39,680 - com.gpit.ecare.websms.business.manager.MMsSender - INFO -  WebMMSSender:updateRequestStatus completed Sun Jun 16 09:47:39 BDT 2013
+2013-06-16 09:47:39,698 - com.gpit.ecare.websms.business.manager.MMsSender - INFO -  WebMMSSender:run():: sms while-  
+2013-06-16 09:47:39,698 - com.gpit.ecare.websms.business.manager.MMsSender - INFO -  WebMMSSender:run inside sms while- recipient-- 01755517002 sender-- 01714041356
+2013-06-16 09:47:40,743 - com.gpit.ecare.websms.business.manager.MMsSender - INFO -  WebMMSSender:run inside while sms- response -OK
+2013-06-16 09:47:40,743 - com.gpit.ecare.websms.business.manager.MMsSender - INFO -  WebMMSSender:executeUpdateDataSOurce Started Sun Jun 16 09:47:40 BDT 2013
+2013-06-16 09:47:40,755 - com.gpit.ecare.websms.business.manager.MMsSender - INFO -  WebMMSSender:executeUpdateDataSOurce completed Sun Jun 16 09:47:40 BDT 2013
+2013-06-16 09:47:40,770 - com.gpit.ecare.websms.business.manager.MMsSender - INFO -  WebMMSSender:closeUpdateDataSOurce Started Sun Jun 16 09:47:40 BDT 2013
+2013-06-16 09:47:40,770 - com.gpit.ecare.websms.business.manager.MMsSender - INFO -  WebMMSSender:closeUpdateDataSOurce completed Sun Jun 16 09:47:40 BDT 2013
+2013-06-16 09:47:40,785 - com.gpit.ecare.websms.business.manager.MMsSender - INFO -  WebMMSSender:updateRequestStatus Started Sun Jun 16 09:47:40 BDT 2013
+2013-06-16 09:47:40,790 - com.gpit.ecare.websms.business.manager.MMsSender - INFO -  WebMMSSender:updateRequestStatus completed Sun Jun 16 09:47:40 BDT 2013
+2013-06-16 09:47:40,805 - com.gpit.ecare.websms.business.manager.MMsSender - INFO -  WebMMSSender:run():: sms while-  
+2013-06-16 09:47:40,805 - com.gpit.ecare.websms.business.manager.MMsSender - INFO -  WebMMSSender:run inside sms while- recipient-- 01755517110 sender-- 01714041356
+2013-06-16 09:47:42,273 - com.gpit.ecare.websms.business.manager.MMsSender - INFO -  WebMMSSender:run inside while sms- response -OK
+2013-06-16 09:47:42,273 - com.gpit.ecare.websms.business.manager.MMsSender - INFO -  WebMMSSender:executeUpdateDataSOurce Started Sun Jun 16 09:47:42 BDT 2013
+2013-06-16 09:47:42,283 - com.gpit.ecare.websms.business.manager.MMsSender - INFO -  WebMMSSender:executeUpdateDataSOurce completed Sun Jun 16 09:47:42 BDT 2013
+2013-06-16 09:47:42,299 - com.gpit.ecare.websms.business.manager.MMsSender - INFO -  WebMMSSender:closeUpdateDataSOurce Started Sun Jun 16 09:47:42 BDT 2013
+2013-06-16 09:47:42,299 - com.gpit.ecare.websms.business.manager.MMsSender - INFO -  WebMMSSender:closeUpdateDataSOurce completed Sun Jun 16 09:47:42 BDT 2013
+2013-06-16 09:47:42,314 - com.gpit.ecare.websms.business.manager.MMsSender - INFO -  WebMMSSender:updateRequestStatus Started Sun Jun 16 09:47:42 BDT 2013
+2013-06-16 09:47:42,317 - com.gpit.ecare.websms.business.manager.MMsSender - INFO -  WebMMSSender:updateRequestStatus completed Sun Jun 16 09:47:42 BDT 2013
+2013-06-16 09:47:42,332 - com.gpit.ecare.websms.business.manager.MMsSender - INFO -  WebMMSSender:run():: sms while-  
+2013-06-16 09:47:42,332 - com.gpit.ecare.websms.business.manager.MMsSender - INFO -  WebMMSSender:run inside sms while- recipient-- 01714094385 sender-- 01714041356
+2013-06-16 09:47:44,348 - com.gpit.ecare.websms.business.manager.MMsSender - INFO -  WebMMSSender:run inside while sms- response -OK
+2013-06-16 09:47:44,348 - com.gpit.ecare.websms.business.manager.MMsSender - INFO -  WebMMSSender:executeUpdateDataSOurce Started Sun Jun 16 09:47:44 BDT 2013
+2013-06-16 09:47:44,358 - com.gpit.ecare.websms.business.manager.MMsSender - INFO -  WebMMSSender:executeUpdateDataSOurce completed Sun Jun 16 09:47:44 BDT 2013
+2013-06-16 09:47:44,373 - com.gpit.ecare.websms.business.manager.MMsSender - INFO -  WebMMSSender:closeUpdateDataSOurce Started Sun Jun 16 09:47:44 BDT 2013
+2013-06-16 09:47:44,373 - com.gpit.ecare.websms.business.manager.MMsSender - INFO -  WebMMSSender:closeUpdateDataSOurce completed Sun Jun 16 09:47:44 BDT 2013
+2013-06-16 09:47:44,393 - com.gpit.ecare.websms.business.manager.MMsSender - INFO -  WebMMSSender:closeQueryDataSOurce Started Sun Jun 16 09:47:44 BDT 2013
+2013-06-16 09:47:44,397 - com.gpit.ecare.websms.business.manager.MMsSender - INFO -  WebMMSSender:closeQueryDataSOurce completed Sun Jun 16 09:47:44 BDT 2013
+2013-06-16 09:49:49,782 - com.gpit.ecare.websms.Main - INFO -  Web MMS Sender Started Sun Jun 16 09:49:49 BDT 2013
+2013-06-16 09:49:49,803 - com.gpit.ecare.websms.configuration.manager.ConfigurationManager - INFO -  ConfigurationManager:getConfiguration loading start Sun Jun 16 09:49:49 BDT 2013
+2013-06-16 09:49:49,841 - com.gpit.ecare.websms.configuration.manager.ConfigurationManager - INFO -  ConfigurationManager:getConfiguration loading end Sun Jun 16 09:49:49 BDT 2013
+2013-06-16 09:49:49,842 - com.gpit.ecare.websms.driver.manager.DriverManagerDataSource - INFO -  Database connection Started Sun Jun 16 09:49:49 BDT 2013
+2013-06-16 09:49:50,131 - com.gpit.ecare.websms.business.manager.MMsSender - INFO - C:\JavaPrograms\WebMMSSender\CtrlFolder\ctrl\MMSC.CTRL
+2013-06-16 09:49:50,132 - com.gpit.ecare.websms.business.manager.MMsSender - INFO -  WebMMSSender:updateSchedule Started Sun Jun 16 09:49:50 BDT 2013
+2013-06-16 09:49:50,214 - com.gpit.ecare.websms.business.manager.MMsSender - INFO -  WebMMSSender:updateSchedule completed Sun Jun 16 09:49:50 BDT 2013
+2013-06-16 09:49:50,228 - com.gpit.ecare.websms.driver.manager.DriverManagerDataSource - INFO -  Database connection Started Sun Jun 16 09:49:50 BDT 2013
+2013-06-16 09:49:50,371 - com.gpit.ecare.websms.business.manager.MMsSender - INFO -  WebMMSSender:updateSchedule Started Sun Jun 16 09:49:50 BDT 2013
+2013-06-16 09:49:50,393 - com.gpit.ecare.websms.business.manager.MMsSender - INFO -  WebMMSSender:updateSchedule completed Sun Jun 16 09:49:50 BDT 2013
+2013-06-16 09:49:50,418 - com.gpit.ecare.websms.business.manager.MMsSender - INFO -  WebMMSSender:initQueryDataSOurce Started Sun Jun 16 09:49:50 BDT 2013
+2013-06-16 09:49:50,728 - com.gpit.ecare.websms.business.manager.MMsSender - INFO -  WebMMSSender:initQueryDataSOurce completed Sun Jun 16 09:49:50 BDT 2013
+2013-06-16 09:49:50,778 - com.gpit.ecare.websms.business.manager.MMsSender - INFO -  WebMMSSender:updateRequestStatus Started Sun Jun 16 09:49:50 BDT 2013
+2013-06-16 09:49:50,792 - com.gpit.ecare.websms.business.manager.MMsSender - INFO -  WebMMSSender:updateRequestStatus completed Sun Jun 16 09:49:50 BDT 2013
+2013-06-16 09:49:50,815 - com.gpit.ecare.websms.business.manager.MMsSender - INFO -  WebMMSSender:run():: sms while-  
+2013-06-16 09:49:50,816 - com.gpit.ecare.websms.business.manager.MMsSender - INFO -  WebMMSSender:run inside sms while- recipient-- 01755517831 sender-- 01714041356
+2013-06-16 09:49:52,136 - com.gpit.ecare.websms.business.manager.MMsSender - INFO -  WebMMSSender:run inside while sms- response -OK
+2013-06-16 09:49:52,137 - com.gpit.ecare.websms.business.manager.MMsSender - INFO -  WebMMSSender:executeUpdateDataSOurce Started Sun Jun 16 09:49:52 BDT 2013
+2013-06-16 09:49:52,147 - com.gpit.ecare.websms.business.manager.MMsSender - INFO -  WebMMSSender:executeUpdateDataSOurce completed Sun Jun 16 09:49:52 BDT 2013
+2013-06-16 09:49:52,162 - com.gpit.ecare.websms.business.manager.MMsSender - INFO -  WebMMSSender:closeUpdateDataSOurce Started Sun Jun 16 09:49:52 BDT 2013
+2013-06-16 09:49:52,163 - com.gpit.ecare.websms.business.manager.MMsSender - INFO -  WebMMSSender:closeUpdateDataSOurce completed Sun Jun 16 09:49:52 BDT 2013
+2013-06-16 09:49:52,178 - com.gpit.ecare.websms.business.manager.MMsSender - INFO -  WebMMSSender:updateRequestStatus Started Sun Jun 16 09:49:52 BDT 2013
+2013-06-16 09:49:52,184 - com.gpit.ecare.websms.business.manager.MMsSender - INFO -  WebMMSSender:updateRequestStatus completed Sun Jun 16 09:49:52 BDT 2013
+2013-06-16 09:49:52,200 - com.gpit.ecare.websms.business.manager.MMsSender - INFO -  WebMMSSender:run():: sms while-  
+2013-06-16 09:49:52,200 - com.gpit.ecare.websms.business.manager.MMsSender - INFO -  WebMMSSender:run inside sms while- recipient-- 01755517852 sender-- 01714041356
+2013-06-16 09:49:53,985 - com.gpit.ecare.websms.business.manager.MMsSender - INFO -  WebMMSSender:run inside while sms- response -OK
+2013-06-16 09:49:53,985 - com.gpit.ecare.websms.business.manager.MMsSender - INFO -  WebMMSSender:executeUpdateDataSOurce Started Sun Jun 16 09:49:53 BDT 2013
+2013-06-16 09:49:53,993 - com.gpit.ecare.websms.business.manager.MMsSender - INFO -  WebMMSSender:executeUpdateDataSOurce completed Sun Jun 16 09:49:53 BDT 2013
+2013-06-16 09:49:54,021 - com.gpit.ecare.websms.business.manager.MMsSender - INFO -  WebMMSSender:closeUpdateDataSOurce Started Sun Jun 16 09:49:54 BDT 2013
+2013-06-16 09:49:54,021 - com.gpit.ecare.websms.business.manager.MMsSender - INFO -  WebMMSSender:closeUpdateDataSOurce completed Sun Jun 16 09:49:54 BDT 2013
+2013-06-16 09:49:54,041 - com.gpit.ecare.websms.business.manager.MMsSender - INFO -  WebMMSSender:updateRequestStatus Started Sun Jun 16 09:49:54 BDT 2013
+2013-06-16 09:49:54,050 - com.gpit.ecare.websms.business.manager.MMsSender - INFO -  WebMMSSender:updateRequestStatus completed Sun Jun 16 09:49:54 BDT 2013
+2013-06-16 09:49:54,065 - com.gpit.ecare.websms.business.manager.MMsSender - INFO -  WebMMSSender:run():: sms while-  
+2013-06-16 09:49:54,065 - com.gpit.ecare.websms.business.manager.MMsSender - INFO -  WebMMSSender:run inside sms while- recipient-- 01730333852 sender-- 01714041356
+2013-06-16 09:49:55,906 - com.gpit.ecare.websms.business.manager.MMsSender - INFO -  WebMMSSender:run inside while sms- response -OK
+2013-06-16 09:49:55,907 - com.gpit.ecare.websms.business.manager.MMsSender - INFO -  WebMMSSender:executeUpdateDataSOurce Started Sun Jun 16 09:49:55 BDT 2013
+2013-06-16 09:49:55,914 - com.gpit.ecare.websms.business.manager.MMsSender - INFO -  WebMMSSender:executeUpdateDataSOurce completed Sun Jun 16 09:49:55 BDT 2013
+2013-06-16 09:49:55,948 - com.gpit.ecare.websms.business.manager.MMsSender - INFO -  WebMMSSender:closeUpdateDataSOurce Started Sun Jun 16 09:49:55 BDT 2013
+2013-06-16 09:49:55,948 - com.gpit.ecare.websms.business.manager.MMsSender - INFO -  WebMMSSender:closeUpdateDataSOurce completed Sun Jun 16 09:49:55 BDT 2013
+2013-06-16 09:49:55,971 - com.gpit.ecare.websms.business.manager.MMsSender - INFO -  WebMMSSender:updateRequestStatus Started Sun Jun 16 09:49:55 BDT 2013
+2013-06-16 09:49:55,979 - com.gpit.ecare.websms.business.manager.MMsSender - INFO -  WebMMSSender:updateRequestStatus completed Sun Jun 16 09:49:55 BDT 2013
+2013-06-16 09:49:55,994 - com.gpit.ecare.websms.business.manager.MMsSender - INFO -  WebMMSSender:run():: sms while-  
+2013-06-16 09:49:55,995 - com.gpit.ecare.websms.business.manager.MMsSender - INFO -  WebMMSSender:run inside sms while- recipient-- 01711404416 sender-- 01714041356
+2013-06-16 09:49:56,998 - com.gpit.ecare.websms.business.manager.MMsSender - INFO -  WebMMSSender:run inside while sms- response -OK
+2013-06-16 09:49:56,999 - com.gpit.ecare.websms.business.manager.MMsSender - INFO -  WebMMSSender:executeUpdateDataSOurce Started Sun Jun 16 09:49:56 BDT 2013
+2013-06-16 09:49:57,009 - com.gpit.ecare.websms.business.manager.MMsSender - INFO -  WebMMSSender:executeUpdateDataSOurce completed Sun Jun 16 09:49:57 BDT 2013
+2013-06-16 09:49:57,041 - com.gpit.ecare.websms.business.manager.MMsSender - INFO -  WebMMSSender:closeUpdateDataSOurce Started Sun Jun 16 09:49:57 BDT 2013
+2013-06-16 09:49:57,041 - com.gpit.ecare.websms.business.manager.MMsSender - INFO -  WebMMSSender:closeUpdateDataSOurce completed Sun Jun 16 09:49:57 BDT 2013
+2013-06-16 09:49:57,056 - com.gpit.ecare.websms.business.manager.MMsSender - INFO -  WebMMSSender:updateRequestStatus Started Sun Jun 16 09:49:57 BDT 2013
+2013-06-16 09:49:57,062 - com.gpit.ecare.websms.business.manager.MMsSender - INFO -  WebMMSSender:updateRequestStatus completed Sun Jun 16 09:49:57 BDT 2013
+2013-06-16 09:49:57,077 - com.gpit.ecare.websms.business.manager.MMsSender - INFO -  WebMMSSender:run():: sms while-  
+2013-06-16 09:49:57,078 - com.gpit.ecare.websms.business.manager.MMsSender - INFO -  WebMMSSender:run inside sms while- recipient-- 01713396519 sender-- 01714041356
+2013-06-16 09:49:58,110 - com.gpit.ecare.websms.business.manager.MMsSender - INFO -  WebMMSSender:run inside while sms- response -OK
+2013-06-16 09:49:58,110 - com.gpit.ecare.websms.business.manager.MMsSender - INFO -  WebMMSSender:executeUpdateDataSOurce Started Sun Jun 16 09:49:58 BDT 2013
+2013-06-16 09:49:58,119 - com.gpit.ecare.websms.business.manager.MMsSender - INFO -  WebMMSSender:executeUpdateDataSOurce completed Sun Jun 16 09:49:58 BDT 2013
+2013-06-16 09:49:58,151 - com.gpit.ecare.websms.business.manager.MMsSender - INFO -  WebMMSSender:closeUpdateDataSOurce Started Sun Jun 16 09:49:58 BDT 2013
+2013-06-16 09:49:58,152 - com.gpit.ecare.websms.business.manager.MMsSender - INFO -  WebMMSSender:closeUpdateDataSOurce completed Sun Jun 16 09:49:58 BDT 2013
+2013-06-16 09:49:58,173 - com.gpit.ecare.websms.business.manager.MMsSender - INFO -  WebMMSSender:updateRequestStatus Started Sun Jun 16 09:49:58 BDT 2013
+2013-06-16 09:49:58,179 - com.gpit.ecare.websms.business.manager.MMsSender - INFO -  WebMMSSender:updateRequestStatus completed Sun Jun 16 09:49:58 BDT 2013
+2013-06-16 09:49:58,201 - com.gpit.ecare.websms.business.manager.MMsSender - INFO -  WebMMSSender:run():: sms while-  
+2013-06-16 09:49:58,201 - com.gpit.ecare.websms.business.manager.MMsSender - INFO -  WebMMSSender:run inside sms while- recipient-- 01714109259 sender-- 01714041356
+2013-06-16 09:49:59,184 - com.gpit.ecare.websms.business.manager.MMsSender - INFO -  WebMMSSender:run inside while sms- response -OK
+2013-06-16 09:49:59,185 - com.gpit.ecare.websms.business.manager.MMsSender - INFO -  WebMMSSender:executeUpdateDataSOurce Started Sun Jun 16 09:49:59 BDT 2013
+2013-06-16 09:49:59,196 - com.gpit.ecare.websms.business.manager.MMsSender - INFO -  WebMMSSender:executeUpdateDataSOurce completed Sun Jun 16 09:49:59 BDT 2013
+2013-06-16 09:49:59,230 - com.gpit.ecare.websms.business.manager.MMsSender - INFO -  WebMMSSender:closeUpdateDataSOurce Started Sun Jun 16 09:49:59 BDT 2013
+2013-06-16 09:49:59,230 - com.gpit.ecare.websms.business.manager.MMsSender - INFO -  WebMMSSender:closeUpdateDataSOurce completed Sun Jun 16 09:49:59 BDT 2013
+2013-06-16 09:49:59,249 - com.gpit.ecare.websms.business.manager.MMsSender - INFO -  WebMMSSender:updateRequestStatus Started Sun Jun 16 09:49:59 BDT 2013
+2013-06-16 09:49:59,261 - com.gpit.ecare.websms.business.manager.MMsSender - INFO -  WebMMSSender:updateRequestStatus completed Sun Jun 16 09:49:59 BDT 2013
+2013-06-16 09:49:59,279 - com.gpit.ecare.websms.business.manager.MMsSender - INFO -  WebMMSSender:run():: sms while-  
+2013-06-16 09:49:59,279 - com.gpit.ecare.websms.business.manager.MMsSender - INFO -  WebMMSSender:run inside sms while- recipient-- 01714010718 sender-- 01714041356
+2013-06-16 09:50:00,906 - com.gpit.ecare.websms.business.manager.MMsSender - INFO -  WebMMSSender:run inside while sms- response -OK
+2013-06-16 09:50:00,907 - com.gpit.ecare.websms.business.manager.MMsSender - INFO -  WebMMSSender:executeUpdateDataSOurce Started Sun Jun 16 09:50:00 BDT 2013
+2013-06-16 09:50:00,916 - com.gpit.ecare.websms.business.manager.MMsSender - INFO -  WebMMSSender:executeUpdateDataSOurce completed Sun Jun 16 09:50:00 BDT 2013
+2013-06-16 09:50:00,946 - com.gpit.ecare.websms.business.manager.MMsSender - INFO -  WebMMSSender:closeUpdateDataSOurce Started Sun Jun 16 09:50:00 BDT 2013
+2013-06-16 09:50:00,946 - com.gpit.ecare.websms.business.manager.MMsSender - INFO -  WebMMSSender:closeUpdateDataSOurce completed Sun Jun 16 09:50:00 BDT 2013
+2013-06-16 09:50:00,965 - com.gpit.ecare.websms.business.manager.MMsSender - INFO -  WebMMSSender:updateRequestStatus Started Sun Jun 16 09:50:00 BDT 2013
+2013-06-16 09:50:00,974 - com.gpit.ecare.websms.business.manager.MMsSender - INFO -  WebMMSSender:updateRequestStatus completed Sun Jun 16 09:50:00 BDT 2013
+2013-06-16 09:50:00,992 - com.gpit.ecare.websms.business.manager.MMsSender - INFO -  WebMMSSender:run():: sms while-  
+2013-06-16 09:50:00,992 - com.gpit.ecare.websms.business.manager.MMsSender - INFO -  WebMMSSender:run inside sms while- recipient-- 01755517884 sender-- 01714041356
+2013-06-16 09:50:03,873 - com.gpit.ecare.websms.business.manager.MMsSender - INFO -  WebMMSSender:run inside while sms- response -OK
+2013-06-16 09:50:03,874 - com.gpit.ecare.websms.business.manager.MMsSender - INFO -  WebMMSSender:executeUpdateDataSOurce Started Sun Jun 16 09:50:03 BDT 2013
+2013-06-16 09:50:03,886 - com.gpit.ecare.websms.business.manager.MMsSender - INFO -  WebMMSSender:executeUpdateDataSOurce completed Sun Jun 16 09:50:03 BDT 2013
+2013-06-16 09:50:03,915 - com.gpit.ecare.websms.business.manager.MMsSender - INFO -  WebMMSSender:closeUpdateDataSOurce Started Sun Jun 16 09:50:03 BDT 2013
+2013-06-16 09:50:03,916 - com.gpit.ecare.websms.business.manager.MMsSender - INFO -  WebMMSSender:closeUpdateDataSOurce completed Sun Jun 16 09:50:03 BDT 2013
+2013-06-16 09:50:03,935 - com.gpit.ecare.websms.business.manager.MMsSender - INFO -  WebMMSSender:updateRequestStatus Started Sun Jun 16 09:50:03 BDT 2013
+2013-06-16 09:50:03,942 - com.gpit.ecare.websms.business.manager.MMsSender - INFO -  WebMMSSender:updateRequestStatus completed Sun Jun 16 09:50:03 BDT 2013
+2013-06-16 09:50:03,957 - com.gpit.ecare.websms.business.manager.MMsSender - INFO -  WebMMSSender:run():: sms while-  
+2013-06-16 09:50:03,958 - com.gpit.ecare.websms.business.manager.MMsSender - INFO -  WebMMSSender:run inside sms while- recipient-- 01755517892 sender-- 01714041356
+2013-06-16 09:50:08,437 - com.gpit.ecare.websms.business.manager.MMsSender - INFO -  WebMMSSender:run inside while sms- response -OK
+2013-06-16 09:50:08,437 - com.gpit.ecare.websms.business.manager.MMsSender - INFO -  WebMMSSender:executeUpdateDataSOurce Started Sun Jun 16 09:50:08 BDT 2013
+2013-06-16 09:50:08,447 - com.gpit.ecare.websms.business.manager.MMsSender - INFO -  WebMMSSender:executeUpdateDataSOurce completed Sun Jun 16 09:50:08 BDT 2013
+2013-06-16 09:50:08,463 - com.gpit.ecare.websms.business.manager.MMsSender - INFO -  WebMMSSender:closeUpdateDataSOurce Started Sun Jun 16 09:50:08 BDT 2013
+2013-06-16 09:50:08,463 - com.gpit.ecare.websms.business.manager.MMsSender - INFO -  WebMMSSender:closeUpdateDataSOurce completed Sun Jun 16 09:50:08 BDT 2013
+2013-06-16 09:50:08,479 - com.gpit.ecare.websms.business.manager.MMsSender - INFO -  WebMMSSender:updateRequestStatus Started Sun Jun 16 09:50:08 BDT 2013
+2013-06-16 09:50:08,486 - com.gpit.ecare.websms.business.manager.MMsSender - INFO -  WebMMSSender:updateRequestStatus completed Sun Jun 16 09:50:08 BDT 2013
+2013-06-16 09:50:08,501 - com.gpit.ecare.websms.business.manager.MMsSender - INFO -  WebMMSSender:run():: sms while-  
+2013-06-16 09:50:08,501 - com.gpit.ecare.websms.business.manager.MMsSender - INFO -  WebMMSSender:run inside sms while- recipient-- 01714041356 sender-- 01714041356
+2013-06-16 09:50:09,733 - com.gpit.ecare.websms.business.manager.MMsSender - INFO -  WebMMSSender:run inside while sms- response -OK
+2013-06-16 09:50:09,734 - com.gpit.ecare.websms.business.manager.MMsSender - INFO -  WebMMSSender:executeUpdateDataSOurce Started Sun Jun 16 09:50:09 BDT 2013
+2013-06-16 09:50:09,745 - com.gpit.ecare.websms.business.manager.MMsSender - INFO -  WebMMSSender:executeUpdateDataSOurce completed Sun Jun 16 09:50:09 BDT 2013
+2013-06-16 09:50:09,779 - com.gpit.ecare.websms.business.manager.MMsSender - INFO -  WebMMSSender:closeUpdateDataSOurce Started Sun Jun 16 09:50:09 BDT 2013
+2013-06-16 09:50:09,780 - com.gpit.ecare.websms.business.manager.MMsSender - INFO -  WebMMSSender:closeUpdateDataSOurce completed Sun Jun 16 09:50:09 BDT 2013
+2013-06-16 09:50:09,819 - com.gpit.ecare.websms.business.manager.MMsSender - INFO -  WebMMSSender:updateRequestStatus Started Sun Jun 16 09:50:09 BDT 2013
+2013-06-16 09:50:09,838 - com.gpit.ecare.websms.business.manager.MMsSender - INFO -  WebMMSSender:updateRequestStatus completed Sun Jun 16 09:50:09 BDT 2013
+2013-06-16 09:50:09,860 - com.gpit.ecare.websms.business.manager.MMsSender - INFO -  WebMMSSender:run():: sms while-  
+2013-06-16 09:50:09,860 - com.gpit.ecare.websms.business.manager.MMsSender - INFO -  WebMMSSender:run inside sms while- recipient-- 01713396528 sender-- 01714041356
+2013-06-16 09:50:10,514 - com.gpit.ecare.websms.business.manager.MMsSender - INFO -  WebMMSSender:run inside while sms- response -OK
+2013-06-16 09:50:10,515 - com.gpit.ecare.websms.business.manager.MMsSender - INFO -  WebMMSSender:executeUpdateDataSOurce Started Sun Jun 16 09:50:10 BDT 2013
+2013-06-16 09:50:10,524 - com.gpit.ecare.websms.business.manager.MMsSender - INFO -  WebMMSSender:executeUpdateDataSOurce completed Sun Jun 16 09:50:10 BDT 2013
+2013-06-16 09:50:10,557 - com.gpit.ecare.websms.business.manager.MMsSender - INFO -  WebMMSSender:closeUpdateDataSOurce Started Sun Jun 16 09:50:10 BDT 2013
+2013-06-16 09:50:10,557 - com.gpit.ecare.websms.business.manager.MMsSender - INFO -  WebMMSSender:closeUpdateDataSOurce completed Sun Jun 16 09:50:10 BDT 2013
+2013-06-16 09:50:10,579 - com.gpit.ecare.websms.business.manager.MMsSender - INFO -  WebMMSSender:updateRequestStatus Started Sun Jun 16 09:50:10 BDT 2013
+2013-06-16 09:50:10,586 - com.gpit.ecare.websms.business.manager.MMsSender - INFO -  WebMMSSender:updateRequestStatus completed Sun Jun 16 09:50:10 BDT 2013
+2013-06-16 09:50:10,601 - com.gpit.ecare.websms.business.manager.MMsSender - INFO -  WebMMSSender:run():: sms while-  
+2013-06-16 09:50:10,601 - com.gpit.ecare.websms.business.manager.MMsSender - INFO -  WebMMSSender:run inside sms while- recipient-- 01755517870 sender-- 01714041356
+2013-06-16 09:50:11,976 - com.gpit.ecare.websms.business.manager.MMsSender - INFO -  WebMMSSender:run inside while sms- response -OK
+2013-06-16 09:50:11,976 - com.gpit.ecare.websms.business.manager.MMsSender - INFO -  WebMMSSender:executeUpdateDataSOurce Started Sun Jun 16 09:50:11 BDT 2013
+2013-06-16 09:50:11,985 - com.gpit.ecare.websms.business.manager.MMsSender - INFO -  WebMMSSender:executeUpdateDataSOurce completed Sun Jun 16 09:50:11 BDT 2013
+2013-06-16 09:50:12,019 - com.gpit.ecare.websms.business.manager.MMsSender - INFO -  WebMMSSender:closeUpdateDataSOurce Started Sun Jun 16 09:50:12 BDT 2013
+2013-06-16 09:50:12,019 - com.gpit.ecare.websms.business.manager.MMsSender - INFO -  WebMMSSender:closeUpdateDataSOurce completed Sun Jun 16 09:50:12 BDT 2013
+2013-06-16 09:50:12,046 - com.gpit.ecare.websms.business.manager.MMsSender - INFO -  WebMMSSender:updateRequestStatus Started Sun Jun 16 09:50:12 BDT 2013
+2013-06-16 09:50:12,053 - com.gpit.ecare.websms.business.manager.MMsSender - INFO -  WebMMSSender:updateRequestStatus completed Sun Jun 16 09:50:12 BDT 2013
+2013-06-16 09:50:12,072 - com.gpit.ecare.websms.business.manager.MMsSender - INFO -  WebMMSSender:run():: sms while-  
+2013-06-16 09:50:12,072 - com.gpit.ecare.websms.business.manager.MMsSender - INFO -  WebMMSSender:run inside sms while- recipient-- 01711401252 sender-- 01714041356
+2013-06-16 09:50:13,031 - com.gpit.ecare.websms.business.manager.MMsSender - INFO -  WebMMSSender:run inside while sms- response -OK
+2013-06-16 09:50:13,032 - com.gpit.ecare.websms.business.manager.MMsSender - INFO -  WebMMSSender:executeUpdateDataSOurce Started Sun Jun 16 09:50:13 BDT 2013
+2013-06-16 09:50:13,040 - com.gpit.ecare.websms.business.manager.MMsSender - INFO -  WebMMSSender:executeUpdateDataSOurce completed Sun Jun 16 09:50:13 BDT 2013
+2013-06-16 09:50:13,068 - com.gpit.ecare.websms.business.manager.MMsSender - INFO -  WebMMSSender:closeUpdateDataSOurce Started Sun Jun 16 09:50:13 BDT 2013
+2013-06-16 09:50:13,069 - com.gpit.ecare.websms.business.manager.MMsSender - INFO -  WebMMSSender:closeUpdateDataSOurce completed Sun Jun 16 09:50:13 BDT 2013
+2013-06-16 09:50:13,090 - com.gpit.ecare.websms.business.manager.MMsSender - INFO -  WebMMSSender:updateRequestStatus Started Sun Jun 16 09:50:13 BDT 2013
+2013-06-16 09:50:13,098 - com.gpit.ecare.websms.business.manager.MMsSender - INFO -  WebMMSSender:updateRequestStatus completed Sun Jun 16 09:50:13 BDT 2013
+2013-06-16 09:50:13,113 - com.gpit.ecare.websms.business.manager.MMsSender - INFO -  WebMMSSender:run():: sms while-  
+2013-06-16 09:50:13,113 - com.gpit.ecare.websms.business.manager.MMsSender - INFO -  WebMMSSender:run inside sms while- recipient-- 01755517974 sender-- 01714041356
+2013-06-16 09:50:13,820 - com.gpit.ecare.websms.business.manager.MMsSender - INFO -  WebMMSSender:run inside while sms- response -OK
+2013-06-16 09:50:13,820 - com.gpit.ecare.websms.business.manager.MMsSender - INFO -  WebMMSSender:executeUpdateDataSOurce Started Sun Jun 16 09:50:13 BDT 2013
+2013-06-16 09:50:13,830 - com.gpit.ecare.websms.business.manager.MMsSender - INFO -  WebMMSSender:executeUpdateDataSOurce completed Sun Jun 16 09:50:13 BDT 2013
+2013-06-16 09:50:13,863 - com.gpit.ecare.websms.business.manager.MMsSender - INFO -  WebMMSSender:closeUpdateDataSOurce Started Sun Jun 16 09:50:13 BDT 2013
+2013-06-16 09:50:13,863 - com.gpit.ecare.websms.business.manager.MMsSender - INFO -  WebMMSSender:closeUpdateDataSOurce completed Sun Jun 16 09:50:13 BDT 2013
+2013-06-16 09:50:13,885 - com.gpit.ecare.websms.business.manager.MMsSender - INFO -  WebMMSSender:closeQueryDataSOurce Started Sun Jun 16 09:50:13 BDT 2013
+2013-06-16 09:50:13,894 - com.gpit.ecare.websms.business.manager.MMsSender - INFO -  WebMMSSender:closeQueryDataSOurce completed Sun Jun 16 09:50:13 BDT 2013
+2013-06-16 10:28:03,468 - com.gpit.ecare.websms.Main - INFO -  Web MMS Sender Started Sun Jun 16 10:28:03 BDT 2013
+2013-06-16 10:28:03,491 - com.gpit.ecare.websms.configuration.manager.ConfigurationManager - INFO -  ConfigurationManager:getConfiguration loading start Sun Jun 16 10:28:03 BDT 2013
+2013-06-16 10:28:03,535 - com.gpit.ecare.websms.configuration.manager.ConfigurationManager - INFO -  ConfigurationManager:getConfiguration loading end Sun Jun 16 10:28:03 BDT 2013
+2013-06-16 10:28:03,535 - com.gpit.ecare.websms.driver.manager.DriverManagerDataSource - INFO -  Database connection Started Sun Jun 16 10:28:03 BDT 2013
+2013-06-16 10:28:03,774 - com.gpit.ecare.websms.business.manager.MMsSender - INFO - C:\JavaPrograms\WebMMSSender\CtrlFolder\ctrl\MMSC.CTRL
+2013-06-16 10:28:03,774 - com.gpit.ecare.websms.business.manager.MMsSender - INFO -  WebMMSSender:updateSchedule Started Sun Jun 16 10:28:03 BDT 2013
+2013-06-16 10:28:03,860 - com.gpit.ecare.websms.business.manager.MMsSender - INFO -  WebMMSSender:updateSchedule completed Sun Jun 16 10:28:03 BDT 2013
+2013-06-16 10:28:03,874 - com.gpit.ecare.websms.driver.manager.DriverManagerDataSource - INFO -  Database connection Started Sun Jun 16 10:28:03 BDT 2013
+2013-06-16 10:28:04,030 - com.gpit.ecare.websms.business.manager.MMsSender - INFO -  WebMMSSender:updateSchedule Started Sun Jun 16 10:28:04 BDT 2013
+2013-06-16 10:28:04,042 - com.gpit.ecare.websms.business.manager.MMsSender - INFO -  WebMMSSender:updateSchedule completed Sun Jun 16 10:28:04 BDT 2013
+2013-06-16 10:28:04,055 - com.gpit.ecare.websms.business.manager.MMsSender - INFO -  WebMMSSender:initQueryDataSOurce Started Sun Jun 16 10:28:04 BDT 2013
+2013-06-16 10:28:04,389 - com.gpit.ecare.websms.business.manager.MMsSender - INFO -  WebMMSSender:initQueryDataSOurce completed Sun Jun 16 10:28:04 BDT 2013
+2013-06-16 10:28:04,417 - com.gpit.ecare.websms.business.manager.MMsSender - INFO -  WebMMSSender:updateRequestStatus Started Sun Jun 16 10:28:04 BDT 2013
+2013-06-16 10:28:04,448 - com.gpit.ecare.websms.business.manager.MMsSender - INFO -  WebMMSSender:updateRequestStatus completed Sun Jun 16 10:28:04 BDT 2013
+2013-06-16 10:28:04,463 - com.gpit.ecare.websms.business.manager.MMsSender - INFO -  WebMMSSender:run():: sms while-  
+2013-06-16 10:28:04,463 - com.gpit.ecare.websms.business.manager.MMsSender - INFO -  WebMMSSender:run inside sms while- recipient-- 8801617070024 sender-- 01711080598
+2013-06-16 10:28:04,634 - com.gpit.ecare.websms.business.manager.MMsSender - INFO -  WebMMSSender:run inside while sms- response -OK
+2013-06-16 10:28:04,635 - com.gpit.ecare.websms.business.manager.MMsSender - INFO -  WebMMSSender:executeUpdateDataSOurce Started Sun Jun 16 10:28:04 BDT 2013
+2013-06-16 10:28:04,644 - com.gpit.ecare.websms.business.manager.MMsSender - INFO -  WebMMSSender:executeUpdateDataSOurce completed Sun Jun 16 10:28:04 BDT 2013
+2013-06-16 10:28:04,671 - com.gpit.ecare.websms.business.manager.MMsSender - INFO -  WebMMSSender:closeUpdateDataSOurce Started Sun Jun 16 10:28:04 BDT 2013
+2013-06-16 10:28:04,671 - com.gpit.ecare.websms.business.manager.MMsSender - INFO -  WebMMSSender:closeUpdateDataSOurce completed Sun Jun 16 10:28:04 BDT 2013
+2013-06-16 10:28:04,688 - com.gpit.ecare.websms.business.manager.MMsSender - INFO -  WebMMSSender:updateRequestStatus Started Sun Jun 16 10:28:04 BDT 2013
+2013-06-16 10:28:04,711 - com.gpit.ecare.websms.business.manager.MMsSender - INFO -  WebMMSSender:updateRequestStatus completed Sun Jun 16 10:28:04 BDT 2013
+2013-06-16 10:28:04,728 - com.gpit.ecare.websms.business.manager.MMsSender - INFO -  WebMMSSender:run():: sms while-  
+2013-06-16 10:28:04,728 - com.gpit.ecare.websms.business.manager.MMsSender - INFO -  WebMMSSender:run inside sms while- recipient-- 01711080598 sender-- 01711080598
+2013-06-16 10:28:04,863 - com.gpit.ecare.websms.business.manager.MMsSender - INFO -  WebMMSSender:run inside while sms- response -OK
+2013-06-16 10:28:04,864 - com.gpit.ecare.websms.business.manager.MMsSender - INFO -  WebMMSSender:executeUpdateDataSOurce Started Sun Jun 16 10:28:04 BDT 2013
+2013-06-16 10:28:04,872 - com.gpit.ecare.websms.business.manager.MMsSender - INFO -  WebMMSSender:executeUpdateDataSOurce completed Sun Jun 16 10:28:04 BDT 2013
+2013-06-16 10:28:04,888 - com.gpit.ecare.websms.business.manager.MMsSender - INFO -  WebMMSSender:closeUpdateDataSOurce Started Sun Jun 16 10:28:04 BDT 2013
+2013-06-16 10:28:04,889 - com.gpit.ecare.websms.business.manager.MMsSender - INFO -  WebMMSSender:closeUpdateDataSOurce completed Sun Jun 16 10:28:04 BDT 2013
+2013-06-16 10:28:04,904 - com.gpit.ecare.websms.business.manager.MMsSender - INFO -  WebMMSSender:closeQueryDataSOurce Started Sun Jun 16 10:28:04 BDT 2013
+2013-06-16 10:28:04,908 - com.gpit.ecare.websms.business.manager.MMsSender - INFO -  WebMMSSender:closeQueryDataSOurce completed Sun Jun 16 10:28:04 BDT 2013
+2013-06-16 16:47:25,456 - com.gpit.ecare.websms.Main - INFO -  Web MMS Sender Started Sun Jun 16 16:47:25 BDT 2013
+2013-06-16 16:47:25,476 - com.gpit.ecare.websms.configuration.manager.ConfigurationManager - INFO -  ConfigurationManager:getConfiguration loading start Sun Jun 16 16:47:25 BDT 2013
+2013-06-16 16:47:25,518 - com.gpit.ecare.websms.configuration.manager.ConfigurationManager - INFO -  ConfigurationManager:getConfiguration loading end Sun Jun 16 16:47:25 BDT 2013
+2013-06-16 16:47:25,518 - com.gpit.ecare.websms.driver.manager.DriverManagerDataSource - INFO -  Database connection Started Sun Jun 16 16:47:25 BDT 2013
+2013-06-16 16:47:25,820 - com.gpit.ecare.websms.business.manager.MMsSender - INFO - C:\JavaPrograms\WebMMSSender\CtrlFolder\ctrl\MMSC.CTRL
+2013-06-16 16:47:25,820 - com.gpit.ecare.websms.business.manager.MMsSender - INFO -  WebMMSSender:updateSchedule Started Sun Jun 16 16:47:25 BDT 2013
+2013-06-16 16:47:25,969 - com.gpit.ecare.websms.business.manager.MMsSender - INFO -  WebMMSSender:updateSchedule completed Sun Jun 16 16:47:25 BDT 2013
+2013-06-16 16:47:25,989 - com.gpit.ecare.websms.driver.manager.DriverManagerDataSource - INFO -  Database connection Started Sun Jun 16 16:47:25 BDT 2013
+2013-06-16 16:47:26,117 - com.gpit.ecare.websms.business.manager.MMsSender - INFO -  WebMMSSender:updateSchedule Started Sun Jun 16 16:47:26 BDT 2013
+2013-06-16 16:47:26,197 - com.gpit.ecare.websms.business.manager.MMsSender - INFO -  WebMMSSender:updateSchedule completed Sun Jun 16 16:47:26 BDT 2013
+2013-06-16 16:47:26,223 - com.gpit.ecare.websms.business.manager.MMsSender - INFO -  WebMMSSender:initQueryDataSOurce Started Sun Jun 16 16:47:26 BDT 2013
+2013-06-16 16:47:26,575 - com.gpit.ecare.websms.business.manager.MMsSender - INFO -  WebMMSSender:initQueryDataSOurce completed Sun Jun 16 16:47:26 BDT 2013
+2013-06-16 16:47:26,617 - com.gpit.ecare.websms.business.manager.MMsSender - INFO -  WebMMSSender:updateRequestStatus Started Sun Jun 16 16:47:26 BDT 2013
+2013-06-16 16:47:26,622 - com.gpit.ecare.websms.business.manager.MMsSender - INFO -  WebMMSSender:updateRequestStatus completed Sun Jun 16 16:47:26 BDT 2013
+2013-06-16 16:47:26,636 - com.gpit.ecare.websms.business.manager.MMsSender - INFO -  WebMMSSender:run():: sms while-  
+2013-06-16 16:47:26,636 - com.gpit.ecare.websms.business.manager.MMsSender - INFO -  WebMMSSender:run inside sms while- recipient-- 01712989386 sender-- 01711334145
+2013-06-16 16:47:32,604 - com.gpit.ecare.websms.business.manager.MMsSender - INFO -  WebMMSSender:run inside while sms- response -OK
+2013-06-16 16:47:32,604 - com.gpit.ecare.websms.business.manager.MMsSender - INFO -  WebMMSSender:executeUpdateDataSOurce Started Sun Jun 16 16:47:32 BDT 2013
+2013-06-16 16:47:32,615 - com.gpit.ecare.websms.business.manager.MMsSender - INFO -  WebMMSSender:executeUpdateDataSOurce completed Sun Jun 16 16:47:32 BDT 2013
+2013-06-16 16:47:32,631 - com.gpit.ecare.websms.business.manager.MMsSender - INFO -  WebMMSSender:closeUpdateDataSOurce Started Sun Jun 16 16:47:32 BDT 2013
+2013-06-16 16:47:32,631 - com.gpit.ecare.websms.business.manager.MMsSender - INFO -  WebMMSSender:closeUpdateDataSOurce completed Sun Jun 16 16:47:32 BDT 2013
+2013-06-16 16:47:32,646 - com.gpit.ecare.websms.business.manager.MMsSender - INFO -  WebMMSSender:updateRequestStatus Started Sun Jun 16 16:47:32 BDT 2013
+2013-06-16 16:47:32,650 - com.gpit.ecare.websms.business.manager.MMsSender - INFO -  WebMMSSender:updateRequestStatus completed Sun Jun 16 16:47:32 BDT 2013
+2013-06-16 16:47:32,665 - com.gpit.ecare.websms.business.manager.MMsSender - INFO -  WebMMSSender:run():: sms while-  
+2013-06-16 16:47:32,665 - com.gpit.ecare.websms.business.manager.MMsSender - INFO -  WebMMSSender:run inside sms while- recipient-- 01816013318 sender-- 01711334145
+2013-06-16 16:47:37,732 - com.gpit.ecare.websms.business.manager.MMsSender - INFO -  WebMMSSender:run inside while sms- response -OK
+2013-06-16 16:47:37,732 - com.gpit.ecare.websms.business.manager.MMsSender - INFO -  WebMMSSender:executeUpdateDataSOurce Started Sun Jun 16 16:47:37 BDT 2013
+2013-06-16 16:47:37,769 - com.gpit.ecare.websms.business.manager.MMsSender - INFO -  WebMMSSender:executeUpdateDataSOurce completed Sun Jun 16 16:47:37 BDT 2013
+2013-06-16 16:47:37,804 - com.gpit.ecare.websms.business.manager.MMsSender - INFO -  WebMMSSender:closeUpdateDataSOurce Started Sun Jun 16 16:47:37 BDT 2013
+2013-06-16 16:47:37,804 - com.gpit.ecare.websms.business.manager.MMsSender - INFO -  WebMMSSender:closeUpdateDataSOurce completed Sun Jun 16 16:47:37 BDT 2013
+2013-06-16 16:47:37,822 - com.gpit.ecare.websms.business.manager.MMsSender - INFO -  WebMMSSender:closeQueryDataSOurce Started Sun Jun 16 16:47:37 BDT 2013
+2013-06-16 16:47:37,908 - com.gpit.ecare.websms.business.manager.MMsSender - INFO -  WebMMSSender:closeQueryDataSOurce completed Sun Jun 16 16:47:37 BDT 2013
+2013-06-16 16:48:37,952 - com.gpit.ecare.websms.driver.manager.DriverManagerDataSource - INFO -  Database connection Started Sun Jun 16 16:48:37 BDT 2013
+2013-06-16 16:48:38,118 - com.gpit.ecare.websms.business.manager.MMsSender - INFO -  WebMMSSender:updateSchedule Started Sun Jun 16 16:48:38 BDT 2013
+2013-06-16 16:48:38,154 - com.gpit.ecare.websms.business.manager.MMsSender - INFO -  WebMMSSender:updateSchedule completed Sun Jun 16 16:48:38 BDT 2013
+2013-06-16 16:48:38,185 - com.gpit.ecare.websms.business.manager.MMsSender - INFO -  WebMMSSender:initQueryDataSOurce Started Sun Jun 16 16:48:38 BDT 2013
+2013-06-16 16:48:38,540 - com.gpit.ecare.websms.business.manager.MMsSender - INFO -  WebMMSSender:initQueryDataSOurce completed Sun Jun 16 16:48:38 BDT 2013
+2013-06-16 16:48:38,574 - com.gpit.ecare.websms.business.manager.MMsSender - INFO -  WebMMSSender:closeQueryDataSOurce Started Sun Jun 16 16:48:38 BDT 2013
+2013-06-16 16:48:38,579 - com.gpit.ecare.websms.business.manager.MMsSender - INFO -  WebMMSSender:closeQueryDataSOurce completed Sun Jun 16 16:48:38 BDT 2013
+2013-06-17 16:58:22,342 - com.gpit.ecare.websms.Main - INFO -  Web MMS Sender Started Mon Jun 17 16:58:22 BDT 2013
+2013-06-17 16:58:22,358 - com.gpit.ecare.websms.configuration.manager.ConfigurationManager - INFO -  ConfigurationManager:getConfiguration loading start Mon Jun 17 16:58:22 BDT 2013
+2013-06-17 16:58:22,405 - com.gpit.ecare.websms.configuration.manager.ConfigurationManager - INFO -  ConfigurationManager:getConfiguration loading end Mon Jun 17 16:58:22 BDT 2013
+2013-06-17 16:58:22,406 - com.gpit.ecare.websms.driver.manager.DriverManagerDataSource - INFO -  Database connection Started Mon Jun 17 16:58:22 BDT 2013
+2013-06-17 16:58:22,721 - com.gpit.ecare.websms.business.manager.MMsSender - INFO - C:\JavaPrograms\WebMMSSender\CtrlFolder\ctrl\MMSC.CTRL
+2013-06-17 16:58:22,721 - com.gpit.ecare.websms.business.manager.MMsSender - INFO -  WebMMSSender:updateSchedule Started Mon Jun 17 16:58:22 BDT 2013
+2013-06-17 16:58:22,821 - com.gpit.ecare.websms.business.manager.MMsSender - INFO -  WebMMSSender:updateSchedule completed Mon Jun 17 16:58:22 BDT 2013
+2013-06-17 16:58:22,850 - com.gpit.ecare.websms.Main - INFO - WebMMsSMSSender:: calling run()Mon Jun 17 16:58:22 BDT 2013
+2013-06-17 16:59:46,602 - com.gpit.ecare.websms.Main - INFO -  Web MMS Sender Started Mon Jun 17 16:59:46 BDT 2013
+2013-06-17 16:59:46,621 - com.gpit.ecare.websms.configuration.manager.ConfigurationManager - INFO -  ConfigurationManager:getConfiguration loading start Mon Jun 17 16:59:46 BDT 2013
+2013-06-17 16:59:46,657 - com.gpit.ecare.websms.configuration.manager.ConfigurationManager - INFO -  ConfigurationManager:getConfiguration loading end Mon Jun 17 16:59:46 BDT 2013
+2013-06-17 16:59:46,657 - com.gpit.ecare.websms.driver.manager.DriverManagerDataSource - INFO -  Database connection Started Mon Jun 17 16:59:46 BDT 2013
+2013-06-17 16:59:46,930 - com.gpit.ecare.websms.business.manager.MMsSender - INFO - C:\JavaPrograms\WebMMSSender\CtrlFolder\ctrl\MMSC.CTRL
+2013-06-17 16:59:46,931 - com.gpit.ecare.websms.business.manager.MMsSender - INFO -  WebMMSSender:updateSchedule Started Mon Jun 17 16:59:46 BDT 2013
+2013-06-17 16:59:47,007 - com.gpit.ecare.websms.business.manager.MMsSender - INFO -  WebMMSSender:updateSchedule completed Mon Jun 17 16:59:47 BDT 2013
+2013-06-17 16:59:47,021 - com.gpit.ecare.websms.Main - INFO - WebMMsSMSSender:: calling run()Mon Jun 17 16:59:47 BDT 2013
+2013-06-17 17:00:06,968 - com.gpit.ecare.websms.Main - INFO -  Web MMS Sender Started Mon Jun 17 17:00:06 BDT 2013
+2013-06-17 17:00:06,970 - com.gpit.ecare.websms.Main - INFO - WebMMsSMSSender:: calling run()Mon Jun 17 17:00:06 BDT 2013
+2013-06-17 17:01:33,700 - com.gpit.ecare.websms.Main - INFO -  Web MMS Sender Started Mon Jun 17 17:01:33 BDT 2013
+2013-06-17 17:01:33,701 - com.gpit.ecare.websms.Main - INFO - WebMMsSMSSender:: calling run()Mon Jun 17 17:01:33 BDT 2013
+2013-06-17 17:08:41,202 - com.gpit.ecare.websms.configuration.manager.ConfigurationManager - INFO -  ConfigurationManager:getConfiguration loading start Mon Jun 17 17:08:41 BDT 2013
+2013-06-17 17:08:41,240 - com.gpit.ecare.websms.configuration.manager.ConfigurationManager - INFO -  ConfigurationManager:getConfiguration loading end Mon Jun 17 17:08:41 BDT 2013
+2013-06-17 17:08:41,244 - com.gpit.ecare.websms.Main - INFO -  Web MMS Sender Started Mon Jun 17 17:08:41 BDT 2013
+2013-06-17 17:08:41,245 - com.gpit.ecare.websms.Main - INFO - WebMMsSMSSender:: calling run()Mon Jun 17 17:08:41 BDT 2013
+2013-06-17 17:10:03,597 - com.gpit.ecare.websms.configuration.manager.ConfigurationManager - INFO -  ConfigurationManager:getConfiguration loading start Mon Jun 17 17:10:03 BDT 2013
+2013-06-17 17:10:03,635 - com.gpit.ecare.websms.configuration.manager.ConfigurationManager - INFO -  ConfigurationManager:getConfiguration loading end Mon Jun 17 17:10:03 BDT 2013
+2013-06-17 17:10:03,659 - com.gpit.ecare.websms.Main - INFO -  Web MMS Sender Started Mon Jun 17 17:10:03 BDT 2013
+2013-06-17 17:10:03,659 - com.gpit.ecare.websms.Main - INFO - WebMMsSMSSender:: calling run()Mon Jun 17 17:10:03 BDT 2013
+2013-06-17 17:20:38,565 - com.gpit.ecare.websms.configuration.manager.ConfigurationManager - INFO -  ConfigurationManager:getConfiguration loading start Mon Jun 17 17:20:38 BDT 2013
+2013-06-17 17:20:38,604 - com.gpit.ecare.websms.configuration.manager.ConfigurationManager - INFO -  ConfigurationManager:getConfiguration loading end Mon Jun 17 17:20:38 BDT 2013
+2013-06-17 17:20:38,625 - com.gpit.ecare.websms.Main - INFO -  Web MMS Sender Started Mon Jun 17 17:20:38 BDT 2013
+2013-06-17 17:20:38,626 - com.gpit.ecare.websms.configuration.manager.ConfigurationManager - INFO -  ConfigurationManager:getConfiguration loading start Mon Jun 17 17:20:38 BDT 2013
+2013-06-17 17:20:38,639 - com.gpit.ecare.websms.configuration.manager.ConfigurationManager - INFO -  ConfigurationManager:getConfiguration loading end Mon Jun 17 17:20:38 BDT 2013
+2013-06-17 17:20:38,640 - com.gpit.ecare.websms.driver.manager.DriverManagerDataSource - INFO -  Database connection Started Mon Jun 17 17:20:38 BDT 2013
+2013-06-17 17:20:38,925 - com.gpit.ecare.websms.business.manager.MMsSender - INFO - C:\JavaPrograms\WebMMSSender\CtrlFolder\ctrl\MMSC.CTRL
+2013-06-17 17:20:38,925 - com.gpit.ecare.websms.business.manager.MMsSender - INFO -  WebMMSSender:updateSchedule Started Mon Jun 17 17:20:38 BDT 2013
+2013-06-17 17:20:39,002 - com.gpit.ecare.websms.business.manager.MMsSender - INFO -  WebMMSSender:updateSchedule completed Mon Jun 17 17:20:39 BDT 2013
+2013-06-17 17:20:39,016 - com.gpit.ecare.websms.Main - INFO - WebMMsSMSSender:: calling run()Mon Jun 17 17:20:39 BDT 2013
+2013-06-17 17:20:39,017 - com.gpit.ecare.websms.driver.manager.DriverManagerDataSource - INFO -  Database connection Started Mon Jun 17 17:20:39 BDT 2013
+2013-06-17 17:20:39,156 - com.gpit.ecare.websms.business.manager.MMsSender - INFO -  WebMMSSender:updateSchedule Started Mon Jun 17 17:20:39 BDT 2013
+2013-06-17 17:20:39,172 - com.gpit.ecare.websms.business.manager.MMsSender - INFO -  WebMMSSender:updateSchedule completed Mon Jun 17 17:20:39 BDT 2013
+2013-06-17 17:20:39,200 - com.gpit.ecare.websms.business.manager.MMsSender - INFO -  WebMMSSender:initQueryDataSOurce Started Mon Jun 17 17:20:39 BDT 2013
+2013-06-17 17:20:39,536 - com.gpit.ecare.websms.business.manager.MMsSender - FATAL - Invalid operation for forward only resultset : last
+2013-06-17 17:20:39,585 - com.gpit.ecare.websms.business.manager.MMsSender - INFO -  WebMMSSender:updateRequestStatus Started Mon Jun 17 17:20:39 BDT 2013
+2013-06-17 17:20:39,585 - com.gpit.ecare.websms.business.manager.MMsSender - INFO - WebMMSSender:updateRequestStatus update query--update WSC_SMS_MMS_LOG set request_status=1 where request_status is null and ID='100000093194'
+2013-06-17 17:20:39,592 - com.gpit.ecare.websms.business.manager.MMsSender - INFO -  WebMMSSender:updateRequestStatus completed Mon Jun 17 17:20:39 BDT 2013
+2013-06-17 17:20:39,608 - com.gpit.ecare.websms.business.manager.MMsSender - INFO - WebMMSSender:run():: sms while-prepare xml Mon Jun 17 17:20:39 BDT 2013
+2013-06-17 17:20:39,609 - com.gpit.ecare.websms.business.manager.MMsSender - INFO -  WebMMSSender:run inside sms while- recipient-- 01670889853 sender-- 01711334145
+2013-06-17 17:20:43,230 - com.gpit.ecare.websms.business.manager.MMsSender - INFO -  WebMMSSender:run inside while sms- response -OK
+2013-06-17 17:20:43,231 - com.gpit.ecare.websms.business.manager.MMsSender - INFO -  WebMMSSender:executeUpdateDataSOurce Started Mon Jun 17 17:20:43 BDT 2013
+2013-06-17 17:20:43,243 - com.gpit.ecare.websms.business.manager.MMsSender - INFO -  WebMMSSender:executeUpdateDataSOurce completed Mon Jun 17 17:20:43 BDT 2013
+2013-06-17 17:20:43,274 - com.gpit.ecare.websms.business.manager.MMsSender - INFO -  WebMMSSender:closeUpdateDataSOurce Started Mon Jun 17 17:20:43 BDT 2013
+2013-06-17 17:20:43,274 - com.gpit.ecare.websms.business.manager.MMsSender - INFO -  WebMMSSender:closeUpdateDataSOurce completed Mon Jun 17 17:20:43 BDT 2013
+2013-06-17 17:20:43,296 - com.gpit.ecare.websms.business.manager.MMsSender - INFO -  WebMMSSender:closeQueryDataSOurce Started Mon Jun 17 17:20:43 BDT 2013
+2013-06-17 17:20:43,302 - com.gpit.ecare.websms.business.manager.MMsSender - INFO -  WebMMSSender:closeQueryDataSOurce completed Mon Jun 17 17:20:43 BDT 2013
+2013-06-17 17:20:43,339 - com.gpit.ecare.websms.business.manager.MMsSender - INFO - WebMMSSender: SMS and MMS sending complete, Going to sleep for 1 min Mon Jun 17 17:20:43 BDT 2013
+2013-06-17 17:21:43,339 - com.gpit.ecare.websms.business.manager.MMsSender - INFO - WebMMSSender: Wake up after 1 min at Mon Jun 17 17:21:43 BDT 2013
+2013-06-17 17:45:28,995 - com.gpit.ecare.websms.configuration.manager.ConfigurationManager - INFO -  ConfigurationManager:getConfiguration loading start Mon Jun 17 17:45:28 BDT 2013
+2013-06-17 17:45:29,034 - com.gpit.ecare.websms.configuration.manager.ConfigurationManager - INFO -  ConfigurationManager:getConfiguration loading end Mon Jun 17 17:45:29 BDT 2013
+2013-06-17 17:45:29,054 - com.gpit.ecare.websms.Main - INFO -  Web MMS Sender Started Mon Jun 17 17:45:29 BDT 2013
+2013-06-17 17:45:29,055 - com.gpit.ecare.websms.configuration.manager.ConfigurationManager - INFO -  ConfigurationManager:getConfiguration loading start Mon Jun 17 17:45:29 BDT 2013
+2013-06-17 17:45:29,066 - com.gpit.ecare.websms.configuration.manager.ConfigurationManager - INFO -  ConfigurationManager:getConfiguration loading end Mon Jun 17 17:45:29 BDT 2013
+2013-06-17 17:45:29,066 - com.gpit.ecare.websms.driver.manager.DriverManagerDataSource - INFO -  Database connection Started Mon Jun 17 17:45:29 BDT 2013
+2013-06-17 17:45:29,325 - com.gpit.ecare.websms.business.manager.MMsSender - INFO - C:\JavaPrograms\WebMMSSender\CtrlFolder\ctrl\MMSC.CTRL
+2013-06-17 17:45:29,325 - com.gpit.ecare.websms.Main - INFO - WebMMsSMSSender:: calling run()Mon Jun 17 17:45:29 BDT 2013
+2013-06-17 17:45:29,326 - com.gpit.ecare.websms.driver.manager.DriverManagerDataSource - INFO -  Database connection Started Mon Jun 17 17:45:29 BDT 2013
+2013-06-17 17:45:29,453 - com.gpit.ecare.websms.business.manager.MMsSender - INFO -  WebMMSSender:initQueryDataSOurce Started Mon Jun 17 17:45:29 BDT 2013
+2013-06-17 17:45:29,971 - com.gpit.ecare.websms.business.manager.MMsSender - FATAL - Sms count error -- java.sql.SQLException: Invalid operation for forward only resultset : last
+2013-06-17 17:45:29,971 - com.gpit.ecare.websms.business.manager.MMsSender - FATAL - Mms count error -- java.sql.SQLException: Invalid operation for forward only resultset : last
+2013-06-17 17:45:29,972 - com.gpit.ecare.websms.business.manager.MMsSender - INFO - Sms count-- 0 Mms count-- 0
+2013-06-17 17:45:29,972 - com.gpit.ecare.websms.business.manager.MMsSender - INFO -  WebMMSSender:initQueryDataSOurce completed Mon Jun 17 17:45:29 BDT 2013
+2013-06-17 17:45:29,989 - com.gpit.ecare.websms.business.manager.MMsSender - INFO -  WebMMSSender:closeQueryDataSOurce Started Mon Jun 17 17:45:29 BDT 2013
+2013-06-17 17:45:30,000 - com.gpit.ecare.websms.business.manager.MMsSender - INFO -  WebMMSSender:closeQueryDataSOurce completed Mon Jun 17 17:45:30 BDT 2013
+2013-06-17 17:45:30,031 - com.gpit.ecare.websms.business.manager.MMsSender - INFO - WebMMSSender: SMS and MMS sending complete, Going to sleep for 1 min Mon Jun 17 17:45:30 BDT 2013
+2013-06-17 17:46:30,031 - com.gpit.ecare.websms.business.manager.MMsSender - INFO - WebMMSSender: Wake up after 1 min at Mon Jun 17 17:46:30 BDT 2013
+2013-06-17 17:46:30,032 - com.gpit.ecare.websms.driver.manager.DriverManagerDataSource - INFO -  Database connection Started Mon Jun 17 17:46:30 BDT 2013
+2013-06-17 17:46:30,194 - com.gpit.ecare.websms.business.manager.MMsSender - INFO -  WebMMSSender:initQueryDataSOurce Started Mon Jun 17 17:46:30 BDT 2013
+2013-06-17 17:46:30,466 - com.gpit.ecare.websms.business.manager.MMsSender - FATAL - Sms count error -- java.sql.SQLException: Invalid operation for forward only resultset : last
+2013-06-17 17:46:30,466 - com.gpit.ecare.websms.business.manager.MMsSender - FATAL - Mms count error -- java.sql.SQLException: Invalid operation for forward only resultset : last
+2013-06-17 17:46:30,466 - com.gpit.ecare.websms.business.manager.MMsSender - INFO - Sms count-- 0 Mms count-- 0
+2013-06-17 17:46:30,466 - com.gpit.ecare.websms.business.manager.MMsSender - INFO -  WebMMSSender:initQueryDataSOurce completed Mon Jun 17 17:46:30 BDT 2013
+2013-06-17 17:46:30,482 - com.gpit.ecare.websms.business.manager.MMsSender - INFO -  WebMMSSender:closeQueryDataSOurce Started Mon Jun 17 17:46:30 BDT 2013
+2013-06-17 17:46:30,487 - com.gpit.ecare.websms.business.manager.MMsSender - INFO -  WebMMSSender:closeQueryDataSOurce completed Mon Jun 17 17:46:30 BDT 2013
+2013-06-17 17:46:30,514 - com.gpit.ecare.websms.business.manager.MMsSender - INFO - WebMMSSender: SMS and MMS sending complete, Going to sleep for 1 min Mon Jun 17 17:46:30 BDT 2013

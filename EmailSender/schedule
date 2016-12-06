@@ -1,0 +1,1 @@
+*/1 * * * * java:com.gpit.es.cs.emailsender.Main#executeTask C:\\EmailSender\\input\\input.xml

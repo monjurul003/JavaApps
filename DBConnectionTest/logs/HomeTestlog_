@@ -1,0 +1,4 @@
+2014-02-26 07:17:22,004 [main] INFO - this is a info message -- C:\JavaApps\DBConnectionTest\config\log4jConfig.xml
+2014-02-26 07:17:22,005 [main] FATAL - This is a fatal message
+2014-02-26 07:17:22,005 [main] ERROR - This is a error message
+2014-02-26 07:17:22,005 [main] WARN - This is a warn message

@@ -1,0 +1,51 @@
+﻿<Configuration>
+    <CtrlDirectory>C:\\bvo\\ctrl</CtrlDirectory>
+	<OutputFileName>Bar_List</OutputFileName>
+	<OutputDirectory>C:\\BarAfterDueDateNotification\\output\\</OutputDirectory>
+	<StartHour>1</StartHour>
+	<IsPrepareReport>true</IsPrepareReport>
+	<IsSms>false</IsSms>
+	<IsWriteDB>true</IsWriteDB>
+	<Sms>Dear Subscriber, your connection will be barred after ? days. Please pay your dues for continued service.</Sms>	
+	<ConnectionUrlSqldb01>jdbc:sqlserver://sqldb01\\sql01:1433;DatabaseName=HRMS_INFO;user=fccs;Password=fccs121</ConnectionUrlSqldb01>
+	<ConnectionUrlSqldb02>jdbc:sqlserver://sqldb02\\sql02:1433;DatabaseName=BSI;user=dbfccs;Password=123</ConnectionUrlSqldb02>
+	<!--Sqlquery is used for write data in file and select all -->
+	<SqlQuery>
+	Select BSCODE, SUBSTR(MSISDN,4,10) AS MSISDN, CUSTCODE, CO_ID, CORPORATE_CODE,TOTAL_OVER_DUE, OVER_DUE_LOCAL, Over_DUE_IR, AVG_PAYMENT, AVG_INVOICE, LAST_INVOICE,REMARKS,REFRESH_TIME
+	FROM due_date_final_report where trunc(SYSDATE)=trunc(refresh_time) and 100>rownum
+	</SqlQuery>
+	<!--Query is used for get data from MySQL DB -->
+	<Query>SELECT [companyName],[name],[userId],[Zone],[Region] FROM [BSI].[dbo].[TBL_FCCS] WHERE MSISDN =</Query>
+	<!-- Query1 is used for insert data in a table for front end -->
+	<Query1>INSERT INTO DUE_DATE_FINAL_REPORT_FRONTEND (BSCODE, MSISDN, CO_ID, CORPORATE_CODE, TOTAL_OVER_DUE, OVER_DUE_LOCAL, OVER_DUE_IR, AVG_PAYMENT, AVG_INVOICE, LAST_INVOICE, REMARKS, CUSTCODE,  REFRESH_DATE) Select BSCODE, SUBSTR(MSISDN,4,10) AS MSISDN, CO_ID, CORPORATE_CODE,TOTAL_OVER_DUE, OVER_DUE_LOCAL, Over_DUE_IR, AVG_PAYMENT, AVG_INVOICE, LAST_INVOICE,REMARKS, CUSTCODE,  TRUNC(SYSDATE) AS REFRESH_DATE FROM DUE_DATE_FINAL_REPORT where trunc(SYSDATE)=trunc(refresh_time) and 100>rownum </Query1>
+	<!--Sqlquery1 is used for creating a result set-->
+	<SqlQuery1>Select BSCODE, MSISDN, REFRESH_DATE FROM DUE_DATE_FINAL_REPORT_FRONTEND WHERE TRUNC(SYSDATE) = trunc(REFRESH_DATE) and 100>rownum </SqlQuery1>
+	<DeleteQuery>DELETE FROM DUE_DATE_FINAL_REPORT_fntlog where trunc(SYSDATE-30)>=trunc(refresh_date)</DeleteQuery>
+	<LogQuery>insert into DUE_DATE_FINAL_REPORT_fntlog select * from DUE_DATE_FINAL_REPORT_frontend</LogQuery>
+	<TruncQuery>truncate table DUE_DATE_FINAL_REPORT_FRONTEND</TruncQuery>
+	<SmsTable>BL_SMS_REQUEST_TEST</SmsTable>
+	
+	<DataSource>
+		<Driver>oracle.jdbc.driver.OracleDriver</Driver>
+		<Url2>jdbc:oracle:thin:@10.10.18.42:1521:BSCSTEST</Url2>
+		<Url>jdbc:oracle:thin:@10.10.18.147:1521:prodbscs</Url>
+		<User>creditctlapp</User>
+		<Password>creditctlapp</Password>
+	</DataSource>
+	
+	<Email>
+		<Subject>Due date bar notification</Subject>
+		<From>monjurul.k@gpit.com</From>
+		<Body>
+		Dear Concern, 
+		Due date bar report data is attached. Please find the attachment.
+		
+		Thanks,
+		Md. Monjurul Islam Khan
+		</Body>
+		<To>monjurul.k@gpit.com,abaki@gpit.com</To>
+		<CC>monjurul.k@gpit.com</CC>
+		<IsEmail>false</IsEmail>
+	</Email>
+	
+</Configuration>

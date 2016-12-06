@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!--
+    Document   : XMLDocument.xml
+    Created on : May 30, 2013, 7:37 PM
+    Author     : monjurul.k
+    Description:
+        Purpose of the document follows.
+-->
+
+
+<root>
+
+    <OrderManagementRequest xmlns="http://gp.lta.com/1.0/schema/OrderManagement">
+        <OrderEntry-Orders>
+            <OperatorId>wsc</OperatorId>
+            <OrderId>5960cf7b-7921</OrderId>
+            <ContractId/>
+            <MSISDN>8801753078376</MSISDN>
+            <ConnectionType>Prepaid</ConnectionType>
+            <Channel>noncrm</Channel>
+            <HLRCode/>
+            <CustomerId/>
+            <SIMSerialNum>8801753078376</SIMSerialNum>
+            <OrderDate>2013-06-04T09:14:44</OrderDate>
+            <SecurityCode>1001</SecurityCode>
+            <ListOfOrderEntry-LineItems>
+                <OrderEntry-LineItems>
+                    <LineItemId>1f7c49ab-8d85</LineItemId>
+                    <ActionCode>Activation</ActionCode>
+                    <PartNumber>campaign</PartNumber>
+                    <Remarks/>
+                    <ProductTypeCode>Others</ProductTypeCode>
+                    <IsDirNumRequired/>
+                    <Status>Pending</Status>
+                    <ListOfOrderItemXa>
+                        <OrderItemXa>
+                            <ActionCode/>
+                            <DateValue/>
+                            <Name>1406TE92</Name>
+                            <NumericValue/>
+                            <PreviousDateValue/>
+                            <PreviousTextValue/>
+                            <TextValue>1406TE92-A1</TextValue>
+                        </OrderItemXa>
+                        <OrderItemXa>
+                            <ActionCode/>
+                            <DateValue/>
+                            <Name>ServiceAction</Name>
+                            <NumericValue/>
+                            <PreviousDateValue/>
+                            <PreviousTextValue/>
+                            <TextValue>Activate</TextValue>
+                        </OrderItemXa>
+                    </ListOfOrderItemXa>
+                </OrderEntry-LineItems>
+            </ListOfOrderEntry-LineItems>
+        </OrderEntry-Orders>
+    </OrderManagementRequest>
+</root>
+

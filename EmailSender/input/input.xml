@@ -1,0 +1,41 @@
+<Configuration>
+	<Email>
+		<Subject>Test Report</Subject>
+		<From>monjurul.k@gpit.com</From>
+		<Body>
+		Dear Concern, 
+		You desired report data is attached. Please find the attachment.
+		
+		Thanks,
+		Monjurul
+		</Body>
+		<To>monjurul.k@gpit.com</To>
+		<CC>monjurul.khan@gmail.com</CC>
+		<IsEmail>true</IsEmail>
+	</Email>
+	<OutputFileName>report1</OutputFileName>
+	<OutputDirectory>C:\\EmailSender\\output\\</OutputDirectory>
+	<IsLocal>true</IsLocal>
+	<SqlQuery>
+	select serviceid,round(avg(sec)) from
+	(
+	select to_number(substr(date_diff,instr(date_diff,':',1,2)+1,2))+
+	to_number(substr(date_diff,instr(date_diff,':',1,1)+1,2))*60 sec,date_diff,serviceid
+	from
+	(
+	select (RESPONSE_DELIVERY_DATE-REQUEST_RECEIVED_DATE) date_diff,       
+			RESPONSE_RECEIVE_DATE,RESPONSE_DELIVERY_DATE,serviceid 
+			from order_data
+	where response_delivery_date>=trunc(sysdate-5)
+	and sourcesystem='crm'
+	and serviceid in('sim','callblock','mca','edge','outgoing_bar','incoming_bar','fnf')
+	)
+	) group by serviceid
+	</SqlQuery>
+	<DataSource>
+		<Driver>oracle.jdbc.driver.OracleDriver</Driver>
+		<Url>jdbc:oracle:thin:@(DESCRIPTION = (ADDRESS = (PROTOCOL = TCP) (HOST = gpgrid01-vip) (PORT = 1521))(ADDRESS = (PROTOCOL = TCP)(HOST = gpgrid02-vip) (PORT = 1521))(CONNECT_DATA = (SERVER = DEDICATED) (SERVICE_NAME = GPESB)))</Url>
+		<User>OSB_DATA</User>
+		<Password>Osbdata121</Password>
+	</DataSource>
+</Configuration>

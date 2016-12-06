@@ -1,0 +1,25 @@
+﻿<Configuration>
+	<OutputFileName>barred_After_10days</OutputFileName>
+	<OutputDirectory>C:\\BarAfterDueDateNotification\\output\\</OutputDirectory>
+	<IsLocal>true</IsLocal>
+	<IsSms>false</IsSms>
+	<Sms>Dear Subscriber, your connection will be barred after 10 days. Please pay your dues soon</Sms>
+	<IsWriteDB>true</IsWriteDB>
+	<ConnectionUrlSqldb01>jdbc:sqlserver://sqldb01\\sql01:1433;DatabaseName=HRMS_INFO;user=fccs;Password=fccs121</ConnectionUrlSqldb01>
+	<ConnectionUrlSqldb02>jdbc:sqlserver://sqldb02\\sql02:1433;DatabaseName=BSI;user=dbfccs;Password=123</ConnectionUrlSqldb02>
+	<SqlQuery>
+	Select BSCODE, SUBSTR(MSISDN,4,10) AS MSISDN, CUSTCODE, CO_ID, CORPORATE_CODE,TOTAL_OVER_DUE, OVER_DUE_LOCAL, Over_DUE_IR, AVG_PAYMENT, AVG_INVOICE, LAST_INVOICE,REMARKS
+	FROM DUE_DATE_FINAL_REPORT 
+	WHERE TRUNC(SYSDATE+10)>=LBC_DATE+DUEDATE_LIMIT AND TOTAL_OVER_DUE > 0 AND ( LOCAL_BAR_STATUS = 'D' OR LOCAL_BAR_STATUS = NULL)
+	</SqlQuery>
+	<Query>SELECT [companyName],[name],[employeeId],[Zone],[Region] FROM [BSI].[dbo].[TBL_FCCS] WHERE MSISDN =</Query>
+	<Query1>INSERT INTO DUE_DATE_FINAL_REPORT_FRONTEND (BSCODE, MSISDN, CO_ID, CORPORATE_CODE, TOTAL_OVER_DUE, OVER_DUE_LOCAL, OVER_DUE_IR, AVG_PAYMENT, AVG_INVOICE, LAST_INVOICE, REMARKS, CUSTCODE, BAR_DAYS, REFRESH_DATE) Select BSCODE, SUBSTR(MSISDN,4,10) AS MSISDN, CO_ID, CORPORATE_CODE,TOTAL_OVER_DUE, OVER_DUE_LOCAL, Over_DUE_IR, AVG_PAYMENT, AVG_INVOICE, LAST_INVOICE,REMARKS, CUSTCODE, '10' AS BAR_DAYS, TRUNC(SYSDATE) AS REFRESH_DATE FROM DUE_DATE_FINAL_REPORT WHERE TRUNC(SYSDATE+10)>=LBC_DATE+DUEDATE_LIMIT AND TOTAL_OVER_DUE > 0 AND ( LOCAL_BAR_STATUS = 'D' OR LOCAL_BAR_STATUS = NULL)</Query1>
+	
+	<SqlQuery1>Select BSCODE, MSISDN, REFRESH_DATE FROM DUE_DATE_FINAL_REPORT_FRONTEND WHERE TRUNC(SYSDATE) =REFRESH_DATE AND BAR_DAYS = 10	</SqlQuery1>
+	<DataSource>
+		<Driver>oracle.jdbc.driver.OracleDriver</Driver>
+		<Url>jdbc:oracle:thin:@10.10.18.147:1521:prodbscs</Url>
+		<User>creditctlapp</User>
+		<Password>creditctlapp</Password>
+	</DataSource>
+</Configuration>

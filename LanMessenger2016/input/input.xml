@@ -1,0 +1,26 @@
+<Configuration>
+	<OutputFileName>report1</OutputFileName>
+	<OutputDirectory>C:\\JavaPrograms\\MultipleSmsAnalyser\\output\\</OutputDirectory>
+	<IsLocal>true</IsLocal>
+	<SqlQuery>
+	 select * from USER
+	</SqlQuery>
+	<CreateTableQuery>
+	CREATE TABLE IF NOT EXISTS USER (ID INT PRIMARY KEY NOT NULL, NAME VARCHAR NOT NULL, PASSWORD VARCHAR NOT NULL, IP VARCHAR NOT NULL)
+	</CreateTableQuery>
+
+	<DataSource>
+		<Driver>oracle.jdbc.driver.OracleDriver</Driver>
+		<Url>jdbc:sqlite:lanmessenger.db</Url>
+		<User>none</User>
+		<Password>none</Password>
+	</DataSource>
+	<SqlQuery1>
+	select count(ID) from WSC_SMS_MMS_LOG
+	where msisdn like '?' and user_id like '#'
+	and trunc(request_date)>='7-July-2013' 
+	and '13-Jul-2013'>=trunc(request_date)
+	</SqlQuery1>
+	
+	
+</Configuration>
